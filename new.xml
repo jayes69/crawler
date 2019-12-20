@@ -18,6 +18,98 @@
       <d2p1:WikifolioTrade>
         <d2p1:Cash i:nil="true"/>
         <d2p1:CorporateActionType i:nil="true"/>
+        <d2p1:ExecutionDate>2019-12-20T13:28:15+01:00</d2p1:ExecutionDate>
+        <d2p1:ExecutionPrice>9.000</d2p1:ExecutionPrice>
+        <d2p1:Id>1e87ba36-659d-46e8-accd-e7e5e0d428cb</d2p1:Id>
+        <d2p1:InvestmentUniverseGroupId>414afbc2-0e2a-4fce-87fb-41e53b94f125</d2p1:InvestmentUniverseGroupId>
+        <d2p1:IsLeveraged>false</d2p1:IsLeveraged>
+        <d2p1:IsMainOrder>true</d2p1:IsMainOrder>
+        <d2p1:Isin>DE000A2G9M17</d2p1:Isin>
+        <d2p1:Issuer>0</d2p1:Issuer>
+        <d2p1:Link>/de/de/s/de000a2g9m17?wikifolio=wf00esi893</d2p1:Link>
+        <d2p1:LinkParameter>DE000A2G9M17</d2p1:LinkParameter>
+        <d2p1:MainOrderId i:nil="true"/>
+        <d2p1:Name>CAPSENSIXX AG  INH O.N.</d2p1:Name>
+        <d2p1:OpenLinkInSameTab>true</d2p1:OpenLinkInSameTab>
+        <d2p1:OrderType>SellLimit</d2p1:OrderType>
+        <d2p1:Performance>0.19205298013245</d2p1:Performance>
+        <d2p1:SecurityType>620</d2p1:SecurityType>
+        <d2p1:SubOrders/>
+        <d2p1:UnderlyingConcerned i:nil="true"/>
+        <d2p1:Weightage>0.07256635016232</d2p1:Weightage>
+      </d2p1:WikifolioTrade>
+      <d2p1:WikifolioTrade>
+        <d2p1:Cash i:nil="true"/>
+        <d2p1:CorporateActionType i:nil="true"/>
+        <d2p1:ExecutionDate>2019-12-20T13:19:11+01:00</d2p1:ExecutionDate>
+        <d2p1:ExecutionPrice>7.450</d2p1:ExecutionPrice>
+        <d2p1:Id>525f9349-4ce4-466c-9f08-46ed85e79d75</d2p1:Id>
+        <d2p1:InvestmentUniverseGroupId>414afbc2-0e2a-4fce-87fb-41e53b94f125</d2p1:InvestmentUniverseGroupId>
+        <d2p1:IsLeveraged>false</d2p1:IsLeveraged>
+        <d2p1:IsMainOrder>true</d2p1:IsMainOrder>
+        <d2p1:Isin>DE000A2G9M17</d2p1:Isin>
+        <d2p1:Issuer>0</d2p1:Issuer>
+        <d2p1:Link>/de/de/s/de000a2g9m17?wikifolio=wf00esi893</d2p1:Link>
+        <d2p1:LinkParameter>DE000A2G9M17</d2p1:LinkParameter>
+        <d2p1:MainOrderId i:nil="true"/>
+        <d2p1:Name>CAPSENSIXX AG  INH O.N.</d2p1:Name>
+        <d2p1:OpenLinkInSameTab>true</d2p1:OpenLinkInSameTab>
+        <d2p1:OrderType>Buy</d2p1:OrderType>
+        <d2p1:Performance i:nil="true"/>
+        <d2p1:SecurityType>620</d2p1:SecurityType>
+        <d2p1:SubOrders/>
+        <d2p1:UnderlyingConcerned i:nil="true"/>
+        <d2p1:Weightage>0.03598156337847</d2p1:Weightage>
+      </d2p1:WikifolioTrade>
+      <d2p1:WikifolioTrade>
+        <d2p1:Cash i:nil="true"/>
+        <d2p1:CorporateActionType i:nil="true"/>
+        <d2p1:ExecutionDate>2019-12-20T13:15:31+01:00</d2p1:ExecutionDate>
+        <d2p1:ExecutionPrice>5.520</d2p1:ExecutionPrice>
+        <d2p1:Id>56abc0c0-5112-4156-8dd3-6d761029d85a</d2p1:Id>
+        <d2p1:InvestmentUniverseGroupId>414afbc2-0e2a-4fce-87fb-41e53b94f125</d2p1:InvestmentUniverseGroupId>
+        <d2p1:IsLeveraged>false</d2p1:IsLeveraged>
+        <d2p1:IsMainOrder>true</d2p1:IsMainOrder>
+        <d2p1:Isin>DE000A0MZ4B0</d2p1:Isin>
+        <d2p1:Issuer>0</d2p1:Issuer>
+        <d2p1:Link>/de/de/s/de000a0mz4b0?wikifolio=wf00esi893</d2p1:Link>
+        <d2p1:LinkParameter>DE000A0MZ4B0</d2p1:LinkParameter>
+        <d2p1:MainOrderId i:nil="true"/>
+        <d2p1:Name>DELIGNIT AG</d2p1:Name>
+        <d2p1:OpenLinkInSameTab>true</d2p1:OpenLinkInSameTab>
+        <d2p1:OrderType>SellLimit</d2p1:OrderType>
+        <d2p1:Performance>0.04150943396226</d2p1:Performance>
+        <d2p1:SecurityType>620</d2p1:SecurityType>
+        <d2p1:SubOrders/>
+        <d2p1:UnderlyingConcerned i:nil="true"/>
+        <d2p1:Weightage>0.03558378814777</d2p1:Weightage>
+      </d2p1:WikifolioTrade>
+      <d2p1:WikifolioTrade>
+        <d2p1:Cash i:nil="true"/>
+        <d2p1:CorporateActionType i:nil="true"/>
+        <d2p1:ExecutionDate>2019-12-20T12:23:56+01:00</d2p1:ExecutionDate>
+        <d2p1:ExecutionPrice>23.000</d2p1:ExecutionPrice>
+        <d2p1:Id>c6f4b165-23f2-4cd4-883b-cab71f2fe7b4</d2p1:Id>
+        <d2p1:InvestmentUniverseGroupId>414afbc2-0e2a-4fce-87fb-41e53b94f125</d2p1:InvestmentUniverseGroupId>
+        <d2p1:IsLeveraged>false</d2p1:IsLeveraged>
+        <d2p1:IsMainOrder>true</d2p1:IsMainOrder>
+        <d2p1:Isin>DE0007775231</d2p1:Isin>
+        <d2p1:Issuer>0</d2p1:Issuer>
+        <d2p1:Link>/de/de/s/de0007775231?wikifolio=wf00esi893</d2p1:Link>
+        <d2p1:LinkParameter>DE0007775231</d2p1:LinkParameter>
+        <d2p1:MainOrderId i:nil="true"/>
+        <d2p1:Name>WEST+GETALIT VZ</d2p1:Name>
+        <d2p1:OpenLinkInSameTab>true</d2p1:OpenLinkInSameTab>
+        <d2p1:OrderType>BuyLimit</d2p1:OrderType>
+        <d2p1:Performance i:nil="true"/>
+        <d2p1:SecurityType>620</d2p1:SecurityType>
+        <d2p1:SubOrders/>
+        <d2p1:UnderlyingConcerned i:nil="true"/>
+        <d2p1:Weightage>0.02970693468637</d2p1:Weightage>
+      </d2p1:WikifolioTrade>
+      <d2p1:WikifolioTrade>
+        <d2p1:Cash i:nil="true"/>
+        <d2p1:CorporateActionType i:nil="true"/>
         <d2p1:ExecutionDate>2019-12-18T13:51:53+01:00</d2p1:ExecutionDate>
         <d2p1:ExecutionPrice>20.340</d2p1:ExecutionPrice>
         <d2p1:Id>b92c8398-7263-4f3c-9d0c-311ffa4d365c</d2p1:Id>
@@ -153,99 +245,7 @@
         <d2p1:UnderlyingConcerned i:nil="true"/>
         <d2p1:Weightage>0.05235222406397</d2p1:Weightage>
       </d2p1:WikifolioTrade>
-      <d2p1:WikifolioTrade>
-        <d2p1:Cash i:nil="true"/>
-        <d2p1:CorporateActionType i:nil="true"/>
-        <d2p1:ExecutionDate>2019-12-17T11:40:23+01:00</d2p1:ExecutionDate>
-        <d2p1:ExecutionPrice>14.370</d2p1:ExecutionPrice>
-        <d2p1:Id>8142e00d-a528-48e2-84a5-735bc5c5e6a2</d2p1:Id>
-        <d2p1:InvestmentUniverseGroupId>414afbc2-0e2a-4fce-87fb-41e53b94f125</d2p1:InvestmentUniverseGroupId>
-        <d2p1:IsLeveraged>false</d2p1:IsLeveraged>
-        <d2p1:IsMainOrder>true</d2p1:IsMainOrder>
-        <d2p1:Isin>DE0008019001</d2p1:Isin>
-        <d2p1:Issuer>0</d2p1:Issuer>
-        <d2p1:Link>/de/de/s/de0008019001?wikifolio=wf00esi893</d2p1:Link>
-        <d2p1:LinkParameter>DE0008019001</d2p1:LinkParameter>
-        <d2p1:MainOrderId i:nil="true"/>
-        <d2p1:Name>DEUTSCHE PFANDBRIEFBANK AG</d2p1:Name>
-        <d2p1:OpenLinkInSameTab>true</d2p1:OpenLinkInSameTab>
-        <d2p1:OrderType>Sell</d2p1:OrderType>
-        <d2p1:Performance>0.02350427350427</d2p1:Performance>
-        <d2p1:SecurityType>620</d2p1:SecurityType>
-        <d2p1:SubOrders/>
-        <d2p1:UnderlyingConcerned i:nil="true"/>
-        <d2p1:Weightage>0.04604649007326</d2p1:Weightage>
-      </d2p1:WikifolioTrade>
-      <d2p1:WikifolioTrade>
-        <d2p1:Cash i:nil="true"/>
-        <d2p1:CorporateActionType i:nil="true"/>
-        <d2p1:ExecutionDate>2019-12-17T11:39:39+01:00</d2p1:ExecutionDate>
-        <d2p1:ExecutionPrice>64.000</d2p1:ExecutionPrice>
-        <d2p1:Id>73e02baf-fe7a-44e6-a6de-226d2dfba702</d2p1:Id>
-        <d2p1:InvestmentUniverseGroupId>414afbc2-0e2a-4fce-87fb-41e53b94f125</d2p1:InvestmentUniverseGroupId>
-        <d2p1:IsLeveraged>false</d2p1:IsLeveraged>
-        <d2p1:IsMainOrder>true</d2p1:IsMainOrder>
-        <d2p1:Isin>DE0006083405</d2p1:Isin>
-        <d2p1:Issuer>0</d2p1:Issuer>
-        <d2p1:Link>/de/de/s/de0006083405?wikifolio=wf00esi893</d2p1:Link>
-        <d2p1:LinkParameter>DE0006083405</d2p1:LinkParameter>
-        <d2p1:MainOrderId i:nil="true"/>
-        <d2p1:Name>HORNBACH HOLD.ST O.N.</d2p1:Name>
-        <d2p1:OpenLinkInSameTab>true</d2p1:OpenLinkInSameTab>
-        <d2p1:OrderType>Sell</d2p1:OrderType>
-        <d2p1:Performance>0.11498257839721</d2p1:Performance>
-        <d2p1:SecurityType>620</d2p1:SecurityType>
-        <d2p1:SubOrders/>
-        <d2p1:UnderlyingConcerned i:nil="true"/>
-        <d2p1:Weightage>0.05126283659931</d2p1:Weightage>
-      </d2p1:WikifolioTrade>
-      <d2p1:WikifolioTrade>
-        <d2p1:Cash i:nil="true"/>
-        <d2p1:CorporateActionType i:nil="true"/>
-        <d2p1:ExecutionDate>2019-12-17T11:35:44+01:00</d2p1:ExecutionDate>
-        <d2p1:ExecutionPrice>23.160</d2p1:ExecutionPrice>
-        <d2p1:Id>b599f69f-a89d-411e-a633-51dd3b8d5b34</d2p1:Id>
-        <d2p1:InvestmentUniverseGroupId>414afbc2-0e2a-4fce-87fb-41e53b94f125</d2p1:InvestmentUniverseGroupId>
-        <d2p1:IsLeveraged>false</d2p1:IsLeveraged>
-        <d2p1:IsMainOrder>true</d2p1:IsMainOrder>
-        <d2p1:Isin>DE0005545503</d2p1:Isin>
-        <d2p1:Issuer>0</d2p1:Issuer>
-        <d2p1:Link>/de/de/s/de0005545503?wikifolio=wf00esi893</d2p1:Link>
-        <d2p1:LinkParameter>DE0005545503</d2p1:LinkParameter>
-        <d2p1:MainOrderId i:nil="true"/>
-        <d2p1:Name>1+1 DRILLISCH AG O.N.</d2p1:Name>
-        <d2p1:OpenLinkInSameTab>true</d2p1:OpenLinkInSameTab>
-        <d2p1:OrderType>BuyLimit</d2p1:OrderType>
-        <d2p1:Performance i:nil="true"/>
-        <d2p1:SecurityType>620</d2p1:SecurityType>
-        <d2p1:SubOrders/>
-        <d2p1:UnderlyingConcerned i:nil="true"/>
-        <d2p1:Weightage>0.02227497774755</d2p1:Weightage>
-      </d2p1:WikifolioTrade>
-      <d2p1:WikifolioTrade>
-        <d2p1:Cash i:nil="true"/>
-        <d2p1:CorporateActionType i:nil="true"/>
-        <d2p1:ExecutionDate>2019-12-17T10:54:13+01:00</d2p1:ExecutionDate>
-        <d2p1:ExecutionPrice>22.700</d2p1:ExecutionPrice>
-        <d2p1:Id>dee32437-f210-490b-b455-6a581144a0a8</d2p1:Id>
-        <d2p1:InvestmentUniverseGroupId>414afbc2-0e2a-4fce-87fb-41e53b94f125</d2p1:InvestmentUniverseGroupId>
-        <d2p1:IsLeveraged>false</d2p1:IsLeveraged>
-        <d2p1:IsMainOrder>true</d2p1:IsMainOrder>
-        <d2p1:Isin>DE0006084403</d2p1:Isin>
-        <d2p1:Issuer>0</d2p1:Issuer>
-        <d2p1:Link>/de/de/s/de0006084403?wikifolio=wf00esi893</d2p1:Link>
-        <d2p1:LinkParameter>DE0006084403</d2p1:LinkParameter>
-        <d2p1:MainOrderId i:nil="true"/>
-        <d2p1:Name>HORNBACH-BAUMARKT O.N.</d2p1:Name>
-        <d2p1:OpenLinkInSameTab>true</d2p1:OpenLinkInSameTab>
-        <d2p1:OrderType>Buy</d2p1:OrderType>
-        <d2p1:Performance i:nil="true"/>
-        <d2p1:SecurityType>620</d2p1:SecurityType>
-        <d2p1:SubOrders/>
-        <d2p1:UnderlyingConcerned i:nil="true"/>
-        <d2p1:Weightage>0.02910543482568</d2p1:Weightage>
-      </d2p1:WikifolioTrade>
     </d2p1:Orders>
-    <d2p1:PageCount>399</d2p1:PageCount>
+    <d2p1:PageCount>400</d2p1:PageCount>
   </TradeHistory>
 </WikifolioDetailTradeHistoryModel>

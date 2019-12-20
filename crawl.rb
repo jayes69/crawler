@@ -45,6 +45,7 @@ def build_body(event)
 end
 
 def translate_type(type)
+  return if type.nil?
   case type
     when 'Buy'
       type = "Quote Kauf"
@@ -87,10 +88,14 @@ eventbus.subscribe do |event|
     delivery_method :smtp, options
   end
   puts "Create new mail"
-  type = translate_type(event['type'])
+  if !event['type'].nil?
+    type = translate_type(event['type']) 
+  else
+    type = ""
+  end
   mail = Mail.deliver do
     from    "test@medicomit.de"
-    to      "js@net-up.de"
+    to      "tobias.schneider@net-up.de"
     subject "Börsenbriefempfehlungen nutzen: " + type
     body    build_body(event)
   end
