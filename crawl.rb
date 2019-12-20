@@ -101,32 +101,17 @@ end
 agent = Mechanize.new
 agent.user_agent_alias = 'Windows Chrome'
 
-agent.get('https://www.wikifolio.com/de/de/home-e') do |page|
-  agent.cookies.each do |cookie|
-    puts cookie.to_s
-  end
+time = Time.now().to_i*1000
+
+agent.get("https://www.wikifolio.com/dynamic/de/de/login/login?ReturnUrl=/de/de/home-e&_=#{time}") do |page|
   puts "Go to Login"
-  agent.click('//html/body/div[2]/div[1]/div/span/div/div/div/div[2]/div/div/div/div/div[3]/div')
-  agent.click('//html/body/div[2]/header/div[2]/div/div/nav/div[3]/a[1]/span')
   folio_form = page.form
   puts "Setting email"
-  folio_form.Email = 'support@net-up.de'
+  folio_form.Username = 'support@net-up.de'
   puts "Setting password"
   folio_form.Password = 'Kj23d9MwcQ7rg'
   puts "Login"
   agent.submit(folio_form)
-  page = agent.get("https://www.wikifolio.com/de/de/w/wf00esi893")
-  sleep(10)
-  page = agent.get("https://www.wikifolio.com/de/de/w/wf00esi893")
-  sleep(5)
-  agent.cookies.each do |cookie|
-    puts cookie.to_s
-  end
-  cookie = Mechanize::Cookie.new(name: 'theAuthCookie', value: 'E306D781579ECE947B236A601DEA3A76C67E6EE02C9948A1F86DD93FB905BB51B3DF218E0A53F319436CE62DE82834ECC25A9F94E5ED6E2236DAAFC7EC4002D661CAB9B9CBC100CCB729E1542243D794FEB666134C307B0D35166EE69850E5E35489BEEA654E31C11BBCA30CD95BF30DF78BAC869556DA2D9BB64F213C9206B2E6E79B0645E5BA0A9359F813DC7109B541D5E3AAD5783E7A9B4CAFD535246333F1790E37FD51ED3CE5E633E42D6516BB3EFD1F3C72FBF936E9ABD5076325B54F5C9508AFFF106156BCF179BB532B7075E5EC131D982DC697F426EE14A94ECF22C2B3D756F4224B584B04EA08D27F1E53395551C1410399D4B7BAB80359E36AB31E25D540D945055AF025489D52A28EE7FC01706458005DB76DE752D0240E637DB32E4DD46C5913753251567E792252545E821E6A347AA01AE5C99BCD6DA4C19DE64E8C34790717F818792708DEAE136B9633FBFF3D133228C7C028A3F2C7F4DE7A0C1D2CBE7CE7537B536FE2BE7025AA69C6B65F9D383D75C4E41ECF1323C23604A301F76D87DEC6C58C4534B34C6E04C0103F301DD38120081E78C573F1FD8426E7CB582BADA0A300C966B8E89B9CD8AF0303B9DAC3B48B0CD7A8339361DB6C2FBCB601CCC86DA95938C0B165CF4FFA90DAB97B944E2D0066B64AABE2B1D0A5AB9F79666ADF9F2BFBD9760DD8982018F0F4A69DE8414BC9678E87DDF4C98C304734FDB90E31B3FD6AB88881EF31CDDBC2DDF9E702FC95C0C057194D284A4166CD08A9863D38E910BC003EA08D200A068E922897BB8772B8A7E3BC9CA536B247F13FFFBD')
-  cookie.domain = "www.wikifolio.com"
-  cookie.path = "/"
-  agent.cookie_jar.add(agent.history.last.uri, cookie)
-  agent.cookie_jar.save("cookies.yaml", session: true)
 
   #first time only?
   #xml = get_xml(agent)
