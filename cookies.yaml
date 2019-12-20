@@ -3,7 +3,7 @@ www.wikifolio.com:
   "/":
     ASP.NET_SessionId: !ruby/object:Mechanize::Cookie
       name: ASP.NET_SessionId
-      value: jpk55s4533rfaav3ennpozbo
+      value: 3krcgw5tz44dzwrwaws3xurs
       domain: www.wikifolio.com
       for_domain: false
       path: "/"
@@ -11,11 +11,11 @@ www.wikifolio.com:
       httponly: true
       expires: 
       max_age: 
-      created_at: 2019-12-20 09:59:54.829606000 +01:00
-      accessed_at: &2 2019-12-20 10:00:05.132992000 +01:00
+      created_at: 2019-12-20 10:44:43.364126000 +01:00
+      accessed_at: &2 2019-12-20 10:44:54.219461000 +01:00
     Visitor: !ruby/object:Mechanize::Cookie
       name: Visitor
-      value: 5157f153-e21e-4455-b886-7800de81d430
+      value: 837697a7-daa3-469c-827f-0d4606e735c8
       domain: www.wikifolio.com
       for_domain: false
       path: "/"
@@ -23,11 +23,11 @@ www.wikifolio.com:
       httponly: false
       expires: Sat, 19 Dec 2020 23:00:00 GMT
       max_age: 
-      created_at: &1 2019-12-20 10:00:05.465767000 +01:00
+      created_at: &1 2019-12-20 10:44:54.472984000 +01:00
       accessed_at: *1
     RemarketingRandomGroup: !ruby/object:Mechanize::Cookie
       name: RemarketingRandomGroup
-      value: '65'
+      value: '91'
       domain: www.wikifolio.com
       for_domain: false
       path: "/"
@@ -35,11 +35,11 @@ www.wikifolio.com:
       httponly: false
       expires: Sat, 19 Dec 2020 23:00:00 GMT
       max_age: 
-      created_at: 2019-12-20 09:59:54.829606000 +01:00
+      created_at: 2019-12-20 10:44:43.364126000 +01:00
       accessed_at: *2
     __RequestVerificationToken: !ruby/object:Mechanize::Cookie
       name: __RequestVerificationToken
-      value: mcen7wtEIi-rMOa4_DJqIJCuPCAg8-nVeB8hbpnCMwaCNdzfinvbVwpKSbh1RO895hd_L1QQSgHvo9NpsZJxlO6l2iA1
+      value: ZkyqHxFxzr1GQkju3kjHZ_shijjmclsq3FxABOEnprMifZWrxQ7OmtWJJuMKaMvO2tOfZruCSilWEWwWQGEscrCuiBU1
       domain: www.wikifolio.com
       for_domain: false
       path: "/"
@@ -47,7 +47,7 @@ www.wikifolio.com:
       httponly: true
       expires: 
       max_age: 
-      created_at: 2019-12-20 09:59:54.829606000 +01:00
+      created_at: 2019-12-20 10:44:43.364126000 +01:00
       accessed_at: *2
     _wf_visited_wikifolios: !ruby/object:Mechanize::Cookie
       name: _wf_visited_wikifolios
@@ -59,7 +59,7 @@ www.wikifolio.com:
       httponly: true
       expires: 
       max_age: 
-      created_at: &3 2019-12-20 10:00:05.466767000 +01:00
+      created_at: &3 2019-12-20 10:44:54.472984000 +01:00
       accessed_at: *3
     theAuthCookie: !ruby/object:Mechanize::Cookie
       name: theAuthCookie
@@ -71,5 +71,5 @@ www.wikifolio.com:
       httponly: false
       expires: 
       max_age: 
-      created_at: &4 2019-12-20 10:00:10.501554000 +01:00
+      created_at: &4 2019-12-20 10:44:59.507826000 +01:00
       accessed_at: *4
