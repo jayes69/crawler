@@ -90,7 +90,7 @@ eventbus.subscribe do |event|
   type = translate_type(event['type'])
   mail = Mail.deliver do
     from    "test@medicomit.de"
-    to      "tobias.schneider@net-up.de"
+    to      "js@net-up.de"
     subject "Börsenbriefempfehlungen nutzen: " + type
     body    build_body(event)
   end
