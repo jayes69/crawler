@@ -57,8 +57,8 @@ def translate_type(type)
       type = "Quote Verkauf"
     when 'SellLimit'
       type = "Limit Verkauf"
-    when 'BuyStopLimit'
-      type = "Stop-Limit Verkauf"
+    when 'SellStopLimit'
+      type = 'Stop-Limit Verkauf'
     else
       type = type + ' (nicht übersetzt)'
     end
