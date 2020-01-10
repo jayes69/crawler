@@ -34,6 +34,7 @@ end
 def build_body(event)
   return if !event.is_a?(Hash)
   type = translate_type(event['type'])
+
   body = "Name: #{event['name']}"                    if !event['name'].nil?
   body << " #{event['isin']}"                        if !event['isin'].nil?
   body << ", Typ: #{type}"                           if !event['type'].nil?
@@ -95,7 +96,7 @@ eventbus.subscribe do |event|
   end
   mail = Mail.deliver do
     from    "test@medicomit.de"
-    to      "js@net-up.de"
+    to      "tobias.schneider@net-up.de" #"js@net-up.de"
     subject "Börsenbriefempfehlungen nutzen: " + type
     body    build_body(event)
   end
@@ -118,7 +119,7 @@ agent.get("https://www.wikifolio.com/dynamic/de/de/login/login?ReturnUrl=/de/de/
   puts "Login"
   agent.submit(folio_form)
 
-  #first time only?
+  #first time only
   #xml = get_xml(agent)
   #File.open('old.xml', "w") do |f|
   #  f.write(xml)
@@ -166,10 +167,10 @@ agent.get("https://www.wikifolio.com/dynamic/de/de/login/login?ReturnUrl=/de/de/
           info_hash['price'] = price
         elsif !(weightage = /Weightage>(.*?)</.match(line.to_s)).nil?
           weightage = weightage[1]
-          info_hash['weightage'] = weightage
+          info_hash['weightage'] = (weightage.to_f*100).round(2)
         elsif !(performance = /Performance>(.*?)</.match(line.to_s)).nil?
           performance = performance[1]
-          info_hash['performance'] = performance
+          info_hash['performance'] = (performance.to_f*100).round(2)
         end
       end
     end
@@ -180,9 +181,6 @@ agent.get("https://www.wikifolio.com/dynamic/de/de/login/login?ReturnUrl=/de/de/
     File.open('old.xml', "w") do |f|
       f.write(xml)
     end
-
-    #delete diff
-    #File.open('diff.xml', 'w') {|file| file.truncate(0) }
 
     puts "NEW INFO " + Time.now.to_s
   end
