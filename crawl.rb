@@ -114,7 +114,7 @@ eventbus.subscribe do |event|
   
   mail = Mail.deliver do
     from    "test@medicomit.de"
-    to      "js@net-up.de"
+    to      "tobias.schneider@net-up.de"
     subject build_subject(event)
     body    build_body(event)
   end
