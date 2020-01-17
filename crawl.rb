@@ -177,15 +177,15 @@ agent.get("https://www.wikifolio.com/dynamic/de/de/login/login?ReturnUrl=/de/de/
     diff_s = diff.to_s(:html)
     diff_a = diff.to_a
 
-    #write down diff
-    File.open("./pages/#{name}/diff.xml", "w") do |f|
-      f.write(diff_s)
-    end
-
     if (diff_s == '<div class="diff"></div>')
       puts "NO NEW INFO " + Time.now.to_s
     else
       
+      #write down diff
+      File.open("./pages/#{name}/diff.xml", "w") do |f|
+        f.write(diff_s)
+      end
+
       info_hash = {}
       page_name = get_page_name(url)
       info_hash['page_name'] = page_name
