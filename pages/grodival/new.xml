@@ -18,170 +18,32 @@
       <d2p1:WikifolioTrade>
         <d2p1:Cash i:nil="true"/>
         <d2p1:CorporateActionType i:nil="true"/>
-        <d2p1:ExecutionDate>2020-01-10T11:38:18+01:00</d2p1:ExecutionDate>
-        <d2p1:ExecutionPrice>134.500</d2p1:ExecutionPrice>
-        <d2p1:Id>b6f23a38-17f6-417b-9068-5682a8647f80</d2p1:Id>
-        <d2p1:InvestmentUniverseGroupId>414afbc2-0e2a-4fce-87fb-41e53b94f125</d2p1:InvestmentUniverseGroupId>
+        <d2p1:ExecutionDate>2020-01-17T15:35:42+01:00</d2p1:ExecutionDate>
+        <d2p1:ExecutionPrice>204.000</d2p1:ExecutionPrice>
+        <d2p1:Id>0fb93b78-c8f7-48c1-8d71-5162ef3d376f</d2p1:Id>
+        <d2p1:InvestmentUniverseGroupId>d917d5b5-aa2e-4200-8295-eb9fc26393e3</d2p1:InvestmentUniverseGroupId>
         <d2p1:IsLeveraged>false</d2p1:IsLeveraged>
         <d2p1:IsMainOrder>true</d2p1:IsMainOrder>
-        <d2p1:Isin>NL0000235190</d2p1:Isin>
+        <d2p1:Isin>US01609W1027</d2p1:Isin>
         <d2p1:Issuer>0</d2p1:Issuer>
-        <d2p1:Link>/de/de/s/nl0000235190?wikifolio=wf00smylel</d2p1:Link>
-        <d2p1:LinkParameter>NL0000235190</d2p1:LinkParameter>
+        <d2p1:Link>/de/de/s/us01609w1027?wikifolio=wf00smylel</d2p1:Link>
+        <d2p1:LinkParameter>US01609W1027</d2p1:LinkParameter>
         <d2p1:MainOrderId i:nil="true"/>
-        <d2p1:Name>AIRBUS</d2p1:Name>
-        <d2p1:OpenLinkInSameTab>true</d2p1:OpenLinkInSameTab>
-        <d2p1:OrderType>BuyLimit</d2p1:OrderType>
-        <d2p1:Performance i:nil="true"/>
-        <d2p1:SecurityType>620</d2p1:SecurityType>
-        <d2p1:SubOrders/>
-        <d2p1:UnderlyingConcerned i:nil="true"/>
-        <d2p1:Weightage>0.00237605203221</d2p1:Weightage>
-      </d2p1:WikifolioTrade>
-      <d2p1:WikifolioTrade>
-        <d2p1:Cash i:nil="true"/>
-        <d2p1:CorporateActionType i:nil="true"/>
-        <d2p1:ExecutionDate>2020-01-09T16:18:44+01:00</d2p1:ExecutionDate>
-        <d2p1:ExecutionPrice>50.000</d2p1:ExecutionPrice>
-        <d2p1:Id>35b01889-9f7f-4571-a86d-20301c8ac5f0</d2p1:Id>
-        <d2p1:InvestmentUniverseGroupId>414afbc2-0e2a-4fce-87fb-41e53b94f125</d2p1:InvestmentUniverseGroupId>
-        <d2p1:IsLeveraged>false</d2p1:IsLeveraged>
-        <d2p1:IsMainOrder>true</d2p1:IsMainOrder>
-        <d2p1:Isin>DE000A0HL8N9</d2p1:Isin>
-        <d2p1:Issuer>0</d2p1:Issuer>
-        <d2p1:Link>/de/de/s/de000a0hl8n9?wikifolio=wf00smylel</d2p1:Link>
-        <d2p1:LinkParameter>DE000A0HL8N9</d2p1:LinkParameter>
-        <d2p1:MainOrderId i:nil="true"/>
-        <d2p1:Name>2G ENERGY AG</d2p1:Name>
+        <d2p1:Name>ALIBABA</d2p1:Name>
         <d2p1:OpenLinkInSameTab>true</d2p1:OpenLinkInSameTab>
         <d2p1:OrderType>SellLimit</d2p1:OrderType>
-        <d2p1:Performance>0.42344706690827</d2p1:Performance>
+        <d2p1:Performance>0.24501471132659</d2p1:Performance>
         <d2p1:SecurityType>620</d2p1:SecurityType>
         <d2p1:SubOrders/>
         <d2p1:UnderlyingConcerned i:nil="true"/>
-        <d2p1:Weightage>0.00088322721063</d2p1:Weightage>
+        <d2p1:Weightage>0.00356982133531</d2p1:Weightage>
       </d2p1:WikifolioTrade>
       <d2p1:WikifolioTrade>
         <d2p1:Cash i:nil="true"/>
         <d2p1:CorporateActionType i:nil="true"/>
-        <d2p1:ExecutionDate>2020-01-09T13:52:54+01:00</d2p1:ExecutionDate>
-        <d2p1:ExecutionPrice>134.000</d2p1:ExecutionPrice>
-        <d2p1:Id>73b26661-1053-4698-89da-260ea1f4e936</d2p1:Id>
-        <d2p1:InvestmentUniverseGroupId>414afbc2-0e2a-4fce-87fb-41e53b94f125</d2p1:InvestmentUniverseGroupId>
-        <d2p1:IsLeveraged>false</d2p1:IsLeveraged>
-        <d2p1:IsMainOrder>true</d2p1:IsMainOrder>
-        <d2p1:Isin>NL0000235190</d2p1:Isin>
-        <d2p1:Issuer>0</d2p1:Issuer>
-        <d2p1:Link>/de/de/s/nl0000235190?wikifolio=wf00smylel</d2p1:Link>
-        <d2p1:LinkParameter>NL0000235190</d2p1:LinkParameter>
-        <d2p1:MainOrderId i:nil="true"/>
-        <d2p1:Name>AIRBUS</d2p1:Name>
-        <d2p1:OpenLinkInSameTab>true</d2p1:OpenLinkInSameTab>
-        <d2p1:OrderType>BuyLimit</d2p1:OrderType>
-        <d2p1:Performance i:nil="true"/>
-        <d2p1:SecurityType>620</d2p1:SecurityType>
-        <d2p1:SubOrders/>
-        <d2p1:UnderlyingConcerned i:nil="true"/>
-        <d2p1:Weightage>0.00237497065329</d2p1:Weightage>
-      </d2p1:WikifolioTrade>
-      <d2p1:WikifolioTrade>
-        <d2p1:Cash i:nil="true"/>
-        <d2p1:CorporateActionType i:nil="true"/>
-        <d2p1:ExecutionDate>2020-01-09T12:03:34+01:00</d2p1:ExecutionDate>
-        <d2p1:ExecutionPrice>134.500</d2p1:ExecutionPrice>
-        <d2p1:Id>369f6700-edc7-4a84-b764-c904e7df606e</d2p1:Id>
-        <d2p1:InvestmentUniverseGroupId>414afbc2-0e2a-4fce-87fb-41e53b94f125</d2p1:InvestmentUniverseGroupId>
-        <d2p1:IsLeveraged>false</d2p1:IsLeveraged>
-        <d2p1:IsMainOrder>true</d2p1:IsMainOrder>
-        <d2p1:Isin>NL0000235190</d2p1:Isin>
-        <d2p1:Issuer>0</d2p1:Issuer>
-        <d2p1:Link>/de/de/s/nl0000235190?wikifolio=wf00smylel</d2p1:Link>
-        <d2p1:LinkParameter>NL0000235190</d2p1:LinkParameter>
-        <d2p1:MainOrderId i:nil="true"/>
-        <d2p1:Name>AIRBUS</d2p1:Name>
-        <d2p1:OpenLinkInSameTab>true</d2p1:OpenLinkInSameTab>
-        <d2p1:OrderType>BuyLimit</d2p1:OrderType>
-        <d2p1:Performance i:nil="true"/>
-        <d2p1:SecurityType>620</d2p1:SecurityType>
-        <d2p1:SubOrders/>
-        <d2p1:UnderlyingConcerned i:nil="true"/>
-        <d2p1:Weightage>0.00238061548404</d2p1:Weightage>
-      </d2p1:WikifolioTrade>
-      <d2p1:WikifolioTrade>
-        <d2p1:Cash i:nil="true"/>
-        <d2p1:CorporateActionType i:nil="true"/>
-        <d2p1:ExecutionDate>2020-01-09T09:15:12+01:00</d2p1:ExecutionDate>
-        <d2p1:ExecutionPrice>134.940</d2p1:ExecutionPrice>
-        <d2p1:Id>79170490-0542-47d2-8b1e-f5ff648702c0</d2p1:Id>
-        <d2p1:InvestmentUniverseGroupId>414afbc2-0e2a-4fce-87fb-41e53b94f125</d2p1:InvestmentUniverseGroupId>
-        <d2p1:IsLeveraged>false</d2p1:IsLeveraged>
-        <d2p1:IsMainOrder>true</d2p1:IsMainOrder>
-        <d2p1:Isin>NL0000235190</d2p1:Isin>
-        <d2p1:Issuer>0</d2p1:Issuer>
-        <d2p1:Link>/de/de/s/nl0000235190?wikifolio=wf00smylel</d2p1:Link>
-        <d2p1:LinkParameter>NL0000235190</d2p1:LinkParameter>
-        <d2p1:MainOrderId i:nil="true"/>
-        <d2p1:Name>AIRBUS</d2p1:Name>
-        <d2p1:OpenLinkInSameTab>true</d2p1:OpenLinkInSameTab>
-        <d2p1:OrderType>BuyLimit</d2p1:OrderType>
-        <d2p1:Performance i:nil="true"/>
-        <d2p1:SecurityType>620</d2p1:SecurityType>
-        <d2p1:SubOrders/>
-        <d2p1:UnderlyingConcerned i:nil="true"/>
-        <d2p1:Weightage>0.00239639296604</d2p1:Weightage>
-      </d2p1:WikifolioTrade>
-      <d2p1:WikifolioTrade>
-        <d2p1:Cash i:nil="true"/>
-        <d2p1:CorporateActionType i:nil="true"/>
-        <d2p1:ExecutionDate>2020-01-09T09:11:12+01:00</d2p1:ExecutionDate>
-        <d2p1:ExecutionPrice>19.150</d2p1:ExecutionPrice>
-        <d2p1:Id>ef772cee-8e7d-40a7-a28d-0cbec765c4cc</d2p1:Id>
-        <d2p1:InvestmentUniverseGroupId>414afbc2-0e2a-4fce-87fb-41e53b94f125</d2p1:InvestmentUniverseGroupId>
-        <d2p1:IsLeveraged>false</d2p1:IsLeveraged>
-        <d2p1:IsMainOrder>true</d2p1:IsMainOrder>
-        <d2p1:Isin>DE0005753149</d2p1:Isin>
-        <d2p1:Issuer>0</d2p1:Issuer>
-        <d2p1:Link>/de/de/s/de0005753149?wikifolio=wf00smylel</d2p1:Link>
-        <d2p1:LinkParameter>DE0005753149</d2p1:LinkParameter>
-        <d2p1:MainOrderId i:nil="true"/>
-        <d2p1:Name>FUNKWERK O.N.</d2p1:Name>
-        <d2p1:OpenLinkInSameTab>true</d2p1:OpenLinkInSameTab>
-        <d2p1:OrderType>SellLimit</d2p1:OrderType>
-        <d2p1:Performance>0.03317293671631</d2p1:Performance>
-        <d2p1:SecurityType>620</d2p1:SecurityType>
-        <d2p1:SubOrders/>
-        <d2p1:UnderlyingConcerned i:nil="true"/>
-        <d2p1:Weightage>0.00068099692069</d2p1:Weightage>
-      </d2p1:WikifolioTrade>
-      <d2p1:WikifolioTrade>
-        <d2p1:Cash i:nil="true"/>
-        <d2p1:CorporateActionType i:nil="true"/>
-        <d2p1:ExecutionDate>2020-01-09T08:03:36+01:00</d2p1:ExecutionDate>
-        <d2p1:ExecutionPrice>17.590</d2p1:ExecutionPrice>
-        <d2p1:Id>e009ff1a-9d59-41a0-9504-8c5896864256</d2p1:Id>
-        <d2p1:InvestmentUniverseGroupId>8e2a0d6a-ef46-4584-b183-a1bf3c159e8a</d2p1:InvestmentUniverseGroupId>
-        <d2p1:IsLeveraged>false</d2p1:IsLeveraged>
-        <d2p1:IsMainOrder>true</d2p1:IsMainOrder>
-        <d2p1:Isin>AU000000CUV3</d2p1:Isin>
-        <d2p1:Issuer>0</d2p1:Issuer>
-        <d2p1:Link>/de/de/s/au000000cuv3?wikifolio=wf00smylel</d2p1:Link>
-        <d2p1:LinkParameter>AU000000CUV3</d2p1:LinkParameter>
-        <d2p1:MainOrderId i:nil="true"/>
-        <d2p1:Name>CLINUVEL PHARMACEUTICALS</d2p1:Name>
-        <d2p1:OpenLinkInSameTab>true</d2p1:OpenLinkInSameTab>
-        <d2p1:OrderType>SellLimit</d2p1:OrderType>
-        <d2p1:Performance>0.86755425217233</d2p1:Performance>
-        <d2p1:SecurityType>620</d2p1:SecurityType>
-        <d2p1:SubOrders/>
-        <d2p1:UnderlyingConcerned i:nil="true"/>
-        <d2p1:Weightage>0.00628359481948</d2p1:Weightage>
-      </d2p1:WikifolioTrade>
-      <d2p1:WikifolioTrade>
-        <d2p1:Cash i:nil="true"/>
-        <d2p1:CorporateActionType i:nil="true"/>
-        <d2p1:ExecutionDate>2020-01-08T17:09:51+01:00</d2p1:ExecutionDate>
-        <d2p1:ExecutionPrice>17.800</d2p1:ExecutionPrice>
-        <d2p1:Id>6bcdb3fd-1d4e-4768-9def-7da751d379b3</d2p1:Id>
+        <d2p1:ExecutionDate>2020-01-17T13:15:29+01:00</d2p1:ExecutionDate>
+        <d2p1:ExecutionPrice>18.150</d2p1:ExecutionPrice>
+        <d2p1:Id>e8bb7ee3-8bfa-47ab-bc9c-292c968327bd</d2p1:Id>
         <d2p1:InvestmentUniverseGroupId>414afbc2-0e2a-4fce-87fb-41e53b94f125</d2p1:InvestmentUniverseGroupId>
         <d2p1:IsLeveraged>false</d2p1:IsLeveraged>
         <d2p1:IsMainOrder>true</d2p1:IsMainOrder>
@@ -197,55 +59,193 @@
         <d2p1:SecurityType>620</d2p1:SecurityType>
         <d2p1:SubOrders/>
         <d2p1:UnderlyingConcerned i:nil="true"/>
-        <d2p1:Weightage>0.0012801434496</d2p1:Weightage>
+        <d2p1:Weightage>0.00126901189318</d2p1:Weightage>
       </d2p1:WikifolioTrade>
       <d2p1:WikifolioTrade>
         <d2p1:Cash i:nil="true"/>
         <d2p1:CorporateActionType i:nil="true"/>
-        <d2p1:ExecutionDate>2020-01-08T17:05:01+01:00</d2p1:ExecutionDate>
-        <d2p1:ExecutionPrice>22.460</d2p1:ExecutionPrice>
-        <d2p1:Id>1ade7fee-cdb7-4d1c-a318-73fe01fe153f</d2p1:Id>
+        <d2p1:ExecutionDate>2020-01-17T13:04:12+01:00</d2p1:ExecutionDate>
+        <d2p1:ExecutionPrice>136.780</d2p1:ExecutionPrice>
+        <d2p1:Id>4a7efe5a-9568-4f7c-9d62-b7e5109ec333</d2p1:Id>
         <d2p1:InvestmentUniverseGroupId>414afbc2-0e2a-4fce-87fb-41e53b94f125</d2p1:InvestmentUniverseGroupId>
         <d2p1:IsLeveraged>false</d2p1:IsLeveraged>
         <d2p1:IsMainOrder>true</d2p1:IsMainOrder>
-        <d2p1:Isin>DE0008303504</d2p1:Isin>
+        <d2p1:Isin>NL0000235190</d2p1:Isin>
         <d2p1:Issuer>0</d2p1:Issuer>
-        <d2p1:Link>/de/de/s/de0008303504?wikifolio=wf00smylel</d2p1:Link>
-        <d2p1:LinkParameter>DE0008303504</d2p1:LinkParameter>
+        <d2p1:Link>/de/de/s/nl0000235190?wikifolio=wf00smylel</d2p1:Link>
+        <d2p1:LinkParameter>NL0000235190</d2p1:LinkParameter>
         <d2p1:MainOrderId i:nil="true"/>
-        <d2p1:Name>TAG IMMOBILIEN AG</d2p1:Name>
+        <d2p1:Name>AIRBUS</d2p1:Name>
         <d2p1:OpenLinkInSameTab>true</d2p1:OpenLinkInSameTab>
-        <d2p1:OrderType>SellLimit</d2p1:OrderType>
-        <d2p1:Performance>0.05405706580303</d2p1:Performance>
+        <d2p1:OrderType>BuyLimit</d2p1:OrderType>
+        <d2p1:Performance i:nil="true"/>
         <d2p1:SecurityType>620</d2p1:SecurityType>
         <d2p1:SubOrders/>
         <d2p1:UnderlyingConcerned i:nil="true"/>
-        <d2p1:Weightage>0.00121132740828</d2p1:Weightage>
+        <d2p1:Weightage>0.00239084637397</d2p1:Weightage>
       </d2p1:WikifolioTrade>
       <d2p1:WikifolioTrade>
         <d2p1:Cash i:nil="true"/>
         <d2p1:CorporateActionType i:nil="true"/>
-        <d2p1:ExecutionDate>2020-01-08T17:01:11+01:00</d2p1:ExecutionDate>
-        <d2p1:ExecutionPrice>1.440</d2p1:ExecutionPrice>
-        <d2p1:Id>e901cdff-90e8-48c3-bb36-e6336b62563b</d2p1:Id>
+        <d2p1:ExecutionDate>2020-01-17T12:04:50+01:00</d2p1:ExecutionDate>
+        <d2p1:ExecutionPrice>330.000</d2p1:ExecutionPrice>
+        <d2p1:Id>2ba8d203-e8c9-4c9b-9a21-784aecce8a29</d2p1:Id>
+        <d2p1:InvestmentUniverseGroupId>414afbc2-0e2a-4fce-87fb-41e53b94f125</d2p1:InvestmentUniverseGroupId>
+        <d2p1:IsLeveraged>false</d2p1:IsLeveraged>
+        <d2p1:IsMainOrder>true</d2p1:IsMainOrder>
+        <d2p1:Isin>DE0005493365</d2p1:Isin>
+        <d2p1:Issuer>0</d2p1:Issuer>
+        <d2p1:Link>/de/de/s/de0005493365?wikifolio=wf00smylel</d2p1:Link>
+        <d2p1:LinkParameter>DE0005493365</d2p1:LinkParameter>
+        <d2p1:MainOrderId i:nil="true"/>
+        <d2p1:Name>HYPOPORT AG  NA O.N.</d2p1:Name>
+        <d2p1:OpenLinkInSameTab>true</d2p1:OpenLinkInSameTab>
+        <d2p1:OrderType>BuyLimit</d2p1:OrderType>
+        <d2p1:Performance i:nil="true"/>
+        <d2p1:SecurityType>620</d2p1:SecurityType>
+        <d2p1:SubOrders/>
+        <d2p1:UnderlyingConcerned i:nil="true"/>
+        <d2p1:Weightage>0.00577276380034</d2p1:Weightage>
+      </d2p1:WikifolioTrade>
+      <d2p1:WikifolioTrade>
+        <d2p1:Cash i:nil="true"/>
+        <d2p1:CorporateActionType i:nil="true"/>
+        <d2p1:ExecutionDate>2020-01-17T12:00:30+01:00</d2p1:ExecutionDate>
+        <d2p1:ExecutionPrice>57.000</d2p1:ExecutionPrice>
+        <d2p1:Id>4e40642b-ce46-4241-8e43-4b4bed087ccf</d2p1:Id>
         <d2p1:InvestmentUniverseGroupId>68b0edbb-47ca-4d88-a299-273dc0ae4800</d2p1:InvestmentUniverseGroupId>
         <d2p1:IsLeveraged>true</d2p1:IsLeveraged>
         <d2p1:IsMainOrder>true</d2p1:IsMainOrder>
-        <d2p1:Isin>DE000SE12VK9</d2p1:Isin>
+        <d2p1:Isin>DE000SE9VRQ0</d2p1:Isin>
         <d2p1:Issuer>1920</d2p1:Issuer>
-        <d2p1:Link>http://www.sg-zertifikate.de/de/product.html?isin=DE000SE12VK9</d2p1:Link>
-        <d2p1:LinkParameter>DE000SE12VK9</d2p1:LinkParameter>
+        <d2p1:Link>http://www.sg-zertifikate.de/de/product.html?isin=DE000SE9VRQ0</d2p1:Link>
+        <d2p1:LinkParameter>DE000SE9VRQ0</d2p1:LinkParameter>
         <d2p1:MainOrderId i:nil="true"/>
-        <d2p1:Name>Optionsschein auf Newmont Mining</d2p1:Name>
+        <d2p1:Name>Open End Turbo auf Gold</d2p1:Name>
         <d2p1:OpenLinkInSameTab>false</d2p1:OpenLinkInSameTab>
-        <d2p1:OrderType>BuyLimit</d2p1:OrderType>
-        <d2p1:Performance i:nil="true"/>
+        <d2p1:OrderType>SellLimit</d2p1:OrderType>
+        <d2p1:Performance>0.12249182930074</d2p1:Performance>
         <d2p1:SecurityType>640</d2p1:SecurityType>
         <d2p1:SubOrders/>
         <d2p1:UnderlyingConcerned i:nil="true"/>
-        <d2p1:Weightage>0.00258818521786</d2p1:Weightage>
+        <d2p1:Weightage>0.00099712450433</d2p1:Weightage>
+      </d2p1:WikifolioTrade>
+      <d2p1:WikifolioTrade>
+        <d2p1:Cash i:nil="true"/>
+        <d2p1:CorporateActionType i:nil="true"/>
+        <d2p1:ExecutionDate>2020-01-17T11:01:12+01:00</d2p1:ExecutionDate>
+        <d2p1:ExecutionPrice>91.450</d2p1:ExecutionPrice>
+        <d2p1:Id>f5ad6037-cae0-44a2-8517-b75bbd54b6a4</d2p1:Id>
+        <d2p1:InvestmentUniverseGroupId>414afbc2-0e2a-4fce-87fb-41e53b94f125</d2p1:InvestmentUniverseGroupId>
+        <d2p1:IsLeveraged>false</d2p1:IsLeveraged>
+        <d2p1:IsMainOrder>true</d2p1:IsMainOrder>
+        <d2p1:Isin>DE000A161N30</d2p1:Isin>
+        <d2p1:Issuer>0</d2p1:Issuer>
+        <d2p1:Link>/de/de/s/de000a161n30?wikifolio=wf00smylel</d2p1:Link>
+        <d2p1:LinkParameter>DE000A161N30</d2p1:LinkParameter>
+        <d2p1:MainOrderId i:nil="true"/>
+        <d2p1:Name>GRENKE AG NA O.N.</d2p1:Name>
+        <d2p1:OpenLinkInSameTab>true</d2p1:OpenLinkInSameTab>
+        <d2p1:OrderType>BuyLimit</d2p1:OrderType>
+        <d2p1:Performance i:nil="true"/>
+        <d2p1:SecurityType>620</d2p1:SecurityType>
+        <d2p1:SubOrders/>
+        <d2p1:UnderlyingConcerned i:nil="true"/>
+        <d2p1:Weightage>0.0015979312029</d2p1:Weightage>
+      </d2p1:WikifolioTrade>
+      <d2p1:WikifolioTrade>
+        <d2p1:Cash i:nil="true"/>
+        <d2p1:CorporateActionType i:nil="true"/>
+        <d2p1:ExecutionDate>2020-01-17T10:54:54+01:00</d2p1:ExecutionDate>
+        <d2p1:ExecutionPrice>136.500</d2p1:ExecutionPrice>
+        <d2p1:Id>032c0179-e9a9-4b81-9edf-fb535f949d2d</d2p1:Id>
+        <d2p1:InvestmentUniverseGroupId>414afbc2-0e2a-4fce-87fb-41e53b94f125</d2p1:InvestmentUniverseGroupId>
+        <d2p1:IsLeveraged>false</d2p1:IsLeveraged>
+        <d2p1:IsMainOrder>true</d2p1:IsMainOrder>
+        <d2p1:Isin>NL0000235190</d2p1:Isin>
+        <d2p1:Issuer>0</d2p1:Issuer>
+        <d2p1:Link>/de/de/s/nl0000235190?wikifolio=wf00smylel</d2p1:Link>
+        <d2p1:LinkParameter>NL0000235190</d2p1:LinkParameter>
+        <d2p1:MainOrderId i:nil="true"/>
+        <d2p1:Name>AIRBUS</d2p1:Name>
+        <d2p1:OpenLinkInSameTab>true</d2p1:OpenLinkInSameTab>
+        <d2p1:OrderType>BuyLimit</d2p1:OrderType>
+        <d2p1:Performance i:nil="true"/>
+        <d2p1:SecurityType>620</d2p1:SecurityType>
+        <d2p1:SubOrders/>
+        <d2p1:UnderlyingConcerned i:nil="true"/>
+        <d2p1:Weightage>0.00238570508468</d2p1:Weightage>
+      </d2p1:WikifolioTrade>
+      <d2p1:WikifolioTrade>
+        <d2p1:Cash i:nil="true"/>
+        <d2p1:CorporateActionType i:nil="true"/>
+        <d2p1:ExecutionDate>2020-01-17T10:54:53+01:00</d2p1:ExecutionDate>
+        <d2p1:ExecutionPrice>136.580</d2p1:ExecutionPrice>
+        <d2p1:Id>bacdea44-5d80-42c0-a0f9-974d83860ad9</d2p1:Id>
+        <d2p1:InvestmentUniverseGroupId>414afbc2-0e2a-4fce-87fb-41e53b94f125</d2p1:InvestmentUniverseGroupId>
+        <d2p1:IsLeveraged>false</d2p1:IsLeveraged>
+        <d2p1:IsMainOrder>true</d2p1:IsMainOrder>
+        <d2p1:Isin>NL0000235190</d2p1:Isin>
+        <d2p1:Issuer>0</d2p1:Issuer>
+        <d2p1:Link>/de/de/s/nl0000235190?wikifolio=wf00smylel</d2p1:Link>
+        <d2p1:LinkParameter>NL0000235190</d2p1:LinkParameter>
+        <d2p1:MainOrderId i:nil="true"/>
+        <d2p1:Name>AIRBUS</d2p1:Name>
+        <d2p1:OpenLinkInSameTab>true</d2p1:OpenLinkInSameTab>
+        <d2p1:OrderType>BuyLimit</d2p1:OrderType>
+        <d2p1:Performance i:nil="true"/>
+        <d2p1:SecurityType>620</d2p1:SecurityType>
+        <d2p1:SubOrders/>
+        <d2p1:UnderlyingConcerned i:nil="true"/>
+        <d2p1:Weightage>0.00238710330012</d2p1:Weightage>
+      </d2p1:WikifolioTrade>
+      <d2p1:WikifolioTrade>
+        <d2p1:Cash i:nil="true"/>
+        <d2p1:CorporateActionType i:nil="true"/>
+        <d2p1:ExecutionDate>2020-01-17T10:50:14+01:00</d2p1:ExecutionDate>
+        <d2p1:ExecutionPrice>219.000</d2p1:ExecutionPrice>
+        <d2p1:Id>54f5efe1-9671-418a-aff4-4aee6747214f</d2p1:Id>
+        <d2p1:InvestmentUniverseGroupId>414afbc2-0e2a-4fce-87fb-41e53b94f125</d2p1:InvestmentUniverseGroupId>
+        <d2p1:IsLeveraged>false</d2p1:IsLeveraged>
+        <d2p1:IsMainOrder>true</d2p1:IsMainOrder>
+        <d2p1:Isin>DE0008404005</d2p1:Isin>
+        <d2p1:Issuer>0</d2p1:Issuer>
+        <d2p1:Link>/de/de/s/de0008404005?wikifolio=wf00smylel</d2p1:Link>
+        <d2p1:LinkParameter>DE0008404005</d2p1:LinkParameter>
+        <d2p1:MainOrderId i:nil="true"/>
+        <d2p1:Name>ALLIANZ AG VNA O.N.</d2p1:Name>
+        <d2p1:OpenLinkInSameTab>true</d2p1:OpenLinkInSameTab>
+        <d2p1:OrderType>SellLimit</d2p1:OrderType>
+        <d2p1:Performance>0.05455295547961</d2p1:Performance>
+        <d2p1:SecurityType>620</d2p1:SecurityType>
+        <d2p1:SubOrders/>
+        <d2p1:UnderlyingConcerned i:nil="true"/>
+        <d2p1:Weightage>0.00382759688475</d2p1:Weightage>
+      </d2p1:WikifolioTrade>
+      <d2p1:WikifolioTrade>
+        <d2p1:Cash i:nil="true"/>
+        <d2p1:CorporateActionType i:nil="true"/>
+        <d2p1:ExecutionDate>2020-01-17T10:47:35+01:00</d2p1:ExecutionDate>
+        <d2p1:ExecutionPrice>36.900</d2p1:ExecutionPrice>
+        <d2p1:Id>c7b93cae-3818-41d2-a546-2ee38a50bc90</d2p1:Id>
+        <d2p1:InvestmentUniverseGroupId>414afbc2-0e2a-4fce-87fb-41e53b94f125</d2p1:InvestmentUniverseGroupId>
+        <d2p1:IsLeveraged>false</d2p1:IsLeveraged>
+        <d2p1:IsMainOrder>true</d2p1:IsMainOrder>
+        <d2p1:Isin>LU1296758029</d2p1:Isin>
+        <d2p1:Issuer>0</d2p1:Issuer>
+        <d2p1:Link>/de/de/s/lu1296758029?wikifolio=wf00smylel</d2p1:Link>
+        <d2p1:LinkParameter>LU1296758029</d2p1:LinkParameter>
+        <d2p1:MainOrderId i:nil="true"/>
+        <d2p1:Name>CORESTATE CAPITAL HLDG</d2p1:Name>
+        <d2p1:OpenLinkInSameTab>true</d2p1:OpenLinkInSameTab>
+        <d2p1:OrderType>BuyLimit</d2p1:OrderType>
+        <d2p1:Performance i:nil="true"/>
+        <d2p1:SecurityType>620</d2p1:SecurityType>
+        <d2p1:SubOrders/>
+        <d2p1:UnderlyingConcerned i:nil="true"/>
+        <d2p1:Weightage>0.00128991815488</d2p1:Weightage>
       </d2p1:WikifolioTrade>
     </d2p1:Orders>
-    <d2p1:PageCount>563</d2p1:PageCount>
+    <d2p1:PageCount>572</d2p1:PageCount>
   </TradeHistory>
 </WikifolioDetailTradeHistoryModel>

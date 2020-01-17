@@ -18,6 +18,75 @@
       <d2p1:WikifolioTrade>
         <d2p1:Cash i:nil="true"/>
         <d2p1:CorporateActionType i:nil="true"/>
+        <d2p1:ExecutionDate>2020-01-15T15:34:27+01:00</d2p1:ExecutionDate>
+        <d2p1:ExecutionPrice>256.750</d2p1:ExecutionPrice>
+        <d2p1:Id>4c851969-ffce-4e12-8d3e-4bbeb59b6edb</d2p1:Id>
+        <d2p1:InvestmentUniverseGroupId>d917d5b5-aa2e-4200-8295-eb9fc26393e3</d2p1:InvestmentUniverseGroupId>
+        <d2p1:IsLeveraged>false</d2p1:IsLeveraged>
+        <d2p1:IsMainOrder>true</d2p1:IsMainOrder>
+        <d2p1:Isin>US88339J1051</d2p1:Isin>
+        <d2p1:Issuer>0</d2p1:Issuer>
+        <d2p1:Link>/de/de/s/us88339j1051?wikifolio=wf0stwtech</d2p1:Link>
+        <d2p1:LinkParameter>US88339J1051</d2p1:LinkParameter>
+        <d2p1:MainOrderId i:nil="true"/>
+        <d2p1:Name>THE TRA.DESK A DL-,000001</d2p1:Name>
+        <d2p1:OpenLinkInSameTab>true</d2p1:OpenLinkInSameTab>
+        <d2p1:OrderType>SellLimit</d2p1:OrderType>
+        <d2p1:Performance>3.85035433485987</d2p1:Performance>
+        <d2p1:SecurityType>620</d2p1:SecurityType>
+        <d2p1:SubOrders/>
+        <d2p1:UnderlyingConcerned i:nil="true"/>
+        <d2p1:Weightage>0.01457070549107</d2p1:Weightage>
+      </d2p1:WikifolioTrade>
+      <d2p1:WikifolioTrade>
+        <d2p1:Cash i:nil="true"/>
+        <d2p1:CorporateActionType i:nil="true"/>
+        <d2p1:ExecutionDate>2020-01-15T15:33:45+01:00</d2p1:ExecutionDate>
+        <d2p1:ExecutionPrice>108.550</d2p1:ExecutionPrice>
+        <d2p1:Id>1224826f-d426-43d9-a9fa-e8d78ef53742</d2p1:Id>
+        <d2p1:InvestmentUniverseGroupId>d917d5b5-aa2e-4200-8295-eb9fc26393e3</d2p1:InvestmentUniverseGroupId>
+        <d2p1:IsLeveraged>false</d2p1:IsLeveraged>
+        <d2p1:IsMainOrder>true</d2p1:IsMainOrder>
+        <d2p1:Isin>US02156B1035</d2p1:Isin>
+        <d2p1:Issuer>0</d2p1:Issuer>
+        <d2p1:Link>/de/de/s/us02156b1035?wikifolio=wf0stwtech</d2p1:Link>
+        <d2p1:LinkParameter>US02156B1035</d2p1:LinkParameter>
+        <d2p1:MainOrderId i:nil="true"/>
+        <d2p1:Name>ALTERYX INC. A DL-,0001</d2p1:Name>
+        <d2p1:OpenLinkInSameTab>true</d2p1:OpenLinkInSameTab>
+        <d2p1:OrderType>SellLimit</d2p1:OrderType>
+        <d2p1:Performance>0.514567982458</d2p1:Performance>
+        <d2p1:SecurityType>620</d2p1:SecurityType>
+        <d2p1:SubOrders/>
+        <d2p1:UnderlyingConcerned i:nil="true"/>
+        <d2p1:Weightage>0.01425267202127</d2p1:Weightage>
+      </d2p1:WikifolioTrade>
+      <d2p1:WikifolioTrade>
+        <d2p1:Cash i:nil="true"/>
+        <d2p1:CorporateActionType i:nil="true"/>
+        <d2p1:ExecutionDate>2020-01-15T15:32:54+01:00</d2p1:ExecutionDate>
+        <d2p1:ExecutionPrice>7.700</d2p1:ExecutionPrice>
+        <d2p1:Id>2ac7569b-8bae-4df9-911b-9bcefab3d25f</d2p1:Id>
+        <d2p1:InvestmentUniverseGroupId>d917d5b5-aa2e-4200-8295-eb9fc26393e3</d2p1:InvestmentUniverseGroupId>
+        <d2p1:IsLeveraged>false</d2p1:IsLeveraged>
+        <d2p1:IsMainOrder>true</d2p1:IsMainOrder>
+        <d2p1:Isin>US68373M1071</d2p1:Isin>
+        <d2p1:Issuer>0</d2p1:Issuer>
+        <d2p1:Link>/de/de/s/us68373m1071?wikifolio=wf0stwtech</d2p1:Link>
+        <d2p1:LinkParameter>US68373M1071</d2p1:LinkParameter>
+        <d2p1:MainOrderId i:nil="true"/>
+        <d2p1:Name>OPERA LTD. SP.ADR/2</d2p1:Name>
+        <d2p1:OpenLinkInSameTab>true</d2p1:OpenLinkInSameTab>
+        <d2p1:OrderType>BuyLimit</d2p1:OrderType>
+        <d2p1:Performance i:nil="true"/>
+        <d2p1:SecurityType>620</d2p1:SecurityType>
+        <d2p1:SubOrders/>
+        <d2p1:UnderlyingConcerned i:nil="true"/>
+        <d2p1:Weightage>0.01112682503616</d2p1:Weightage>
+      </d2p1:WikifolioTrade>
+      <d2p1:WikifolioTrade>
+        <d2p1:Cash i:nil="true"/>
+        <d2p1:CorporateActionType i:nil="true"/>
         <d2p1:ExecutionDate>2019-12-27T17:37:23+01:00</d2p1:ExecutionDate>
         <d2p1:ExecutionPrice>90.807</d2p1:ExecutionPrice>
         <d2p1:Id>2edf7328-ea4d-4a4e-8aa0-95c84c8c6c8a</d2p1:Id>
@@ -362,146 +431,7 @@
         <d2p1:UnderlyingConcerned i:nil="true"/>
         <d2p1:Weightage>0.03009056546675</d2p1:Weightage>
       </d2p1:WikifolioTrade>
-      <d2p1:WikifolioTrade>
-        <d2p1:Cash i:nil="true"/>
-        <d2p1:CorporateActionType i:nil="true"/>
-        <d2p1:ExecutionDate>2019-11-27T15:07:07+01:00</d2p1:ExecutionDate>
-        <d2p1:ExecutionPrice>138.580</d2p1:ExecutionPrice>
-        <d2p1:Id>c63edc00-fdaf-42bc-ae9c-f7229d85bd48</d2p1:Id>
-        <d2p1:InvestmentUniverseGroupId>d917d5b5-aa2e-4200-8295-eb9fc26393e3</d2p1:InvestmentUniverseGroupId>
-        <d2p1:IsLeveraged>false</d2p1:IsLeveraged>
-        <d2p1:IsMainOrder>true</d2p1:IsMainOrder>
-        <d2p1:Isin>US5949181045</d2p1:Isin>
-        <d2p1:Issuer>0</d2p1:Issuer>
-        <d2p1:Link>/de/de/s/us5949181045?wikifolio=wf0stwtech</d2p1:Link>
-        <d2p1:LinkParameter>US5949181045</d2p1:LinkParameter>
-        <d2p1:MainOrderId i:nil="true"/>
-        <d2p1:Name>MICROSOFT CORP. DL -,001</d2p1:Name>
-        <d2p1:OpenLinkInSameTab>true</d2p1:OpenLinkInSameTab>
-        <d2p1:OrderType>Sell</d2p1:OrderType>
-        <d2p1:Performance>1.70530206408289</d2p1:Performance>
-        <d2p1:SecurityType>620</d2p1:SecurityType>
-        <d2p1:SubOrders/>
-        <d2p1:UnderlyingConcerned i:nil="true"/>
-        <d2p1:Weightage>0.00064036004081</d2p1:Weightage>
-      </d2p1:WikifolioTrade>
-      <d2p1:WikifolioTrade>
-        <d2p1:Cash i:nil="true"/>
-        <d2p1:CorporateActionType i:nil="true"/>
-        <d2p1:ExecutionDate>2019-11-15T15:32:04+01:00</d2p1:ExecutionDate>
-        <d2p1:ExecutionPrice>114.633</d2p1:ExecutionPrice>
-        <d2p1:Id>ca5ea8e5-0f15-4bad-af18-e3ffa997f9df</d2p1:Id>
-        <d2p1:InvestmentUniverseGroupId>8e2a0d6a-ef46-4584-b183-a1bf3c159e8a</d2p1:InvestmentUniverseGroupId>
-        <d2p1:IsLeveraged>false</d2p1:IsLeveraged>
-        <d2p1:IsMainOrder>true</d2p1:IsMainOrder>
-        <d2p1:Isin>IL0011301780</d2p1:Isin>
-        <d2p1:Issuer>0</d2p1:Issuer>
-        <d2p1:Link>/de/de/s/il0011301780?wikifolio=wf0stwtech</d2p1:Link>
-        <d2p1:LinkParameter>IL0011301780</d2p1:LinkParameter>
-        <d2p1:MainOrderId i:nil="true"/>
-        <d2p1:Name>WIX.COM LTD.</d2p1:Name>
-        <d2p1:OpenLinkInSameTab>true</d2p1:OpenLinkInSameTab>
-        <d2p1:OrderType>SellLimit</d2p1:OrderType>
-        <d2p1:Performance>0.6800571851025</d2p1:Performance>
-        <d2p1:SecurityType>620</d2p1:SecurityType>
-        <d2p1:SubOrders>
-          <d2p1:WikifolioTrade>
-            <d2p1:Cash i:nil="true"/>
-            <d2p1:CorporateActionType i:nil="true"/>
-            <d2p1:ExecutionDate>2019-11-15T15:32:04+01:00</d2p1:ExecutionDate>
-            <d2p1:ExecutionPrice>114.650</d2p1:ExecutionPrice>
-            <d2p1:Id>c7bc5d97-1483-7707-e054-b499bab3423c</d2p1:Id>
-            <d2p1:InvestmentUniverseGroupId>8e2a0d6a-ef46-4584-b183-a1bf3c159e8a</d2p1:InvestmentUniverseGroupId>
-            <d2p1:IsLeveraged>false</d2p1:IsLeveraged>
-            <d2p1:IsMainOrder>false</d2p1:IsMainOrder>
-            <d2p1:Isin>IL0011301780</d2p1:Isin>
-            <d2p1:Issuer>0</d2p1:Issuer>
-            <d2p1:Link i:nil="true"/>
-            <d2p1:LinkParameter>IL0011301780</d2p1:LinkParameter>
-            <d2p1:MainOrderId>c7bc5d97-c882-7707-e054-b499bab3423c</d2p1:MainOrderId>
-            <d2p1:Name>WIX.COM LTD.</d2p1:Name>
-            <d2p1:OpenLinkInSameTab>false</d2p1:OpenLinkInSameTab>
-            <d2p1:OrderType>SellLimit</d2p1:OrderType>
-            <d2p1:Performance>0.68397397294479</d2p1:Performance>
-            <d2p1:SecurityType>620</d2p1:SecurityType>
-            <d2p1:SubOrders i:nil="true"/>
-            <d2p1:UnderlyingConcerned i:nil="true"/>
-            <d2p1:Weightage>0.01852337007162</d2p1:Weightage>
-          </d2p1:WikifolioTrade>
-          <d2p1:WikifolioTrade>
-            <d2p1:Cash i:nil="true"/>
-            <d2p1:CorporateActionType i:nil="true"/>
-            <d2p1:ExecutionDate>2019-11-15T15:31:33+01:00</d2p1:ExecutionDate>
-            <d2p1:ExecutionPrice>114.650</d2p1:ExecutionPrice>
-            <d2p1:Id>c7bc5d97-1383-7707-e054-b499bab3423c</d2p1:Id>
-            <d2p1:InvestmentUniverseGroupId>8e2a0d6a-ef46-4584-b183-a1bf3c159e8a</d2p1:InvestmentUniverseGroupId>
-            <d2p1:IsLeveraged>false</d2p1:IsLeveraged>
-            <d2p1:IsMainOrder>false</d2p1:IsMainOrder>
-            <d2p1:Isin>IL0011301780</d2p1:Isin>
-            <d2p1:Issuer>0</d2p1:Issuer>
-            <d2p1:Link i:nil="true"/>
-            <d2p1:LinkParameter>IL0011301780</d2p1:LinkParameter>
-            <d2p1:MainOrderId>c7bc5d97-c882-7707-e054-b499bab3423c</d2p1:MainOrderId>
-            <d2p1:Name>WIX.COM LTD.</d2p1:Name>
-            <d2p1:OpenLinkInSameTab>false</d2p1:OpenLinkInSameTab>
-            <d2p1:OrderType>SellLimit</d2p1:OrderType>
-            <d2p1:Performance>0.68397397294479</d2p1:Performance>
-            <d2p1:SecurityType>620</d2p1:SecurityType>
-            <d2p1:SubOrders i:nil="true"/>
-            <d2p1:UnderlyingConcerned i:nil="true"/>
-            <d2p1:Weightage>0.00654164052657</d2p1:Weightage>
-          </d2p1:WikifolioTrade>
-          <d2p1:WikifolioTrade>
-            <d2p1:Cash i:nil="true"/>
-            <d2p1:CorporateActionType i:nil="true"/>
-            <d2p1:ExecutionDate>2019-11-15T10:05:21+01:00</d2p1:ExecutionDate>
-            <d2p1:ExecutionPrice>113.850</d2p1:ExecutionPrice>
-            <d2p1:Id>c7bc5d97-c782-7707-e054-b499bab3423c</d2p1:Id>
-            <d2p1:InvestmentUniverseGroupId>8e2a0d6a-ef46-4584-b183-a1bf3c159e8a</d2p1:InvestmentUniverseGroupId>
-            <d2p1:IsLeveraged>false</d2p1:IsLeveraged>
-            <d2p1:IsMainOrder>false</d2p1:IsMainOrder>
-            <d2p1:Isin>IL0011301780</d2p1:Isin>
-            <d2p1:Issuer>0</d2p1:Issuer>
-            <d2p1:Link i:nil="true"/>
-            <d2p1:LinkParameter>IL0011301780</d2p1:LinkParameter>
-            <d2p1:MainOrderId>ca5ea8e5-0f15-4bad-af18-e3ffa997f9df</d2p1:MainOrderId>
-            <d2p1:Name>WIX.COM LTD.</d2p1:Name>
-            <d2p1:OpenLinkInSameTab>false</d2p1:OpenLinkInSameTab>
-            <d2p1:OrderType>SellLimit</d2p1:OrderType>
-            <d2p1:Performance>0.67222360941792</d2p1:Performance>
-            <d2p1:SecurityType>620</d2p1:SecurityType>
-            <d2p1:SubOrders i:nil="true"/>
-            <d2p1:UnderlyingConcerned i:nil="true"/>
-            <d2p1:Weightage>0.00054227665034</d2p1:Weightage>
-          </d2p1:WikifolioTrade>
-        </d2p1:SubOrders>
-        <d2p1:UnderlyingConcerned i:nil="true"/>
-        <d2p1:Weightage>0.00853576241617</d2p1:Weightage>
-      </d2p1:WikifolioTrade>
-      <d2p1:WikifolioTrade>
-        <d2p1:Cash i:nil="true"/>
-        <d2p1:CorporateActionType i:nil="true"/>
-        <d2p1:ExecutionDate>2019-11-14T08:31:37+01:00</d2p1:ExecutionDate>
-        <d2p1:ExecutionPrice>36.950</d2p1:ExecutionPrice>
-        <d2p1:Id>2a9eff93-2d72-4f97-b4d8-2b50a4395048</d2p1:Id>
-        <d2p1:InvestmentUniverseGroupId>8e2a0d6a-ef46-4584-b183-a1bf3c159e8a</d2p1:InvestmentUniverseGroupId>
-        <d2p1:IsLeveraged>false</d2p1:IsLeveraged>
-        <d2p1:IsMainOrder>true</d2p1:IsMainOrder>
-        <d2p1:Isin>KYG875721634</d2p1:Isin>
-        <d2p1:Issuer>0</d2p1:Issuer>
-        <d2p1:Link>/de/de/s/kyg875721634?wikifolio=wf0stwtech</d2p1:Link>
-        <d2p1:LinkParameter>KYG875721634</d2p1:LinkParameter>
-        <d2p1:MainOrderId i:nil="true"/>
-        <d2p1:Name>TENCENT HLDG. LTD</d2p1:Name>
-        <d2p1:OpenLinkInSameTab>true</d2p1:OpenLinkInSameTab>
-        <d2p1:OrderType>SellLimit</d2p1:OrderType>
-        <d2p1:Performance>-0.0180752868485</d2p1:Performance>
-        <d2p1:SecurityType>620</d2p1:SecurityType>
-        <d2p1:SubOrders/>
-        <d2p1:UnderlyingConcerned i:nil="true"/>
-        <d2p1:Weightage>0.02899507062756</d2p1:Weightage>
-      </d2p1:WikifolioTrade>
     </d2p1:Orders>
-    <d2p1:PageCount>22</d2p1:PageCount>
+    <d2p1:PageCount>23</d2p1:PageCount>
   </TradeHistory>
 </WikifolioDetailTradeHistoryModel>

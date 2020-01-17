@@ -1,1 +1,278 @@
-<div class="diff"></div>
+<div class="diff">
+  <ul>
+    <li class="unchanged"><span>&lt;?xml version=&quot;1.0&quot;?&gt;</span></li>
+    <li class="unchanged"><span>&lt;WikifolioDetailTradeHistoryModel xmlns:i=&quot;http://www.w3.org/2001/XMLSchema-instance&quot; xmlns=&quot;http://schemas.datacontract.org/2004/07/WikifolioIntl.Webfe.Umbraco.Models&quot;&gt;</span></li>
+    <li class="unchanged"><span>  &lt;Tooltips xmlns:d2p1=&quot;http://schemas.microsoft.com/2003/10/Serialization/Arrays&quot;&gt;</span></li>
+    <li class="unchanged"><span>    &lt;d2p1:KeyValueOfstringstring&gt;</span></li>
+    <li class="unchanged"><span>      &lt;d2p1:Key&gt;download-price&lt;/d2p1:Key&gt;</span></li>
+    <li class="unchanged"><span>      &lt;d2p1:Value&gt;&amp;lt;div class=&#39;tooltip-graph-icon wikifolio-tooltip-icon&#39;&amp;gt;&amp;lt;/div&amp;gt;</span></li>
+    <li class="unchanged"><span>                &amp;lt;div class=&#39;wikifolio-tooltip-text&#39;&amp;gt;Open- und Close-Kurse, sowie H&amp;#xF6;chst- und Tiefst&amp;#xE4;nde auf Tagesbasis (.csv)&amp;lt;/div&amp;gt;&lt;/d2p1:Value&gt;</span></li>
+    <li class="unchanged"><span>    &lt;/d2p1:KeyValueOfstringstring&gt;</span></li>
+    <li class="unchanged"><span>    &lt;d2p1:KeyValueOfstringstring&gt;</span></li>
+    <li class="unchanged"><span>      &lt;d2p1:Key&gt;download-account-statement&lt;/d2p1:Key&gt;</span></li>
+    <li class="unchanged"><span>      &lt;d2p1:Value&gt;&amp;lt;div class=&#39;tooltip-graph-icon wikifolio-tooltip-icon&#39;&amp;gt;&amp;lt;/div&amp;gt;</span></li>
+    <li class="unchanged"><span>                &amp;lt;div class=&#39;wikifolio-tooltip-text&#39;&amp;gt;&amp;#xDC;bersicht der Transaktionen inklusive aller Geb&amp;#xFC;hren (.csv)&amp;lt;/div&amp;gt;&lt;/d2p1:Value&gt;</span></li>
+    <li class="unchanged"><span>    &lt;/d2p1:KeyValueOfstringstring&gt;</span></li>
+    <li class="unchanged"><span>  &lt;/Tooltips&gt;</span></li>
+    <li class="unchanged"><span>  &lt;TradeHistory xmlns:d2p1=&quot;http://schemas.datacontract.org/2004/07/WikifolioIntl.Core.Contracts.Models&quot;&gt;</span></li>
+    <li class="unchanged"><span>    &lt;d2p1:IsSuperWikifolio&gt;false&lt;/d2p1:IsSuperWikifolio&gt;</span></li>
+    <li class="unchanged"><span>    &lt;d2p1:Orders&gt;</span></li>
+    <li class="unchanged"><span>      &lt;d2p1:WikifolioTrade&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Cash i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:CorporateActionType i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="ins"><ins>        &lt;d2p1:ExecutionDate&gt;2020-01-17T15:35:42+01:00&lt;/d2p1:ExecutionDate&gt;</ins></li>
+    <li class="ins"><ins>        &lt;d2p1:ExecutionPrice&gt;204.000&lt;/d2p1:ExecutionPrice&gt;</ins></li>
+    <li class="ins"><ins>        &lt;d2p1:Id&gt;0fb93b78-c8f7-48c1-8d71-5162ef3d376f&lt;/d2p1:Id&gt;</ins></li>
+    <li class="ins"><ins>        &lt;d2p1:InvestmentUniverseGroupId&gt;d917d5b5-aa2e-4200-8295-eb9fc26393e3&lt;/d2p1:InvestmentUniverseGroupId&gt;</ins></li>
+    <li class="ins"><ins>        &lt;d2p1:IsLeveraged&gt;false&lt;/d2p1:IsLeveraged&gt;</ins></li>
+    <li class="ins"><ins>        &lt;d2p1:IsMainOrder&gt;true&lt;/d2p1:IsMainOrder&gt;</ins></li>
+    <li class="ins"><ins>        &lt;d2p1:Isin&gt;US01609W1027&lt;/d2p1:Isin&gt;</ins></li>
+    <li class="ins"><ins>        &lt;d2p1:Issuer&gt;0&lt;/d2p1:Issuer&gt;</ins></li>
+    <li class="ins"><ins>        &lt;d2p1:Link&gt;/de/de/s/us01609w1027?wikifolio=wf00smylel&lt;/d2p1:Link&gt;</ins></li>
+    <li class="ins"><ins>        &lt;d2p1:LinkParameter&gt;US01609W1027&lt;/d2p1:LinkParameter&gt;</ins></li>
+    <li class="ins"><ins>        &lt;d2p1:MainOrderId i:nil=&quot;true&quot;/&gt;</ins></li>
+    <li class="ins"><ins>        &lt;d2p1:Name&gt;ALIBABA&lt;/d2p1:Name&gt;</ins></li>
+    <li class="ins"><ins>        &lt;d2p1:OpenLinkInSameTab&gt;true&lt;/d2p1:OpenLinkInSameTab&gt;</ins></li>
+    <li class="ins"><ins>        &lt;d2p1:OrderType&gt;SellLimit&lt;/d2p1:OrderType&gt;</ins></li>
+    <li class="ins"><ins>        &lt;d2p1:Performance&gt;0.24501471132659&lt;/d2p1:Performance&gt;</ins></li>
+    <li class="ins"><ins>        &lt;d2p1:SecurityType&gt;620&lt;/d2p1:SecurityType&gt;</ins></li>
+    <li class="ins"><ins>        &lt;d2p1:SubOrders/&gt;</ins></li>
+    <li class="ins"><ins>        &lt;d2p1:UnderlyingConcerned i:nil=&quot;true&quot;/&gt;</ins></li>
+    <li class="ins"><ins>        &lt;d2p1:Weightage&gt;0.00356982133531&lt;/d2p1:Weightage&gt;</ins></li>
+    <li class="ins"><ins>      &lt;/d2p1:WikifolioTrade&gt;</ins></li>
+    <li class="ins"><ins>      &lt;d2p1:WikifolioTrade&gt;</ins></li>
+    <li class="ins"><ins>        &lt;d2p1:Cash i:nil=&quot;true&quot;/&gt;</ins></li>
+    <li class="ins"><ins>        &lt;d2p1:CorporateActionType i:nil=&quot;true&quot;/&gt;</ins></li>
+    <li class="unchanged"><span>        &lt;d2p1:ExecutionDate&gt;2020-01-17T13:15:29+01:00&lt;/d2p1:ExecutionDate&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:ExecutionPrice&gt;18.150&lt;/d2p1:ExecutionPrice&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Id&gt;e8bb7ee3-8bfa-47ab-bc9c-292c968327bd&lt;/d2p1:Id&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:InvestmentUniverseGroupId&gt;414afbc2-0e2a-4fce-87fb-41e53b94f125&lt;/d2p1:InvestmentUniverseGroupId&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:IsLeveraged&gt;false&lt;/d2p1:IsLeveraged&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:IsMainOrder&gt;true&lt;/d2p1:IsMainOrder&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Isin&gt;DE000A0JM2M1&lt;/d2p1:Isin&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Issuer&gt;0&lt;/d2p1:Issuer&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Link&gt;/de/de/s/de000a0jm2m1?wikifolio=wf00smylel&lt;/d2p1:Link&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:LinkParameter&gt;DE000A0JM2M1&lt;/d2p1:LinkParameter&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:MainOrderId i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Name&gt;BLUE CAP&lt;/d2p1:Name&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:OpenLinkInSameTab&gt;true&lt;/d2p1:OpenLinkInSameTab&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:OrderType&gt;BuyLimit&lt;/d2p1:OrderType&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Performance i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:SecurityType&gt;620&lt;/d2p1:SecurityType&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:SubOrders/&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:UnderlyingConcerned i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Weightage&gt;0.00126901189318&lt;/d2p1:Weightage&gt;</span></li>
+    <li class="unchanged"><span>      &lt;/d2p1:WikifolioTrade&gt;</span></li>
+    <li class="unchanged"><span>      &lt;d2p1:WikifolioTrade&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Cash i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:CorporateActionType i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:ExecutionDate&gt;2020-01-17T13:04:12+01:00&lt;/d2p1:ExecutionDate&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:ExecutionPrice&gt;136.780&lt;/d2p1:ExecutionPrice&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Id&gt;4a7efe5a-9568-4f7c-9d62-b7e5109ec333&lt;/d2p1:Id&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:InvestmentUniverseGroupId&gt;414afbc2-0e2a-4fce-87fb-41e53b94f125&lt;/d2p1:InvestmentUniverseGroupId&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:IsLeveraged&gt;false&lt;/d2p1:IsLeveraged&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:IsMainOrder&gt;true&lt;/d2p1:IsMainOrder&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Isin&gt;NL0000235190&lt;/d2p1:Isin&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Issuer&gt;0&lt;/d2p1:Issuer&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Link&gt;/de/de/s/nl0000235190?wikifolio=wf00smylel&lt;/d2p1:Link&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:LinkParameter&gt;NL0000235190&lt;/d2p1:LinkParameter&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:MainOrderId i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Name&gt;AIRBUS&lt;/d2p1:Name&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:OpenLinkInSameTab&gt;true&lt;/d2p1:OpenLinkInSameTab&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:OrderType&gt;BuyLimit&lt;/d2p1:OrderType&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Performance i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:SecurityType&gt;620&lt;/d2p1:SecurityType&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:SubOrders/&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:UnderlyingConcerned i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Weightage&gt;0.00239084637397&lt;/d2p1:Weightage&gt;</span></li>
+    <li class="unchanged"><span>      &lt;/d2p1:WikifolioTrade&gt;</span></li>
+    <li class="unchanged"><span>      &lt;d2p1:WikifolioTrade&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Cash i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:CorporateActionType i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:ExecutionDate&gt;2020-01-17T12:04:50+01:00&lt;/d2p1:ExecutionDate&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:ExecutionPrice&gt;330.000&lt;/d2p1:ExecutionPrice&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Id&gt;2ba8d203-e8c9-4c9b-9a21-784aecce8a29&lt;/d2p1:Id&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:InvestmentUniverseGroupId&gt;414afbc2-0e2a-4fce-87fb-41e53b94f125&lt;/d2p1:InvestmentUniverseGroupId&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:IsLeveraged&gt;false&lt;/d2p1:IsLeveraged&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:IsMainOrder&gt;true&lt;/d2p1:IsMainOrder&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Isin&gt;DE0005493365&lt;/d2p1:Isin&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Issuer&gt;0&lt;/d2p1:Issuer&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Link&gt;/de/de/s/de0005493365?wikifolio=wf00smylel&lt;/d2p1:Link&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:LinkParameter&gt;DE0005493365&lt;/d2p1:LinkParameter&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:MainOrderId i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Name&gt;HYPOPORT AG  NA O.N.&lt;/d2p1:Name&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:OpenLinkInSameTab&gt;true&lt;/d2p1:OpenLinkInSameTab&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:OrderType&gt;BuyLimit&lt;/d2p1:OrderType&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Performance i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:SecurityType&gt;620&lt;/d2p1:SecurityType&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:SubOrders/&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:UnderlyingConcerned i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Weightage&gt;0.00577276380034&lt;/d2p1:Weightage&gt;</span></li>
+    <li class="unchanged"><span>      &lt;/d2p1:WikifolioTrade&gt;</span></li>
+    <li class="unchanged"><span>      &lt;d2p1:WikifolioTrade&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Cash i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:CorporateActionType i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:ExecutionDate&gt;2020-01-17T12:00:30+01:00&lt;/d2p1:ExecutionDate&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:ExecutionPrice&gt;57.000&lt;/d2p1:ExecutionPrice&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Id&gt;4e40642b-ce46-4241-8e43-4b4bed087ccf&lt;/d2p1:Id&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:InvestmentUniverseGroupId&gt;68b0edbb-47ca-4d88-a299-273dc0ae4800&lt;/d2p1:InvestmentUniverseGroupId&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:IsLeveraged&gt;true&lt;/d2p1:IsLeveraged&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:IsMainOrder&gt;true&lt;/d2p1:IsMainOrder&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Isin&gt;DE000SE9VRQ0&lt;/d2p1:Isin&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Issuer&gt;1920&lt;/d2p1:Issuer&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Link&gt;http://www.sg-zertifikate.de/de/product.html?isin=DE000SE9VRQ0&lt;/d2p1:Link&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:LinkParameter&gt;DE000SE9VRQ0&lt;/d2p1:LinkParameter&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:MainOrderId i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Name&gt;Open End Turbo auf Gold&lt;/d2p1:Name&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:OpenLinkInSameTab&gt;false&lt;/d2p1:OpenLinkInSameTab&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:OrderType&gt;SellLimit&lt;/d2p1:OrderType&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Performance&gt;0.12249182930074&lt;/d2p1:Performance&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:SecurityType&gt;640&lt;/d2p1:SecurityType&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:SubOrders/&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:UnderlyingConcerned i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Weightage&gt;0.00099712450433&lt;/d2p1:Weightage&gt;</span></li>
+    <li class="unchanged"><span>      &lt;/d2p1:WikifolioTrade&gt;</span></li>
+    <li class="unchanged"><span>      &lt;d2p1:WikifolioTrade&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Cash i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:CorporateActionType i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:ExecutionDate&gt;2020-01-17T11:01:12+01:00&lt;/d2p1:ExecutionDate&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:ExecutionPrice&gt;91.450&lt;/d2p1:ExecutionPrice&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Id&gt;f5ad6037-cae0-44a2-8517-b75bbd54b6a4&lt;/d2p1:Id&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:InvestmentUniverseGroupId&gt;414afbc2-0e2a-4fce-87fb-41e53b94f125&lt;/d2p1:InvestmentUniverseGroupId&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:IsLeveraged&gt;false&lt;/d2p1:IsLeveraged&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:IsMainOrder&gt;true&lt;/d2p1:IsMainOrder&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Isin&gt;DE000A161N30&lt;/d2p1:Isin&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Issuer&gt;0&lt;/d2p1:Issuer&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Link&gt;/de/de/s/de000a161n30?wikifolio=wf00smylel&lt;/d2p1:Link&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:LinkParameter&gt;DE000A161N30&lt;/d2p1:LinkParameter&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:MainOrderId i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Name&gt;GRENKE AG NA O.N.&lt;/d2p1:Name&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:OpenLinkInSameTab&gt;true&lt;/d2p1:OpenLinkInSameTab&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:OrderType&gt;BuyLimit&lt;/d2p1:OrderType&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Performance i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:SecurityType&gt;620&lt;/d2p1:SecurityType&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:SubOrders/&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:UnderlyingConcerned i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Weightage&gt;0.0015979312029&lt;/d2p1:Weightage&gt;</span></li>
+    <li class="unchanged"><span>      &lt;/d2p1:WikifolioTrade&gt;</span></li>
+    <li class="unchanged"><span>      &lt;d2p1:WikifolioTrade&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Cash i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:CorporateActionType i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:ExecutionDate&gt;2020-01-17T10:54:54+01:00&lt;/d2p1:ExecutionDate&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:ExecutionPrice&gt;136.500&lt;/d2p1:ExecutionPrice&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Id&gt;032c0179-e9a9-4b81-9edf-fb535f949d2d&lt;/d2p1:Id&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:InvestmentUniverseGroupId&gt;414afbc2-0e2a-4fce-87fb-41e53b94f125&lt;/d2p1:InvestmentUniverseGroupId&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:IsLeveraged&gt;false&lt;/d2p1:IsLeveraged&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:IsMainOrder&gt;true&lt;/d2p1:IsMainOrder&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Isin&gt;NL0000235190&lt;/d2p1:Isin&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Issuer&gt;0&lt;/d2p1:Issuer&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Link&gt;/de/de/s/nl0000235190?wikifolio=wf00smylel&lt;/d2p1:Link&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:LinkParameter&gt;NL0000235190&lt;/d2p1:LinkParameter&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:MainOrderId i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Name&gt;AIRBUS&lt;/d2p1:Name&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:OpenLinkInSameTab&gt;true&lt;/d2p1:OpenLinkInSameTab&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:OrderType&gt;BuyLimit&lt;/d2p1:OrderType&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Performance i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:SecurityType&gt;620&lt;/d2p1:SecurityType&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:SubOrders/&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:UnderlyingConcerned i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Weightage&gt;0.00238570508468&lt;/d2p1:Weightage&gt;</span></li>
+    <li class="unchanged"><span>      &lt;/d2p1:WikifolioTrade&gt;</span></li>
+    <li class="unchanged"><span>      &lt;d2p1:WikifolioTrade&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Cash i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:CorporateActionType i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:ExecutionDate&gt;2020-01-17T10:54:53+01:00&lt;/d2p1:ExecutionDate&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:ExecutionPrice&gt;136.580&lt;/d2p1:ExecutionPrice&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Id&gt;bacdea44-5d80-42c0-a0f9-974d83860ad9&lt;/d2p1:Id&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:InvestmentUniverseGroupId&gt;414afbc2-0e2a-4fce-87fb-41e53b94f125&lt;/d2p1:InvestmentUniverseGroupId&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:IsLeveraged&gt;false&lt;/d2p1:IsLeveraged&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:IsMainOrder&gt;true&lt;/d2p1:IsMainOrder&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Isin&gt;NL0000235190&lt;/d2p1:Isin&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Issuer&gt;0&lt;/d2p1:Issuer&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Link&gt;/de/de/s/nl0000235190?wikifolio=wf00smylel&lt;/d2p1:Link&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:LinkParameter&gt;NL0000235190&lt;/d2p1:LinkParameter&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:MainOrderId i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Name&gt;AIRBUS&lt;/d2p1:Name&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:OpenLinkInSameTab&gt;true&lt;/d2p1:OpenLinkInSameTab&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:OrderType&gt;BuyLimit&lt;/d2p1:OrderType&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Performance i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:SecurityType&gt;620&lt;/d2p1:SecurityType&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:SubOrders/&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:UnderlyingConcerned i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Weightage&gt;0.00238710330012&lt;/d2p1:Weightage&gt;</span></li>
+    <li class="unchanged"><span>      &lt;/d2p1:WikifolioTrade&gt;</span></li>
+    <li class="unchanged"><span>      &lt;d2p1:WikifolioTrade&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Cash i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:CorporateActionType i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:ExecutionDate&gt;2020-01-17T10:50:14+01:00&lt;/d2p1:ExecutionDate&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:ExecutionPrice&gt;219.000&lt;/d2p1:ExecutionPrice&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Id&gt;54f5efe1-9671-418a-aff4-4aee6747214f&lt;/d2p1:Id&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:InvestmentUniverseGroupId&gt;414afbc2-0e2a-4fce-87fb-41e53b94f125&lt;/d2p1:InvestmentUniverseGroupId&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:IsLeveraged&gt;false&lt;/d2p1:IsLeveraged&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:IsMainOrder&gt;true&lt;/d2p1:IsMainOrder&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Isin&gt;DE0008404005&lt;/d2p1:Isin&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Issuer&gt;0&lt;/d2p1:Issuer&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Link&gt;/de/de/s/de0008404005?wikifolio=wf00smylel&lt;/d2p1:Link&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:LinkParameter&gt;DE0008404005&lt;/d2p1:LinkParameter&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:MainOrderId i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Name&gt;ALLIANZ AG VNA O.N.&lt;/d2p1:Name&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:OpenLinkInSameTab&gt;true&lt;/d2p1:OpenLinkInSameTab&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:OrderType&gt;SellLimit&lt;/d2p1:OrderType&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Performance&gt;0.05455295547961&lt;/d2p1:Performance&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:SecurityType&gt;620&lt;/d2p1:SecurityType&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:SubOrders/&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:UnderlyingConcerned i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Weightage&gt;0.00382759688475&lt;/d2p1:Weightage&gt;</span></li>
+    <li class="unchanged"><span>      &lt;/d2p1:WikifolioTrade&gt;</span></li>
+    <li class="unchanged"><span>      &lt;d2p1:WikifolioTrade&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Cash i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:CorporateActionType i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:ExecutionDate&gt;2020-01-17T10:47:35+01:00&lt;/d2p1:ExecutionDate&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:ExecutionPrice&gt;36.900&lt;/d2p1:ExecutionPrice&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Id&gt;c7b93cae-3818-41d2-a546-2ee38a50bc90&lt;/d2p1:Id&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:InvestmentUniverseGroupId&gt;414afbc2-0e2a-4fce-87fb-41e53b94f125&lt;/d2p1:InvestmentUniverseGroupId&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:IsLeveraged&gt;false&lt;/d2p1:IsLeveraged&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:IsMainOrder&gt;true&lt;/d2p1:IsMainOrder&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Isin&gt;LU1296758029&lt;/d2p1:Isin&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Issuer&gt;0&lt;/d2p1:Issuer&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Link&gt;/de/de/s/lu1296758029?wikifolio=wf00smylel&lt;/d2p1:Link&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:LinkParameter&gt;LU1296758029&lt;/d2p1:LinkParameter&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:MainOrderId i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Name&gt;CORESTATE CAPITAL HLDG&lt;/d2p1:Name&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:OpenLinkInSameTab&gt;true&lt;/d2p1:OpenLinkInSameTab&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:OrderType&gt;BuyLimit&lt;/d2p1:OrderType&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Performance i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:SecurityType&gt;620&lt;/d2p1:SecurityType&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:SubOrders/&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:UnderlyingConcerned i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Weightage&gt;0.00128991815488&lt;/d2p1:Weightage&gt;</span></li>
+    <li class="unchanged"><span>      &lt;/d2p1:WikifolioTrade&gt;</span></li>
+    <li class="del"><del>      &lt;d2p1:WikifolioTrade&gt;</del></li>
+    <li class="del"><del>        &lt;d2p1:Cash i:nil=&quot;true&quot;/&gt;</del></li>
+    <li class="del"><del>        &lt;d2p1:CorporateActionType i:nil=&quot;true&quot;/&gt;</del></li>
+    <li class="del"><del>        &lt;d2p1:ExecutionDate&gt;2020-01-17T10:15:11+01:00&lt;/d2p1:ExecutionDate&gt;</del></li>
+    <li class="del"><del>        &lt;d2p1:ExecutionPrice&gt;190.000&lt;/d2p1:ExecutionPrice&gt;</del></li>
+    <li class="del"><del>        &lt;d2p1:Id&gt;514c6063-d475-4636-82b1-c2a4c2fd6cfd&lt;/d2p1:Id&gt;</del></li>
+    <li class="del"><del>        &lt;d2p1:InvestmentUniverseGroupId&gt;414afbc2-0e2a-4fce-87fb-41e53b94f125&lt;/d2p1:InvestmentUniverseGroupId&gt;</del></li>
+    <li class="del"><del>        &lt;d2p1:IsLeveraged&gt;false&lt;/d2p1:IsLeveraged&gt;</del></li>
+    <li class="del"><del>        &lt;d2p1:IsMainOrder&gt;true&lt;/d2p1:IsMainOrder&gt;</del></li>
+    <li class="del"><del>        &lt;d2p1:Isin&gt;DE0005659700&lt;/d2p1:Isin&gt;</del></li>
+    <li class="del"><del>        &lt;d2p1:Issuer&gt;0&lt;/d2p1:Issuer&gt;</del></li>
+    <li class="del"><del>        &lt;d2p1:Link&gt;/de/de/s/de0005659700?wikifolio=wf00smylel&lt;/d2p1:Link&gt;</del></li>
+    <li class="del"><del>        &lt;d2p1:LinkParameter&gt;DE0005659700&lt;/d2p1:LinkParameter&gt;</del></li>
+    <li class="del"><del>        &lt;d2p1:MainOrderId i:nil=&quot;true&quot;/&gt;</del></li>
+    <li class="del"><del>        &lt;d2p1:Name&gt;ECKERT+ZIEGLER AG O.N.&lt;/d2p1:Name&gt;</del></li>
+    <li class="del"><del>        &lt;d2p1:OpenLinkInSameTab&gt;true&lt;/d2p1:OpenLinkInSameTab&gt;</del></li>
+    <li class="del"><del>        &lt;d2p1:OrderType&gt;BuyLimit&lt;/d2p1:OrderType&gt;</del></li>
+    <li class="del"><del>        &lt;d2p1:Performance i:nil=&quot;true&quot;/&gt;</del></li>
+    <li class="del"><del>        &lt;d2p1:SecurityType&gt;620&lt;/d2p1:SecurityType&gt;</del></li>
+    <li class="del"><del>        &lt;d2p1:SubOrders/&gt;</del></li>
+    <li class="del"><del>        &lt;d2p1:UnderlyingConcerned i:nil=&quot;true&quot;/&gt;</del></li>
+    <li class="del"><del>        &lt;d2p1:Weightage&gt;0.00332032047764&lt;/d2p1:Weightage&gt;</del></li>
+    <li class="del"><del>      &lt;/d2p1:WikifolioTrade&gt;</del></li>
+    <li class="unchanged"><span>    &lt;/d2p1:Orders&gt;</span></li>
+    <li class="unchanged"><span>    &lt;d2p1:PageCount&gt;572&lt;/d2p1:PageCount&gt;</span></li>
+    <li class="unchanged"><span>  &lt;/TradeHistory&gt;</span></li>
+    <li class="unchanged"><span>&lt;/WikifolioDetailTradeHistoryModel&gt;</span></li>
+  </ul>
+</div>

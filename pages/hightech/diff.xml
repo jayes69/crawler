@@ -1,1 +1,581 @@
-<div class="diff"></div>
+<div class="diff">
+  <ul>
+    <li class="unchanged"><span>&lt;?xml version=&quot;1.0&quot;?&gt;</span></li>
+    <li class="unchanged"><span>&lt;WikifolioDetailTradeHistoryModel xmlns:i=&quot;http://www.w3.org/2001/XMLSchema-instance&quot; xmlns=&quot;http://schemas.datacontract.org/2004/07/WikifolioIntl.Webfe.Umbraco.Models&quot;&gt;</span></li>
+    <li class="unchanged"><span>  &lt;Tooltips xmlns:d2p1=&quot;http://schemas.microsoft.com/2003/10/Serialization/Arrays&quot;&gt;</span></li>
+    <li class="unchanged"><span>    &lt;d2p1:KeyValueOfstringstring&gt;</span></li>
+    <li class="unchanged"><span>      &lt;d2p1:Key&gt;download-price&lt;/d2p1:Key&gt;</span></li>
+    <li class="unchanged"><span>      &lt;d2p1:Value&gt;&amp;lt;div class=&#39;tooltip-graph-icon wikifolio-tooltip-icon&#39;&amp;gt;&amp;lt;/div&amp;gt;</span></li>
+    <li class="unchanged"><span>                &amp;lt;div class=&#39;wikifolio-tooltip-text&#39;&amp;gt;Open- und Close-Kurse, sowie H&amp;#xF6;chst- und Tiefst&amp;#xE4;nde auf Tagesbasis (.csv)&amp;lt;/div&amp;gt;&lt;/d2p1:Value&gt;</span></li>
+    <li class="unchanged"><span>    &lt;/d2p1:KeyValueOfstringstring&gt;</span></li>
+    <li class="unchanged"><span>    &lt;d2p1:KeyValueOfstringstring&gt;</span></li>
+    <li class="unchanged"><span>      &lt;d2p1:Key&gt;download-account-statement&lt;/d2p1:Key&gt;</span></li>
+    <li class="unchanged"><span>      &lt;d2p1:Value&gt;&amp;lt;div class=&#39;tooltip-graph-icon wikifolio-tooltip-icon&#39;&amp;gt;&amp;lt;/div&amp;gt;</span></li>
+    <li class="unchanged"><span>                &amp;lt;div class=&#39;wikifolio-tooltip-text&#39;&amp;gt;&amp;#xDC;bersicht der Transaktionen inklusive aller Geb&amp;#xFC;hren (.csv)&amp;lt;/div&amp;gt;&lt;/d2p1:Value&gt;</span></li>
+    <li class="unchanged"><span>    &lt;/d2p1:KeyValueOfstringstring&gt;</span></li>
+    <li class="unchanged"><span>  &lt;/Tooltips&gt;</span></li>
+    <li class="unchanged"><span>  &lt;TradeHistory xmlns:d2p1=&quot;http://schemas.datacontract.org/2004/07/WikifolioIntl.Core.Contracts.Models&quot;&gt;</span></li>
+    <li class="unchanged"><span>    &lt;d2p1:IsSuperWikifolio&gt;false&lt;/d2p1:IsSuperWikifolio&gt;</span></li>
+    <li class="unchanged"><span>    &lt;d2p1:Orders&gt;</span></li>
+    <li class="unchanged"><span>      &lt;d2p1:WikifolioTrade&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Cash i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:CorporateActionType i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="ins"><ins>        &lt;d2p1:ExecutionDate&gt;2020-01-15T15:34:27+01:00&lt;/d2p1:ExecutionDate&gt;</ins></li>
+    <li class="ins"><ins>        &lt;d2p1:ExecutionPrice&gt;256.750&lt;/d2p1:ExecutionPrice&gt;</ins></li>
+    <li class="ins"><ins>        &lt;d2p1:Id&gt;4c851969-ffce-4e12-8d3e-4bbeb59b6edb&lt;/d2p1:Id&gt;</ins></li>
+    <li class="ins"><ins>        &lt;d2p1:InvestmentUniverseGroupId&gt;d917d5b5-aa2e-4200-8295-eb9fc26393e3&lt;/d2p1:InvestmentUniverseGroupId&gt;</ins></li>
+    <li class="ins"><ins>        &lt;d2p1:IsLeveraged&gt;false&lt;/d2p1:IsLeveraged&gt;</ins></li>
+    <li class="ins"><ins>        &lt;d2p1:IsMainOrder&gt;true&lt;/d2p1:IsMainOrder&gt;</ins></li>
+    <li class="ins"><ins>        &lt;d2p1:Isin&gt;US88339J1051&lt;/d2p1:Isin&gt;</ins></li>
+    <li class="ins"><ins>        &lt;d2p1:Issuer&gt;0&lt;/d2p1:Issuer&gt;</ins></li>
+    <li class="ins"><ins>        &lt;d2p1:Link&gt;/de/de/s/us88339j1051?wikifolio=wf0stwtech&lt;/d2p1:Link&gt;</ins></li>
+    <li class="ins"><ins>        &lt;d2p1:LinkParameter&gt;US88339J1051&lt;/d2p1:LinkParameter&gt;</ins></li>
+    <li class="ins"><ins>        &lt;d2p1:MainOrderId i:nil=&quot;true&quot;/&gt;</ins></li>
+    <li class="ins"><ins>        &lt;d2p1:Name&gt;THE TRA.DESK A DL-,000001&lt;/d2p1:Name&gt;</ins></li>
+    <li class="ins"><ins>        &lt;d2p1:OpenLinkInSameTab&gt;true&lt;/d2p1:OpenLinkInSameTab&gt;</ins></li>
+    <li class="ins"><ins>        &lt;d2p1:OrderType&gt;SellLimit&lt;/d2p1:OrderType&gt;</ins></li>
+    <li class="ins"><ins>        &lt;d2p1:Performance&gt;3.85035433485987&lt;/d2p1:Performance&gt;</ins></li>
+    <li class="ins"><ins>        &lt;d2p1:SecurityType&gt;620&lt;/d2p1:SecurityType&gt;</ins></li>
+    <li class="ins"><ins>        &lt;d2p1:SubOrders/&gt;</ins></li>
+    <li class="ins"><ins>        &lt;d2p1:UnderlyingConcerned i:nil=&quot;true&quot;/&gt;</ins></li>
+    <li class="ins"><ins>        &lt;d2p1:Weightage&gt;0.01457070549107&lt;/d2p1:Weightage&gt;</ins></li>
+    <li class="ins"><ins>      &lt;/d2p1:WikifolioTrade&gt;</ins></li>
+    <li class="ins"><ins>      &lt;d2p1:WikifolioTrade&gt;</ins></li>
+    <li class="ins"><ins>        &lt;d2p1:Cash i:nil=&quot;true&quot;/&gt;</ins></li>
+    <li class="ins"><ins>        &lt;d2p1:CorporateActionType i:nil=&quot;true&quot;/&gt;</ins></li>
+    <li class="ins"><ins>        &lt;d2p1:ExecutionDate&gt;2020-01-15T15:33:45+01:00&lt;/d2p1:ExecutionDate&gt;</ins></li>
+    <li class="ins"><ins>        &lt;d2p1:ExecutionPrice&gt;108.550&lt;/d2p1:ExecutionPrice&gt;</ins></li>
+    <li class="ins"><ins>        &lt;d2p1:Id&gt;1224826f-d426-43d9-a9fa-e8d78ef53742&lt;/d2p1:Id&gt;</ins></li>
+    <li class="ins"><ins>        &lt;d2p1:InvestmentUniverseGroupId&gt;d917d5b5-aa2e-4200-8295-eb9fc26393e3&lt;/d2p1:InvestmentUniverseGroupId&gt;</ins></li>
+    <li class="ins"><ins>        &lt;d2p1:IsLeveraged&gt;false&lt;/d2p1:IsLeveraged&gt;</ins></li>
+    <li class="ins"><ins>        &lt;d2p1:IsMainOrder&gt;true&lt;/d2p1:IsMainOrder&gt;</ins></li>
+    <li class="ins"><ins>        &lt;d2p1:Isin&gt;US02156B1035&lt;/d2p1:Isin&gt;</ins></li>
+    <li class="ins"><ins>        &lt;d2p1:Issuer&gt;0&lt;/d2p1:Issuer&gt;</ins></li>
+    <li class="ins"><ins>        &lt;d2p1:Link&gt;/de/de/s/us02156b1035?wikifolio=wf0stwtech&lt;/d2p1:Link&gt;</ins></li>
+    <li class="ins"><ins>        &lt;d2p1:LinkParameter&gt;US02156B1035&lt;/d2p1:LinkParameter&gt;</ins></li>
+    <li class="ins"><ins>        &lt;d2p1:MainOrderId i:nil=&quot;true&quot;/&gt;</ins></li>
+    <li class="ins"><ins>        &lt;d2p1:Name&gt;ALTERYX INC. A DL-,0001&lt;/d2p1:Name&gt;</ins></li>
+    <li class="ins"><ins>        &lt;d2p1:OpenLinkInSameTab&gt;true&lt;/d2p1:OpenLinkInSameTab&gt;</ins></li>
+    <li class="ins"><ins>        &lt;d2p1:OrderType&gt;SellLimit&lt;/d2p1:OrderType&gt;</ins></li>
+    <li class="ins"><ins>        &lt;d2p1:Performance&gt;0.514567982458&lt;/d2p1:Performance&gt;</ins></li>
+    <li class="ins"><ins>        &lt;d2p1:SecurityType&gt;620&lt;/d2p1:SecurityType&gt;</ins></li>
+    <li class="ins"><ins>        &lt;d2p1:SubOrders/&gt;</ins></li>
+    <li class="ins"><ins>        &lt;d2p1:UnderlyingConcerned i:nil=&quot;true&quot;/&gt;</ins></li>
+    <li class="ins"><ins>        &lt;d2p1:Weightage&gt;0.01425267202127&lt;/d2p1:Weightage&gt;</ins></li>
+    <li class="ins"><ins>      &lt;/d2p1:WikifolioTrade&gt;</ins></li>
+    <li class="ins"><ins>      &lt;d2p1:WikifolioTrade&gt;</ins></li>
+    <li class="ins"><ins>        &lt;d2p1:Cash i:nil=&quot;true&quot;/&gt;</ins></li>
+    <li class="ins"><ins>        &lt;d2p1:CorporateActionType i:nil=&quot;true&quot;/&gt;</ins></li>
+    <li class="ins"><ins>        &lt;d2p1:ExecutionDate&gt;2020-01-15T15:32:54+01:00&lt;/d2p1:ExecutionDate&gt;</ins></li>
+    <li class="ins"><ins>        &lt;d2p1:ExecutionPrice&gt;7.700&lt;/d2p1:ExecutionPrice&gt;</ins></li>
+    <li class="ins"><ins>        &lt;d2p1:Id&gt;2ac7569b-8bae-4df9-911b-9bcefab3d25f&lt;/d2p1:Id&gt;</ins></li>
+    <li class="ins"><ins>        &lt;d2p1:InvestmentUniverseGroupId&gt;d917d5b5-aa2e-4200-8295-eb9fc26393e3&lt;/d2p1:InvestmentUniverseGroupId&gt;</ins></li>
+    <li class="ins"><ins>        &lt;d2p1:IsLeveraged&gt;false&lt;/d2p1:IsLeveraged&gt;</ins></li>
+    <li class="ins"><ins>        &lt;d2p1:IsMainOrder&gt;true&lt;/d2p1:IsMainOrder&gt;</ins></li>
+    <li class="ins"><ins>        &lt;d2p1:Isin&gt;US68373M1071&lt;/d2p1:Isin&gt;</ins></li>
+    <li class="ins"><ins>        &lt;d2p1:Issuer&gt;0&lt;/d2p1:Issuer&gt;</ins></li>
+    <li class="ins"><ins>        &lt;d2p1:Link&gt;/de/de/s/us68373m1071?wikifolio=wf0stwtech&lt;/d2p1:Link&gt;</ins></li>
+    <li class="ins"><ins>        &lt;d2p1:LinkParameter&gt;US68373M1071&lt;/d2p1:LinkParameter&gt;</ins></li>
+    <li class="ins"><ins>        &lt;d2p1:MainOrderId i:nil=&quot;true&quot;/&gt;</ins></li>
+    <li class="ins"><ins>        &lt;d2p1:Name&gt;OPERA LTD. SP.ADR/2&lt;/d2p1:Name&gt;</ins></li>
+    <li class="ins"><ins>        &lt;d2p1:OpenLinkInSameTab&gt;true&lt;/d2p1:OpenLinkInSameTab&gt;</ins></li>
+    <li class="ins"><ins>        &lt;d2p1:OrderType&gt;BuyLimit&lt;/d2p1:OrderType&gt;</ins></li>
+    <li class="ins"><ins>        &lt;d2p1:Performance i:nil=&quot;true&quot;/&gt;</ins></li>
+    <li class="ins"><ins>        &lt;d2p1:SecurityType&gt;620&lt;/d2p1:SecurityType&gt;</ins></li>
+    <li class="ins"><ins>        &lt;d2p1:SubOrders/&gt;</ins></li>
+    <li class="ins"><ins>        &lt;d2p1:UnderlyingConcerned i:nil=&quot;true&quot;/&gt;</ins></li>
+    <li class="ins"><ins>        &lt;d2p1:Weightage&gt;0.01112682503616&lt;/d2p1:Weightage&gt;</ins></li>
+    <li class="ins"><ins>      &lt;/d2p1:WikifolioTrade&gt;</ins></li>
+    <li class="ins"><ins>      &lt;d2p1:WikifolioTrade&gt;</ins></li>
+    <li class="ins"><ins>        &lt;d2p1:Cash i:nil=&quot;true&quot;/&gt;</ins></li>
+    <li class="ins"><ins>        &lt;d2p1:CorporateActionType i:nil=&quot;true&quot;/&gt;</ins></li>
+    <li class="unchanged"><span>        &lt;d2p1:ExecutionDate&gt;2019-12-27T17:37:23+01:00&lt;/d2p1:ExecutionDate&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:ExecutionPrice&gt;90.807&lt;/d2p1:ExecutionPrice&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Id&gt;2edf7328-ea4d-4a4e-8aa0-95c84c8c6c8a&lt;/d2p1:Id&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:InvestmentUniverseGroupId&gt;d917d5b5-aa2e-4200-8295-eb9fc26393e3&lt;/d2p1:InvestmentUniverseGroupId&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:IsLeveraged&gt;false&lt;/d2p1:IsLeveraged&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:IsMainOrder&gt;true&lt;/d2p1:IsMainOrder&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Isin&gt;US90138F1021&lt;/d2p1:Isin&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Issuer&gt;0&lt;/d2p1:Issuer&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Link&gt;/de/de/s/us90138f1021?wikifolio=wf0stwtech&lt;/d2p1:Link&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:LinkParameter&gt;US90138F1021&lt;/d2p1:LinkParameter&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:MainOrderId i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Name&gt;TWILIO INC.&lt;/d2p1:Name&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:OpenLinkInSameTab&gt;true&lt;/d2p1:OpenLinkInSameTab&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:OrderType&gt;SellLimit&lt;/d2p1:OrderType&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Performance&gt;2.22512283194222&lt;/d2p1:Performance&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:SecurityType&gt;620&lt;/d2p1:SecurityType&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:SubOrders&gt;</span></li>
+    <li class="unchanged"><span>          &lt;d2p1:WikifolioTrade&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:Cash i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:CorporateActionType i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:ExecutionDate&gt;2019-12-27T17:37:23+01:00&lt;/d2p1:ExecutionDate&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:ExecutionPrice&gt;90.810&lt;/d2p1:ExecutionPrice&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:Id&gt;c0a9aa9a-e302-6c16-e054-b499bab3423c&lt;/d2p1:Id&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:InvestmentUniverseGroupId&gt;d917d5b5-aa2e-4200-8295-eb9fc26393e3&lt;/d2p1:InvestmentUniverseGroupId&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:IsLeveraged&gt;false&lt;/d2p1:IsLeveraged&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:IsMainOrder&gt;false&lt;/d2p1:IsMainOrder&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:Isin&gt;US90138F1021&lt;/d2p1:Isin&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:Issuer&gt;0&lt;/d2p1:Issuer&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:Link i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:LinkParameter&gt;US90138F1021&lt;/d2p1:LinkParameter&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:MainOrderId&gt;c0a9aa9a-e102-6c16-e054-b499bab3423c&lt;/d2p1:MainOrderId&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:Name&gt;TWILIO INC.&lt;/d2p1:Name&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:OpenLinkInSameTab&gt;false&lt;/d2p1:OpenLinkInSameTab&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:OrderType&gt;SellLimit&lt;/d2p1:OrderType&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:Performance&gt;2.22535961640916&lt;/d2p1:Performance&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:SecurityType&gt;620&lt;/d2p1:SecurityType&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:SubOrders i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:UnderlyingConcerned i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:Weightage&gt;0.01634577367772&lt;/d2p1:Weightage&gt;</span></li>
+    <li class="unchanged"><span>          &lt;/d2p1:WikifolioTrade&gt;</span></li>
+    <li class="unchanged"><span>          &lt;d2p1:WikifolioTrade&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:Cash i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:CorporateActionType i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:ExecutionDate&gt;2019-12-27T17:36:44+01:00&lt;/d2p1:ExecutionDate&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:ExecutionPrice&gt;90.800&lt;/d2p1:ExecutionPrice&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:Id&gt;c0a9aa9a-e202-6c16-e054-b499bab3423c&lt;/d2p1:Id&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:InvestmentUniverseGroupId&gt;d917d5b5-aa2e-4200-8295-eb9fc26393e3&lt;/d2p1:InvestmentUniverseGroupId&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:IsLeveraged&gt;false&lt;/d2p1:IsLeveraged&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:IsMainOrder&gt;false&lt;/d2p1:IsMainOrder&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:Isin&gt;US90138F1021&lt;/d2p1:Isin&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:Issuer&gt;0&lt;/d2p1:Issuer&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:Link i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:LinkParameter&gt;US90138F1021&lt;/d2p1:LinkParameter&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:MainOrderId&gt;c0a9aa9a-e102-6c16-e054-b499bab3423c&lt;/d2p1:MainOrderId&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:Name&gt;TWILIO INC.&lt;/d2p1:Name&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:OpenLinkInSameTab&gt;false&lt;/d2p1:OpenLinkInSameTab&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:OrderType&gt;SellLimit&lt;/d2p1:OrderType&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:Performance&gt;2.22500443970876&lt;/d2p1:Performance&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:SecurityType&gt;620&lt;/d2p1:SecurityType&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:SubOrders i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:UnderlyingConcerned i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:Weightage&gt;0.00293335019038&lt;/d2p1:Weightage&gt;</span></li>
+    <li class="unchanged"><span>          &lt;/d2p1:WikifolioTrade&gt;</span></li>
+    <li class="unchanged"><span>          &lt;d2p1:WikifolioTrade&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:Cash i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:CorporateActionType i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:ExecutionDate&gt;2019-12-27T17:36:06+01:00&lt;/d2p1:ExecutionDate&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:ExecutionPrice&gt;90.800&lt;/d2p1:ExecutionPrice&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:Id&gt;c0a9aa9a-e002-6c16-e054-b499bab3423c&lt;/d2p1:Id&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:InvestmentUniverseGroupId&gt;d917d5b5-aa2e-4200-8295-eb9fc26393e3&lt;/d2p1:InvestmentUniverseGroupId&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:IsLeveraged&gt;false&lt;/d2p1:IsLeveraged&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:IsMainOrder&gt;false&lt;/d2p1:IsMainOrder&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:Isin&gt;US90138F1021&lt;/d2p1:Isin&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:Issuer&gt;0&lt;/d2p1:Issuer&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:Link i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:LinkParameter&gt;US90138F1021&lt;/d2p1:LinkParameter&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:MainOrderId&gt;2edf7328-ea4d-4a4e-8aa0-95c84c8c6c8a&lt;/d2p1:MainOrderId&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:Name&gt;TWILIO INC.&lt;/d2p1:Name&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:OpenLinkInSameTab&gt;false&lt;/d2p1:OpenLinkInSameTab&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:OrderType&gt;SellLimit&lt;/d2p1:OrderType&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:Performance&gt;2.22500443970876&lt;/d2p1:Performance&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:SecurityType&gt;620&lt;/d2p1:SecurityType&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:SubOrders i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:UnderlyingConcerned i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:Weightage&gt;0.00293474500266&lt;/d2p1:Weightage&gt;</span></li>
+    <li class="unchanged"><span>          &lt;/d2p1:WikifolioTrade&gt;</span></li>
+    <li class="unchanged"><span>        &lt;/d2p1:SubOrders&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:UnderlyingConcerned i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Weightage&gt;0.00740462295692&lt;/d2p1:Weightage&gt;</span></li>
+    <li class="unchanged"><span>      &lt;/d2p1:WikifolioTrade&gt;</span></li>
+    <li class="unchanged"><span>      &lt;d2p1:WikifolioTrade&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Cash i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:CorporateActionType i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:ExecutionDate&gt;2019-12-17T21:37:40+01:00&lt;/d2p1:ExecutionDate&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:ExecutionPrice&gt;140.093&lt;/d2p1:ExecutionPrice&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Id&gt;02e302cc-7aed-43d4-a069-67b2a51aed9b&lt;/d2p1:Id&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:InvestmentUniverseGroupId&gt;d917d5b5-aa2e-4200-8295-eb9fc26393e3&lt;/d2p1:InvestmentUniverseGroupId&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:IsLeveraged&gt;false&lt;/d2p1:IsLeveraged&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:IsMainOrder&gt;true&lt;/d2p1:IsMainOrder&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Isin&gt;US4435731009&lt;/d2p1:Isin&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Issuer&gt;0&lt;/d2p1:Issuer&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Link&gt;/de/de/s/us4435731009?wikifolio=wf0stwtech&lt;/d2p1:Link&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:LinkParameter&gt;US4435731009&lt;/d2p1:LinkParameter&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:MainOrderId i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Name&gt;HUBSPOT&lt;/d2p1:Name&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:OpenLinkInSameTab&gt;true&lt;/d2p1:OpenLinkInSameTab&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:OrderType&gt;BuyLimit&lt;/d2p1:OrderType&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Performance i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:SecurityType&gt;620&lt;/d2p1:SecurityType&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:SubOrders&gt;</span></li>
+    <li class="unchanged"><span>          &lt;d2p1:WikifolioTrade&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:Cash i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:CorporateActionType i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:ExecutionDate&gt;2019-12-17T21:37:40+01:00&lt;/d2p1:ExecutionDate&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:ExecutionPrice&gt;140.100&lt;/d2p1:ExecutionPrice&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:Id&gt;07e5e199-83b5-f149-e054-b499bab3423c&lt;/d2p1:Id&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:InvestmentUniverseGroupId&gt;d917d5b5-aa2e-4200-8295-eb9fc26393e3&lt;/d2p1:InvestmentUniverseGroupId&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:IsLeveraged&gt;false&lt;/d2p1:IsLeveraged&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:IsMainOrder&gt;false&lt;/d2p1:IsMainOrder&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:Isin&gt;US4435731009&lt;/d2p1:Isin&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:Issuer&gt;0&lt;/d2p1:Issuer&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:Link i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:LinkParameter&gt;US4435731009&lt;/d2p1:LinkParameter&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:MainOrderId&gt;07e5e199-81b5-f149-e054-b499bab3423c&lt;/d2p1:MainOrderId&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:Name&gt;HUBSPOT&lt;/d2p1:Name&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:OpenLinkInSameTab&gt;false&lt;/d2p1:OpenLinkInSameTab&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:OrderType&gt;BuyLimit&lt;/d2p1:OrderType&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:Performance i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:SecurityType&gt;620&lt;/d2p1:SecurityType&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:SubOrders i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:UnderlyingConcerned i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:Weightage&gt;0.00931545662537&lt;/d2p1:Weightage&gt;</span></li>
+    <li class="unchanged"><span>          &lt;/d2p1:WikifolioTrade&gt;</span></li>
+    <li class="unchanged"><span>          &lt;d2p1:WikifolioTrade&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:Cash i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:CorporateActionType i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:ExecutionDate&gt;2019-12-17T21:36:54+01:00&lt;/d2p1:ExecutionDate&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:ExecutionPrice&gt;140.050&lt;/d2p1:ExecutionPrice&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:Id&gt;07e5e199-82b5-f149-e054-b499bab3423c&lt;/d2p1:Id&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:InvestmentUniverseGroupId&gt;d917d5b5-aa2e-4200-8295-eb9fc26393e3&lt;/d2p1:InvestmentUniverseGroupId&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:IsLeveraged&gt;false&lt;/d2p1:IsLeveraged&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:IsMainOrder&gt;false&lt;/d2p1:IsMainOrder&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:Isin&gt;US4435731009&lt;/d2p1:Isin&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:Issuer&gt;0&lt;/d2p1:Issuer&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:Link i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:LinkParameter&gt;US4435731009&lt;/d2p1:LinkParameter&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:MainOrderId&gt;07e5e199-81b5-f149-e054-b499bab3423c&lt;/d2p1:MainOrderId&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:Name&gt;HUBSPOT&lt;/d2p1:Name&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:OpenLinkInSameTab&gt;false&lt;/d2p1:OpenLinkInSameTab&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:OrderType&gt;BuyLimit&lt;/d2p1:OrderType&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:Performance i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:SecurityType&gt;620&lt;/d2p1:SecurityType&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:SubOrders i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:UnderlyingConcerned i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:Weightage&gt;0.01064430621523&lt;/d2p1:Weightage&gt;</span></li>
+    <li class="unchanged"><span>          &lt;/d2p1:WikifolioTrade&gt;</span></li>
+    <li class="unchanged"><span>          &lt;d2p1:WikifolioTrade&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:Cash i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:CorporateActionType i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:ExecutionDate&gt;2019-12-17T21:36:14+01:00&lt;/d2p1:ExecutionDate&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:ExecutionPrice&gt;140.100&lt;/d2p1:ExecutionPrice&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:Id&gt;07e5e199-80b5-f149-e054-b499bab3423c&lt;/d2p1:Id&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:InvestmentUniverseGroupId&gt;d917d5b5-aa2e-4200-8295-eb9fc26393e3&lt;/d2p1:InvestmentUniverseGroupId&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:IsLeveraged&gt;false&lt;/d2p1:IsLeveraged&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:IsMainOrder&gt;false&lt;/d2p1:IsMainOrder&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:Isin&gt;US4435731009&lt;/d2p1:Isin&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:Issuer&gt;0&lt;/d2p1:Issuer&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:Link i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:LinkParameter&gt;US4435731009&lt;/d2p1:LinkParameter&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:MainOrderId&gt;07e5e199-7fb5-f149-e054-b499bab3423c&lt;/d2p1:MainOrderId&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:Name&gt;HUBSPOT&lt;/d2p1:Name&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:OpenLinkInSameTab&gt;false&lt;/d2p1:OpenLinkInSameTab&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:OrderType&gt;BuyLimit&lt;/d2p1:OrderType&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:Performance i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:SecurityType&gt;620&lt;/d2p1:SecurityType&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:SubOrders i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:UnderlyingConcerned i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:Weightage&gt;0.00332797964182&lt;/d2p1:Weightage&gt;</span></li>
+    <li class="unchanged"><span>          &lt;/d2p1:WikifolioTrade&gt;</span></li>
+    <li class="unchanged"><span>          &lt;d2p1:WikifolioTrade&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:Cash i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:CorporateActionType i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:ExecutionDate&gt;2019-12-17T21:35:59+01:00&lt;/d2p1:ExecutionDate&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:ExecutionPrice&gt;140.150&lt;/d2p1:ExecutionPrice&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:Id&gt;07e5e199-7eb5-f149-e054-b499bab3423c&lt;/d2p1:Id&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:InvestmentUniverseGroupId&gt;d917d5b5-aa2e-4200-8295-eb9fc26393e3&lt;/d2p1:InvestmentUniverseGroupId&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:IsLeveraged&gt;false&lt;/d2p1:IsLeveraged&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:IsMainOrder&gt;false&lt;/d2p1:IsMainOrder&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:Isin&gt;US4435731009&lt;/d2p1:Isin&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:Issuer&gt;0&lt;/d2p1:Issuer&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:Link i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:LinkParameter&gt;US4435731009&lt;/d2p1:LinkParameter&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:MainOrderId&gt;07e5e199-7bb5-f149-e054-b499bab3423c&lt;/d2p1:MainOrderId&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:Name&gt;HUBSPOT&lt;/d2p1:Name&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:OpenLinkInSameTab&gt;false&lt;/d2p1:OpenLinkInSameTab&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:OrderType&gt;BuyLimit&lt;/d2p1:OrderType&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:Performance i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:SecurityType&gt;620&lt;/d2p1:SecurityType&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:SubOrders i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:UnderlyingConcerned i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:Weightage&gt;0.00332910291241&lt;/d2p1:Weightage&gt;</span></li>
+    <li class="unchanged"><span>          &lt;/d2p1:WikifolioTrade&gt;</span></li>
+    <li class="unchanged"><span>          &lt;d2p1:WikifolioTrade&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:Cash i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:CorporateActionType i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:ExecutionDate&gt;2019-12-17T21:17:37+01:00&lt;/d2p1:ExecutionDate&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:ExecutionPrice&gt;140.150&lt;/d2p1:ExecutionPrice&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:Id&gt;07e5e199-7ab5-f149-e054-b499bab3423c&lt;/d2p1:Id&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:InvestmentUniverseGroupId&gt;d917d5b5-aa2e-4200-8295-eb9fc26393e3&lt;/d2p1:InvestmentUniverseGroupId&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:IsLeveraged&gt;false&lt;/d2p1:IsLeveraged&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:IsMainOrder&gt;false&lt;/d2p1:IsMainOrder&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:Isin&gt;US4435731009&lt;/d2p1:Isin&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:Issuer&gt;0&lt;/d2p1:Issuer&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:Link i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:LinkParameter&gt;US4435731009&lt;/d2p1:LinkParameter&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:MainOrderId&gt;02e302cc-7aed-43d4-a069-67b2a51aed9b&lt;/d2p1:MainOrderId&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:Name&gt;HUBSPOT&lt;/d2p1:Name&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:OpenLinkInSameTab&gt;false&lt;/d2p1:OpenLinkInSameTab&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:OrderType&gt;BuyLimit&lt;/d2p1:OrderType&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:Performance i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:SecurityType&gt;620&lt;/d2p1:SecurityType&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:SubOrders i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:UnderlyingConcerned i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="unchanged"><span>            &lt;d2p1:Weightage&gt;0.00332846519465&lt;/d2p1:Weightage&gt;</span></li>
+    <li class="unchanged"><span>          &lt;/d2p1:WikifolioTrade&gt;</span></li>
+    <li class="unchanged"><span>        &lt;/d2p1:SubOrders&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:UnderlyingConcerned i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Weightage&gt;0.00598906211789&lt;/d2p1:Weightage&gt;</span></li>
+    <li class="unchanged"><span>      &lt;/d2p1:WikifolioTrade&gt;</span></li>
+    <li class="unchanged"><span>      &lt;d2p1:WikifolioTrade&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Cash i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:CorporateActionType i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:ExecutionDate&gt;2019-12-11T18:50:22+01:00&lt;/d2p1:ExecutionDate&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:ExecutionPrice&gt;87.420&lt;/d2p1:ExecutionPrice&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Id&gt;dcb1e140-f1ea-4e30-95e8-8124a8579ba6&lt;/d2p1:Id&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:InvestmentUniverseGroupId&gt;d917d5b5-aa2e-4200-8295-eb9fc26393e3&lt;/d2p1:InvestmentUniverseGroupId&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:IsLeveraged&gt;false&lt;/d2p1:IsLeveraged&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:IsMainOrder&gt;true&lt;/d2p1:IsMainOrder&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Isin&gt;US02156B1035&lt;/d2p1:Isin&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Issuer&gt;0&lt;/d2p1:Issuer&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Link&gt;/de/de/s/us02156b1035?wikifolio=wf0stwtech&lt;/d2p1:Link&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:LinkParameter&gt;US02156B1035&lt;/d2p1:LinkParameter&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:MainOrderId i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Name&gt;ALTERYX INC. A DL-,0001&lt;/d2p1:Name&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:OpenLinkInSameTab&gt;true&lt;/d2p1:OpenLinkInSameTab&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:OrderType&gt;BuyLimit&lt;/d2p1:OrderType&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Performance i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:SecurityType&gt;620&lt;/d2p1:SecurityType&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:SubOrders/&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:UnderlyingConcerned i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Weightage&gt;0.01614122030263&lt;/d2p1:Weightage&gt;</span></li>
+    <li class="unchanged"><span>      &lt;/d2p1:WikifolioTrade&gt;</span></li>
+    <li class="unchanged"><span>      &lt;d2p1:WikifolioTrade&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Cash i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:CorporateActionType i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:ExecutionDate&gt;2019-12-10T17:36:56+01:00&lt;/d2p1:ExecutionDate&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:ExecutionPrice&gt;119.800&lt;/d2p1:ExecutionPrice&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Id&gt;e1395a07-c50c-4e5f-9ce3-1c3928b3bcce&lt;/d2p1:Id&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:InvestmentUniverseGroupId&gt;d917d5b5-aa2e-4200-8295-eb9fc26393e3&lt;/d2p1:InvestmentUniverseGroupId&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:IsLeveraged&gt;false&lt;/d2p1:IsLeveraged&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:IsMainOrder&gt;true&lt;/d2p1:IsMainOrder&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Isin&gt;US60937P1066&lt;/d2p1:Isin&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Issuer&gt;0&lt;/d2p1:Issuer&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Link&gt;/de/de/s/us60937p1066?wikifolio=wf0stwtech&lt;/d2p1:Link&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:LinkParameter&gt;US60937P1066&lt;/d2p1:LinkParameter&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:MainOrderId i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Name&gt;MONGODB INC. CL.A&lt;/d2p1:Name&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:OpenLinkInSameTab&gt;true&lt;/d2p1:OpenLinkInSameTab&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:OrderType&gt;BuyLimit&lt;/d2p1:OrderType&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Performance i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:SecurityType&gt;620&lt;/d2p1:SecurityType&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:SubOrders/&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:UnderlyingConcerned i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Weightage&gt;0.01317614381373&lt;/d2p1:Weightage&gt;</span></li>
+    <li class="unchanged"><span>      &lt;/d2p1:WikifolioTrade&gt;</span></li>
+    <li class="unchanged"><span>      &lt;d2p1:WikifolioTrade&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Cash i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:CorporateActionType i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:ExecutionDate&gt;2019-12-03T14:21:01+01:00&lt;/d2p1:ExecutionDate&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:ExecutionPrice&gt;94.020&lt;/d2p1:ExecutionPrice&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Id&gt;24cca389-8a13-415b-b6ab-02362feef83b&lt;/d2p1:Id&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:InvestmentUniverseGroupId&gt;d917d5b5-aa2e-4200-8295-eb9fc26393e3&lt;/d2p1:InvestmentUniverseGroupId&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:IsLeveraged&gt;false&lt;/d2p1:IsLeveraged&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:IsMainOrder&gt;true&lt;/d2p1:IsMainOrder&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Isin&gt;US02156B1035&lt;/d2p1:Isin&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Issuer&gt;0&lt;/d2p1:Issuer&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Link&gt;/de/de/s/us02156b1035?wikifolio=wf0stwtech&lt;/d2p1:Link&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:LinkParameter&gt;US02156B1035&lt;/d2p1:LinkParameter&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:MainOrderId i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Name&gt;ALTERYX INC. A DL-,0001&lt;/d2p1:Name&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:OpenLinkInSameTab&gt;true&lt;/d2p1:OpenLinkInSameTab&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:OrderType&gt;BuyLimit&lt;/d2p1:OrderType&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Performance i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:SecurityType&gt;620&lt;/d2p1:SecurityType&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:SubOrders/&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:UnderlyingConcerned i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Weightage&gt;0.01716939028287&lt;/d2p1:Weightage&gt;</span></li>
+    <li class="unchanged"><span>      &lt;/d2p1:WikifolioTrade&gt;</span></li>
+    <li class="unchanged"><span>      &lt;d2p1:WikifolioTrade&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Cash i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:CorporateActionType i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:ExecutionDate&gt;2019-11-29T18:30:35+01:00&lt;/d2p1:ExecutionDate&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:ExecutionPrice&gt;33.605&lt;/d2p1:ExecutionPrice&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Id&gt;457595d9-3ef9-4bff-918a-364ffa4f9fc2&lt;/d2p1:Id&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:InvestmentUniverseGroupId&gt;d917d5b5-aa2e-4200-8295-eb9fc26393e3&lt;/d2p1:InvestmentUniverseGroupId&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:IsLeveraged&gt;false&lt;/d2p1:IsLeveraged&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:IsMainOrder&gt;true&lt;/d2p1:IsMainOrder&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Isin&gt;US67059N1081&lt;/d2p1:Isin&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Issuer&gt;0&lt;/d2p1:Issuer&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Link&gt;/de/de/s/us67059n1081?wikifolio=wf0stwtech&lt;/d2p1:Link&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:LinkParameter&gt;US67059N1081&lt;/d2p1:LinkParameter&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:MainOrderId i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Name&gt;NUTANIX INC. A&lt;/d2p1:Name&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:OpenLinkInSameTab&gt;true&lt;/d2p1:OpenLinkInSameTab&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:OrderType&gt;SellLimit&lt;/d2p1:OrderType&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Performance&gt;0.35697390095613&lt;/d2p1:Performance&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:SecurityType&gt;620&lt;/d2p1:SecurityType&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:SubOrders/&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:UnderlyingConcerned i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Weightage&gt;0.02006380486452&lt;/d2p1:Weightage&gt;</span></li>
+    <li class="unchanged"><span>      &lt;/d2p1:WikifolioTrade&gt;</span></li>
+    <li class="unchanged"><span>      &lt;d2p1:WikifolioTrade&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Cash i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:CorporateActionType i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:ExecutionDate&gt;2019-11-29T18:17:20+01:00&lt;/d2p1:ExecutionDate&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:ExecutionPrice&gt;39.725&lt;/d2p1:ExecutionPrice&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Id&gt;fb1377b2-7528-456b-811a-5c5960d4ce72&lt;/d2p1:Id&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:InvestmentUniverseGroupId&gt;d917d5b5-aa2e-4200-8295-eb9fc26393e3&lt;/d2p1:InvestmentUniverseGroupId&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:IsLeveraged&gt;false&lt;/d2p1:IsLeveraged&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:IsMainOrder&gt;true&lt;/d2p1:IsMainOrder&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Isin&gt;US29786A1060&lt;/d2p1:Isin&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Issuer&gt;0&lt;/d2p1:Issuer&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Link&gt;/de/de/s/us29786a1060?wikifolio=wf0stwtech&lt;/d2p1:Link&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:LinkParameter&gt;US29786A1060&lt;/d2p1:LinkParameter&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:MainOrderId i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Name&gt;ETSY&lt;/d2p1:Name&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:OpenLinkInSameTab&gt;true&lt;/d2p1:OpenLinkInSameTab&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:OrderType&gt;BuyLimit&lt;/d2p1:OrderType&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Performance i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:SecurityType&gt;620&lt;/d2p1:SecurityType&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:SubOrders/&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:UnderlyingConcerned i:nil=&quot;true&quot;/&gt;</span></li>
+    <li class="unchanged"><span>        &lt;d2p1:Weightage&gt;0.03009056546675&lt;/d2p1:Weightage&gt;</span></li>
+    <li class="unchanged"><span>      &lt;/d2p1:WikifolioTrade&gt;</span></li>
+    <li class="del"><del>      &lt;d2p1:WikifolioTrade&gt;</del></li>
+    <li class="del"><del>        &lt;d2p1:Cash i:nil=&quot;true&quot;/&gt;</del></li>
+    <li class="del"><del>        &lt;d2p1:CorporateActionType i:nil=&quot;true&quot;/&gt;</del></li>
+    <li class="del"><del>        &lt;d2p1:ExecutionDate&gt;2019-11-27T15:07:07+01:00&lt;/d2p1:ExecutionDate&gt;</del></li>
+    <li class="del"><del>        &lt;d2p1:ExecutionPrice&gt;138.580&lt;/d2p1:ExecutionPrice&gt;</del></li>
+    <li class="del"><del>        &lt;d2p1:Id&gt;c63edc00-fdaf-42bc-ae9c-f7229d85bd48&lt;/d2p1:Id&gt;</del></li>
+    <li class="del"><del>        &lt;d2p1:InvestmentUniverseGroupId&gt;d917d5b5-aa2e-4200-8295-eb9fc26393e3&lt;/d2p1:InvestmentUniverseGroupId&gt;</del></li>
+    <li class="del"><del>        &lt;d2p1:IsLeveraged&gt;false&lt;/d2p1:IsLeveraged&gt;</del></li>
+    <li class="del"><del>        &lt;d2p1:IsMainOrder&gt;true&lt;/d2p1:IsMainOrder&gt;</del></li>
+    <li class="del"><del>        &lt;d2p1:Isin&gt;US5949181045&lt;/d2p1:Isin&gt;</del></li>
+    <li class="del"><del>        &lt;d2p1:Issuer&gt;0&lt;/d2p1:Issuer&gt;</del></li>
+    <li class="del"><del>        &lt;d2p1:Link&gt;/de/de/s/us5949181045?wikifolio=wf0stwtech&lt;/d2p1:Link&gt;</del></li>
+    <li class="del"><del>        &lt;d2p1:LinkParameter&gt;US5949181045&lt;/d2p1:LinkParameter&gt;</del></li>
+    <li class="del"><del>        &lt;d2p1:MainOrderId i:nil=&quot;true&quot;/&gt;</del></li>
+    <li class="del"><del>        &lt;d2p1:Name&gt;MICROSOFT CORP. DL -,001&lt;/d2p1:Name&gt;</del></li>
+    <li class="del"><del>        &lt;d2p1:OpenLinkInSameTab&gt;true&lt;/d2p1:OpenLinkInSameTab&gt;</del></li>
+    <li class="del"><del>        &lt;d2p1:OrderType&gt;Sell&lt;/d2p1:OrderType&gt;</del></li>
+    <li class="del"><del>        &lt;d2p1:Performance&gt;1.70530206408289&lt;/d2p1:Performance&gt;</del></li>
+    <li class="del"><del>        &lt;d2p1:SecurityType&gt;620&lt;/d2p1:SecurityType&gt;</del></li>
+    <li class="del"><del>        &lt;d2p1:SubOrders/&gt;</del></li>
+    <li class="del"><del>        &lt;d2p1:UnderlyingConcerned i:nil=&quot;true&quot;/&gt;</del></li>
+    <li class="del"><del>        &lt;d2p1:Weightage&gt;0.00064036004081&lt;/d2p1:Weightage&gt;</del></li>
+    <li class="del"><del>      &lt;/d2p1:WikifolioTrade&gt;</del></li>
+    <li class="del"><del>      &lt;d2p1:WikifolioTrade&gt;</del></li>
+    <li class="del"><del>        &lt;d2p1:Cash i:nil=&quot;true&quot;/&gt;</del></li>
+    <li class="del"><del>        &lt;d2p1:CorporateActionType i:nil=&quot;true&quot;/&gt;</del></li>
+    <li class="del"><del>        &lt;d2p1:ExecutionDate&gt;2019-11-15T15:32:04+01:00&lt;/d2p1:ExecutionDate&gt;</del></li>
+    <li class="del"><del>        &lt;d2p1:ExecutionPrice&gt;114.633&lt;/d2p1:ExecutionPrice&gt;</del></li>
+    <li class="del"><del>        &lt;d2p1:Id&gt;ca5ea8e5-0f15-4bad-af18-e3ffa997f9df&lt;/d2p1:Id&gt;</del></li>
+    <li class="del"><del>        &lt;d2p1:InvestmentUniverseGroupId&gt;8e2a0d6a-ef46-4584-b183-a1bf3c159e8a&lt;/d2p1:InvestmentUniverseGroupId&gt;</del></li>
+    <li class="del"><del>        &lt;d2p1:IsLeveraged&gt;false&lt;/d2p1:IsLeveraged&gt;</del></li>
+    <li class="del"><del>        &lt;d2p1:IsMainOrder&gt;true&lt;/d2p1:IsMainOrder&gt;</del></li>
+    <li class="del"><del>        &lt;d2p1:Isin&gt;IL0011301780&lt;/d2p1:Isin&gt;</del></li>
+    <li class="del"><del>        &lt;d2p1:Issuer&gt;0&lt;/d2p1:Issuer&gt;</del></li>
+    <li class="del"><del>        &lt;d2p1:Link&gt;/de/de/s/il0011301780?wikifolio=wf0stwtech&lt;/d2p1:Link&gt;</del></li>
+    <li class="del"><del>        &lt;d2p1:LinkParameter&gt;IL0011301780&lt;/d2p1:LinkParameter&gt;</del></li>
+    <li class="del"><del>        &lt;d2p1:MainOrderId i:nil=&quot;true&quot;/&gt;</del></li>
+    <li class="del"><del>        &lt;d2p1:Name&gt;WIX.COM LTD.&lt;/d2p1:Name&gt;</del></li>
+    <li class="del"><del>        &lt;d2p1:OpenLinkInSameTab&gt;true&lt;/d2p1:OpenLinkInSameTab&gt;</del></li>
+    <li class="del"><del>        &lt;d2p1:OrderType&gt;SellLimit&lt;/d2p1:OrderType&gt;</del></li>
+    <li class="del"><del>        &lt;d2p1:Performance&gt;0.6800571851025&lt;/d2p1:Performance&gt;</del></li>
+    <li class="del"><del>        &lt;d2p1:SecurityType&gt;620&lt;/d2p1:SecurityType&gt;</del></li>
+    <li class="del"><del>        &lt;d2p1:SubOrders&gt;</del></li>
+    <li class="del"><del>          &lt;d2p1:WikifolioTrade&gt;</del></li>
+    <li class="del"><del>            &lt;d2p1:Cash i:nil=&quot;true&quot;/&gt;</del></li>
+    <li class="del"><del>            &lt;d2p1:CorporateActionType i:nil=&quot;true&quot;/&gt;</del></li>
+    <li class="del"><del>            &lt;d2p1:ExecutionDate&gt;2019-11-15T15:32:04+01:00&lt;/d2p1:ExecutionDate&gt;</del></li>
+    <li class="del"><del>            &lt;d2p1:ExecutionPrice&gt;114.650&lt;/d2p1:ExecutionPrice&gt;</del></li>
+    <li class="del"><del>            &lt;d2p1:Id&gt;c7bc5d97-1483-7707-e054-b499bab3423c&lt;/d2p1:Id&gt;</del></li>
+    <li class="del"><del>            &lt;d2p1:InvestmentUniverseGroupId&gt;8e2a0d6a-ef46-4584-b183-a1bf3c159e8a&lt;/d2p1:InvestmentUniverseGroupId&gt;</del></li>
+    <li class="del"><del>            &lt;d2p1:IsLeveraged&gt;false&lt;/d2p1:IsLeveraged&gt;</del></li>
+    <li class="del"><del>            &lt;d2p1:IsMainOrder&gt;false&lt;/d2p1:IsMainOrder&gt;</del></li>
+    <li class="del"><del>            &lt;d2p1:Isin&gt;IL0011301780&lt;/d2p1:Isin&gt;</del></li>
+    <li class="del"><del>            &lt;d2p1:Issuer&gt;0&lt;/d2p1:Issuer&gt;</del></li>
+    <li class="del"><del>            &lt;d2p1:Link i:nil=&quot;true&quot;/&gt;</del></li>
+    <li class="del"><del>            &lt;d2p1:LinkParameter&gt;IL0011301780&lt;/d2p1:LinkParameter&gt;</del></li>
+    <li class="del"><del>            &lt;d2p1:MainOrderId&gt;c7bc5d97-c882-7707-e054-b499bab3423c&lt;/d2p1:MainOrderId&gt;</del></li>
+    <li class="del"><del>            &lt;d2p1:Name&gt;WIX.COM LTD.&lt;/d2p1:Name&gt;</del></li>
+    <li class="del"><del>            &lt;d2p1:OpenLinkInSameTab&gt;false&lt;/d2p1:OpenLinkInSameTab&gt;</del></li>
+    <li class="del"><del>            &lt;d2p1:OrderType&gt;SellLimit&lt;/d2p1:OrderType&gt;</del></li>
+    <li class="del"><del>            &lt;d2p1:Performance&gt;0.68397397294479&lt;/d2p1:Performance&gt;</del></li>
+    <li class="del"><del>            &lt;d2p1:SecurityType&gt;620&lt;/d2p1:SecurityType&gt;</del></li>
+    <li class="del"><del>            &lt;d2p1:SubOrders i:nil=&quot;true&quot;/&gt;</del></li>
+    <li class="del"><del>            &lt;d2p1:UnderlyingConcerned i:nil=&quot;true&quot;/&gt;</del></li>
+    <li class="del"><del>            &lt;d2p1:Weightage&gt;0.01852337007162&lt;/d2p1:Weightage&gt;</del></li>
+    <li class="del"><del>          &lt;/d2p1:WikifolioTrade&gt;</del></li>
+    <li class="del"><del>          &lt;d2p1:WikifolioTrade&gt;</del></li>
+    <li class="del"><del>            &lt;d2p1:Cash i:nil=&quot;true&quot;/&gt;</del></li>
+    <li class="del"><del>            &lt;d2p1:CorporateActionType i:nil=&quot;true&quot;/&gt;</del></li>
+    <li class="del"><del>            &lt;d2p1:ExecutionDate&gt;2019-11-15T15:31:33+01:00&lt;/d2p1:ExecutionDate&gt;</del></li>
+    <li class="del"><del>            &lt;d2p1:ExecutionPrice&gt;114.650&lt;/d2p1:ExecutionPrice&gt;</del></li>
+    <li class="del"><del>            &lt;d2p1:Id&gt;c7bc5d97-1383-7707-e054-b499bab3423c&lt;/d2p1:Id&gt;</del></li>
+    <li class="del"><del>            &lt;d2p1:InvestmentUniverseGroupId&gt;8e2a0d6a-ef46-4584-b183-a1bf3c159e8a&lt;/d2p1:InvestmentUniverseGroupId&gt;</del></li>
+    <li class="del"><del>            &lt;d2p1:IsLeveraged&gt;false&lt;/d2p1:IsLeveraged&gt;</del></li>
+    <li class="del"><del>            &lt;d2p1:IsMainOrder&gt;false&lt;/d2p1:IsMainOrder&gt;</del></li>
+    <li class="del"><del>            &lt;d2p1:Isin&gt;IL0011301780&lt;/d2p1:Isin&gt;</del></li>
+    <li class="del"><del>            &lt;d2p1:Issuer&gt;0&lt;/d2p1:Issuer&gt;</del></li>
+    <li class="del"><del>            &lt;d2p1:Link i:nil=&quot;true&quot;/&gt;</del></li>
+    <li class="del"><del>            &lt;d2p1:LinkParameter&gt;IL0011301780&lt;/d2p1:LinkParameter&gt;</del></li>
+    <li class="del"><del>            &lt;d2p1:MainOrderId&gt;c7bc5d97-c882-7707-e054-b499bab3423c&lt;/d2p1:MainOrderId&gt;</del></li>
+    <li class="del"><del>            &lt;d2p1:Name&gt;WIX.COM LTD.&lt;/d2p1:Name&gt;</del></li>
+    <li class="del"><del>            &lt;d2p1:OpenLinkInSameTab&gt;false&lt;/d2p1:OpenLinkInSameTab&gt;</del></li>
+    <li class="del"><del>            &lt;d2p1:OrderType&gt;SellLimit&lt;/d2p1:OrderType&gt;</del></li>
+    <li class="del"><del>            &lt;d2p1:Performance&gt;0.68397397294479&lt;/d2p1:Performance&gt;</del></li>
+    <li class="del"><del>            &lt;d2p1:SecurityType&gt;620&lt;/d2p1:SecurityType&gt;</del></li>
+    <li class="del"><del>            &lt;d2p1:SubOrders i:nil=&quot;true&quot;/&gt;</del></li>
+    <li class="del"><del>            &lt;d2p1:UnderlyingConcerned i:nil=&quot;true&quot;/&gt;</del></li>
+    <li class="del"><del>            &lt;d2p1:Weightage&gt;0.00654164052657&lt;/d2p1:Weightage&gt;</del></li>
+    <li class="del"><del>          &lt;/d2p1:WikifolioTrade&gt;</del></li>
+    <li class="del"><del>          &lt;d2p1:WikifolioTrade&gt;</del></li>
+    <li class="del"><del>            &lt;d2p1:Cash i:nil=&quot;true&quot;/&gt;</del></li>
+    <li class="del"><del>            &lt;d2p1:CorporateActionType i:nil=&quot;true&quot;/&gt;</del></li>
+    <li class="del"><del>            &lt;d2p1:ExecutionDate&gt;2019-11-15T10:05:21+01:00&lt;/d2p1:ExecutionDate&gt;</del></li>
+    <li class="del"><del>            &lt;d2p1:ExecutionPrice&gt;113.850&lt;/d2p1:ExecutionPrice&gt;</del></li>
+    <li class="del"><del>            &lt;d2p1:Id&gt;c7bc5d97-c782-7707-e054-b499bab3423c&lt;/d2p1:Id&gt;</del></li>
+    <li class="del"><del>            &lt;d2p1:InvestmentUniverseGroupId&gt;8e2a0d6a-ef46-4584-b183-a1bf3c159e8a&lt;/d2p1:InvestmentUniverseGroupId&gt;</del></li>
+    <li class="del"><del>            &lt;d2p1:IsLeveraged&gt;false&lt;/d2p1:IsLeveraged&gt;</del></li>
+    <li class="del"><del>            &lt;d2p1:IsMainOrder&gt;false&lt;/d2p1:IsMainOrder&gt;</del></li>
+    <li class="del"><del>            &lt;d2p1:Isin&gt;IL0011301780&lt;/d2p1:Isin&gt;</del></li>
+    <li class="del"><del>            &lt;d2p1:Issuer&gt;0&lt;/d2p1:Issuer&gt;</del></li>
+    <li class="del"><del>            &lt;d2p1:Link i:nil=&quot;true&quot;/&gt;</del></li>
+    <li class="del"><del>            &lt;d2p1:LinkParameter&gt;IL0011301780&lt;/d2p1:LinkParameter&gt;</del></li>
+    <li class="del"><del>            &lt;d2p1:MainOrderId&gt;ca5ea8e5-0f15-4bad-af18-e3ffa997f9df&lt;/d2p1:MainOrderId&gt;</del></li>
+    <li class="del"><del>            &lt;d2p1:Name&gt;WIX.COM LTD.&lt;/d2p1:Name&gt;</del></li>
+    <li class="del"><del>            &lt;d2p1:OpenLinkInSameTab&gt;false&lt;/d2p1:OpenLinkInSameTab&gt;</del></li>
+    <li class="del"><del>            &lt;d2p1:OrderType&gt;SellLimit&lt;/d2p1:OrderType&gt;</del></li>
+    <li class="del"><del>            &lt;d2p1:Performance&gt;0.67222360941792&lt;/d2p1:Performance&gt;</del></li>
+    <li class="del"><del>            &lt;d2p1:SecurityType&gt;620&lt;/d2p1:SecurityType&gt;</del></li>
+    <li class="del"><del>            &lt;d2p1:SubOrders i:nil=&quot;true&quot;/&gt;</del></li>
+    <li class="del"><del>            &lt;d2p1:UnderlyingConcerned i:nil=&quot;true&quot;/&gt;</del></li>
+    <li class="del"><del>            &lt;d2p1:Weightage&gt;0.00054227665034&lt;/d2p1:Weightage&gt;</del></li>
+    <li class="del"><del>          &lt;/d2p1:WikifolioTrade&gt;</del></li>
+    <li class="del"><del>        &lt;/d2p1:SubOrders&gt;</del></li>
+    <li class="del"><del>        &lt;d2p1:UnderlyingConcerned i:nil=&quot;true&quot;/&gt;</del></li>
+    <li class="del"><del>        &lt;d2p1:Weightage&gt;0.00853576241617&lt;/d2p1:Weightage&gt;</del></li>
+    <li class="del"><del>      &lt;/d2p1:WikifolioTrade&gt;</del></li>
+    <li class="del"><del>      &lt;d2p1:WikifolioTrade&gt;</del></li>
+    <li class="del"><del>        &lt;d2p1:Cash i:nil=&quot;true&quot;/&gt;</del></li>
+    <li class="del"><del>        &lt;d2p1:CorporateActionType i:nil=&quot;true&quot;/&gt;</del></li>
+    <li class="del"><del>        &lt;d2p1:ExecutionDate&gt;2019-11-14T08:31:37+01:00&lt;/d2p1:ExecutionDate&gt;</del></li>
+    <li class="del"><del>        &lt;d2p1:ExecutionPrice&gt;36.950&lt;/d2p1:ExecutionPrice&gt;</del></li>
+    <li class="del"><del>        &lt;d2p1:Id&gt;2a9eff93-2d72-4f97-b4d8-2b50a4395048&lt;/d2p1:Id&gt;</del></li>
+    <li class="del"><del>        &lt;d2p1:InvestmentUniverseGroupId&gt;8e2a0d6a-ef46-4584-b183-a1bf3c159e8a&lt;/d2p1:InvestmentUniverseGroupId&gt;</del></li>
+    <li class="del"><del>        &lt;d2p1:IsLeveraged&gt;false&lt;/d2p1:IsLeveraged&gt;</del></li>
+    <li class="del"><del>        &lt;d2p1:IsMainOrder&gt;true&lt;/d2p1:IsMainOrder&gt;</del></li>
+    <li class="del"><del>        &lt;d2p1:Isin&gt;KYG875721634&lt;/d2p1:Isin&gt;</del></li>
+    <li class="del"><del>        &lt;d2p1:Issuer&gt;0&lt;/d2p1:Issuer&gt;</del></li>
+    <li class="del"><del>        &lt;d2p1:Link&gt;/de/de/s/kyg875721634?wikifolio=wf0stwtech&lt;/d2p1:Link&gt;</del></li>
+    <li class="del"><del>        &lt;d2p1:LinkParameter&gt;KYG875721634&lt;/d2p1:LinkParameter&gt;</del></li>
+    <li class="del"><del>        &lt;d2p1:MainOrderId i:nil=&quot;true&quot;/&gt;</del></li>
+    <li class="del"><del>        &lt;d2p1:Name&gt;TENCENT HLDG. LTD&lt;/d2p1:Name&gt;</del></li>
+    <li class="del"><del>        &lt;d2p1:OpenLinkInSameTab&gt;true&lt;/d2p1:OpenLinkInSameTab&gt;</del></li>
+    <li class="del"><del>        &lt;d2p1:OrderType&gt;SellLimit&lt;/d2p1:OrderType&gt;</del></li>
+    <li class="del"><del>        &lt;d2p1:Performance&gt;-0.0180752868485&lt;/d2p1:Performance&gt;</del></li>
+    <li class="del"><del>        &lt;d2p1:SecurityType&gt;620&lt;/d2p1:SecurityType&gt;</del></li>
+    <li class="del"><del>        &lt;d2p1:SubOrders/&gt;</del></li>
+    <li class="del"><del>        &lt;d2p1:UnderlyingConcerned i:nil=&quot;true&quot;/&gt;</del></li>
+    <li class="del"><del>        &lt;d2p1:Weightage&gt;0.02899507062756&lt;/d2p1:Weightage&gt;</del></li>
+    <li class="del"><del>      &lt;/d2p1:WikifolioTrade&gt;</del></li>
+    <li class="unchanged"><span>    &lt;/d2p1:Orders&gt;</span></li>
+    <li class="del"><del>    &lt;d2p1:PageCount&gt;2<strong>2</strong>&lt;/d2p1:PageCount&gt;</del></li>
+    <li class="ins"><ins>    &lt;d2p1:PageCount&gt;2<strong>3</strong>&lt;/d2p1:PageCount&gt;</ins></li>
+    <li class="unchanged"><span>  &lt;/TradeHistory&gt;</span></li>
+    <li class="unchanged"><span>&lt;/WikifolioDetailTradeHistoryModel&gt;</span></li>
+  </ul>
+</div>
