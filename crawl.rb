@@ -119,7 +119,7 @@ eventbus.subscribe do |event|
   if !email_body.empty?
     mail = Mail.deliver do
       from    "test@medicomit.de"
-      to      "js@net-up.de"
+      to      "tobias.schneider@net-up.de"
       subject email_subject
       body    email_body
     end
