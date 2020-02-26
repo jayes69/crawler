@@ -18,234 +18,234 @@
       <d2p1:WikifolioTrade>
         <d2p1:Cash i:nil="true"/>
         <d2p1:CorporateActionType i:nil="true"/>
-        <d2p1:ExecutionDate>2020-01-16T10:51:24+01:00</d2p1:ExecutionDate>
-        <d2p1:ExecutionPrice>55.700</d2p1:ExecutionPrice>
-        <d2p1:Id>7ad51227-63c3-4c08-b0d8-fcf8313af86a</d2p1:Id>
+        <d2p1:ExecutionDate>2020-02-26T10:25:11+01:00</d2p1:ExecutionDate>
+        <d2p1:ExecutionPrice>53.700</d2p1:ExecutionPrice>
+        <d2p1:Id>9569527f-2dad-40e2-a486-fff88ea6cb36</d2p1:Id>
         <d2p1:InvestmentUniverseGroupId>414afbc2-0e2a-4fce-87fb-41e53b94f125</d2p1:InvestmentUniverseGroupId>
         <d2p1:IsLeveraged>false</d2p1:IsLeveraged>
         <d2p1:IsMainOrder>true</d2p1:IsMainOrder>
-        <d2p1:Isin>DE0005102008</d2p1:Isin>
+        <d2p1:Isin>DE000A0Z23Q5</d2p1:Isin>
         <d2p1:Issuer>0</d2p1:Issuer>
-        <d2p1:Link>/de/de/s/de0005102008?wikifolio=wf00esi893</d2p1:Link>
-        <d2p1:LinkParameter>DE0005102008</d2p1:LinkParameter>
+        <d2p1:Link>/de/de/s/de000a0z23q5?wikifolio=wf00esi893</d2p1:Link>
+        <d2p1:LinkParameter>DE000A0Z23Q5</d2p1:LinkParameter>
         <d2p1:MainOrderId i:nil="true"/>
-        <d2p1:Name>BASLER AG O.N.</d2p1:Name>
+        <d2p1:Name>ADESSO SE  INH O.N.</d2p1:Name>
         <d2p1:OpenLinkInSameTab>true</d2p1:OpenLinkInSameTab>
-        <d2p1:OrderType>Buy</d2p1:OrderType>
+        <d2p1:OrderType>BuyLimit</d2p1:OrderType>
         <d2p1:Performance i:nil="true"/>
         <d2p1:SecurityType>620</d2p1:SecurityType>
         <d2p1:SubOrders/>
         <d2p1:UnderlyingConcerned i:nil="true"/>
-        <d2p1:Weightage>0.02557097331854</d2p1:Weightage>
+        <d2p1:Weightage>0.03439638266158</d2p1:Weightage>
       </d2p1:WikifolioTrade>
       <d2p1:WikifolioTrade>
         <d2p1:Cash i:nil="true"/>
         <d2p1:CorporateActionType i:nil="true"/>
-        <d2p1:ExecutionDate>2020-01-15T10:59:04+01:00</d2p1:ExecutionDate>
-        <d2p1:ExecutionPrice>7.200</d2p1:ExecutionPrice>
-        <d2p1:Id>d81a185f-40fb-43bb-a5b7-293e54c8f80f</d2p1:Id>
+        <d2p1:ExecutionDate>2020-02-26T10:07:18+01:00</d2p1:ExecutionDate>
+        <d2p1:ExecutionPrice>282.000</d2p1:ExecutionPrice>
+        <d2p1:Id>b3d482cb-9ab2-49ff-a197-b8f52b787893</d2p1:Id>
         <d2p1:InvestmentUniverseGroupId>414afbc2-0e2a-4fce-87fb-41e53b94f125</d2p1:InvestmentUniverseGroupId>
         <d2p1:IsLeveraged>false</d2p1:IsLeveraged>
         <d2p1:IsMainOrder>true</d2p1:IsMainOrder>
-        <d2p1:Isin>DE0005201602</d2p1:Isin>
+        <d2p1:Isin>DE0006292030</d2p1:Isin>
         <d2p1:Issuer>0</d2p1:Issuer>
-        <d2p1:Link>/de/de/s/de0005201602?wikifolio=wf00esi893</d2p1:Link>
-        <d2p1:LinkParameter>DE0005201602</d2p1:LinkParameter>
+        <d2p1:Link>/de/de/s/de0006292030?wikifolio=wf00esi893</d2p1:Link>
+        <d2p1:LinkParameter>DE0006292030</d2p1:LinkParameter>
         <d2p1:MainOrderId i:nil="true"/>
-        <d2p1:Name>BERENTZEN-GRP ST</d2p1:Name>
-        <d2p1:OpenLinkInSameTab>true</d2p1:OpenLinkInSameTab>
-        <d2p1:OrderType>Buy</d2p1:OrderType>
-        <d2p1:Performance i:nil="true"/>
-        <d2p1:SecurityType>620</d2p1:SecurityType>
-        <d2p1:SubOrders/>
-        <d2p1:UnderlyingConcerned i:nil="true"/>
-        <d2p1:Weightage>0.03318384240151</d2p1:Weightage>
-      </d2p1:WikifolioTrade>
-      <d2p1:WikifolioTrade>
-        <d2p1:Cash i:nil="true"/>
-        <d2p1:CorporateActionType i:nil="true"/>
-        <d2p1:ExecutionDate>2020-01-14T20:59:39+01:00</d2p1:ExecutionDate>
-        <d2p1:ExecutionPrice>4.570</d2p1:ExecutionPrice>
-        <d2p1:Id>57439fbd-94af-4548-af66-7c69b00bb87d</d2p1:Id>
-        <d2p1:InvestmentUniverseGroupId>414afbc2-0e2a-4fce-87fb-41e53b94f125</d2p1:InvestmentUniverseGroupId>
-        <d2p1:IsLeveraged>false</d2p1:IsLeveraged>
-        <d2p1:IsMainOrder>true</d2p1:IsMainOrder>
-        <d2p1:Isin>DE000A0Z23G6</d2p1:Isin>
-        <d2p1:Issuer>0</d2p1:Issuer>
-        <d2p1:Link>/de/de/s/de000a0z23g6?wikifolio=wf00esi893</d2p1:Link>
-        <d2p1:LinkParameter>DE000A0Z23G6</d2p1:LinkParameter>
-        <d2p1:MainOrderId i:nil="true"/>
-        <d2p1:Name>DEAG DT.ENTERTAINM. O.N.</d2p1:Name>
-        <d2p1:OpenLinkInSameTab>true</d2p1:OpenLinkInSameTab>
-        <d2p1:OrderType>Buy</d2p1:OrderType>
-        <d2p1:Performance i:nil="true"/>
-        <d2p1:SecurityType>620</d2p1:SecurityType>
-        <d2p1:SubOrders/>
-        <d2p1:UnderlyingConcerned i:nil="true"/>
-        <d2p1:Weightage>0.03091528560206</d2p1:Weightage>
-      </d2p1:WikifolioTrade>
-      <d2p1:WikifolioTrade>
-        <d2p1:Cash i:nil="true"/>
-        <d2p1:CorporateActionType i:nil="true"/>
-        <d2p1:ExecutionDate>2020-01-14T11:28:26+01:00</d2p1:ExecutionDate>
-        <d2p1:ExecutionPrice>20.900</d2p1:ExecutionPrice>
-        <d2p1:Id>4c32e828-4aad-4e12-a064-a5f5719f2932</d2p1:Id>
-        <d2p1:InvestmentUniverseGroupId>414afbc2-0e2a-4fce-87fb-41e53b94f125</d2p1:InvestmentUniverseGroupId>
-        <d2p1:IsLeveraged>false</d2p1:IsLeveraged>
-        <d2p1:IsMainOrder>true</d2p1:IsMainOrder>
-        <d2p1:Isin>DE0006084403</d2p1:Isin>
-        <d2p1:Issuer>0</d2p1:Issuer>
-        <d2p1:Link>/de/de/s/de0006084403?wikifolio=wf00esi893</d2p1:Link>
-        <d2p1:LinkParameter>DE0006084403</d2p1:LinkParameter>
-        <d2p1:MainOrderId i:nil="true"/>
-        <d2p1:Name>HORNBACH-BAUMARKT O.N.</d2p1:Name>
-        <d2p1:OpenLinkInSameTab>true</d2p1:OpenLinkInSameTab>
-        <d2p1:OrderType>Buy</d2p1:OrderType>
-        <d2p1:Performance i:nil="true"/>
-        <d2p1:SecurityType>620</d2p1:SecurityType>
-        <d2p1:SubOrders/>
-        <d2p1:UnderlyingConcerned i:nil="true"/>
-        <d2p1:Weightage>0.03225748940718</d2p1:Weightage>
-      </d2p1:WikifolioTrade>
-      <d2p1:WikifolioTrade>
-        <d2p1:Cash i:nil="true"/>
-        <d2p1:CorporateActionType i:nil="true"/>
-        <d2p1:ExecutionDate>2020-01-13T15:43:25+01:00</d2p1:ExecutionDate>
-        <d2p1:ExecutionPrice>19.050</d2p1:ExecutionPrice>
-        <d2p1:Id>9c3888cb-a471-4882-bf93-5aa18bd40196</d2p1:Id>
-        <d2p1:InvestmentUniverseGroupId>414afbc2-0e2a-4fce-87fb-41e53b94f125</d2p1:InvestmentUniverseGroupId>
-        <d2p1:IsLeveraged>false</d2p1:IsLeveraged>
-        <d2p1:IsMainOrder>true</d2p1:IsMainOrder>
-        <d2p1:Isin>DE000A0Z2XN6</d2p1:Isin>
-        <d2p1:Issuer>0</d2p1:Issuer>
-        <d2p1:Link>/de/de/s/de000a0z2xn6?wikifolio=wf00esi893</d2p1:Link>
-        <d2p1:LinkParameter>DE000A0Z2XN6</d2p1:LinkParameter>
-        <d2p1:MainOrderId i:nil="true"/>
-        <d2p1:Name>RIB SOFTWARE SE  NA EO 1</d2p1:Name>
+        <d2p1:Name>KSB SE &amp; CO. KGAA INHABER-VORZUGSAKT.O.ST.O.N.</d2p1:Name>
         <d2p1:OpenLinkInSameTab>true</d2p1:OpenLinkInSameTab>
         <d2p1:OrderType>Sell</d2p1:OrderType>
-        <d2p1:Performance>0.00474683544304</d2p1:Performance>
+        <d2p1:Performance>-0.08772193800782</d2p1:Performance>
         <d2p1:SecurityType>620</d2p1:SecurityType>
         <d2p1:SubOrders/>
         <d2p1:UnderlyingConcerned i:nil="true"/>
-        <d2p1:Weightage>0.02344683057916</d2p1:Weightage>
+        <d2p1:Weightage>0.038781633198</d2p1:Weightage>
       </d2p1:WikifolioTrade>
       <d2p1:WikifolioTrade>
         <d2p1:Cash i:nil="true"/>
         <d2p1:CorporateActionType i:nil="true"/>
-        <d2p1:ExecutionDate>2020-01-13T15:42:48+01:00</d2p1:ExecutionDate>
-        <d2p1:ExecutionPrice>34.200</d2p1:ExecutionPrice>
-        <d2p1:Id>93198789-7a1e-4f59-892f-49855202fbd3</d2p1:Id>
+        <d2p1:ExecutionDate>2020-02-26T09:42:11+01:00</d2p1:ExecutionDate>
+        <d2p1:ExecutionPrice>612.500</d2p1:ExecutionPrice>
+        <d2p1:Id>093e330f-5482-413a-aaf5-56c697b83e5c</d2p1:Id>
         <d2p1:InvestmentUniverseGroupId>414afbc2-0e2a-4fce-87fb-41e53b94f125</d2p1:InvestmentUniverseGroupId>
         <d2p1:IsLeveraged>false</d2p1:IsLeveraged>
         <d2p1:IsMainOrder>true</d2p1:IsMainOrder>
-        <d2p1:Isin>DE0006042708</d2p1:Isin>
+        <d2p1:Isin>DE0007010803</d2p1:Isin>
         <d2p1:Issuer>0</d2p1:Issuer>
-        <d2p1:Link>/de/de/s/de0006042708?wikifolio=wf00esi893</d2p1:Link>
-        <d2p1:LinkParameter>DE0006042708</d2p1:LinkParameter>
+        <d2p1:Link>/de/de/s/de0007010803?wikifolio=wf00esi893</d2p1:Link>
+        <d2p1:LinkParameter>DE0007010803</d2p1:LinkParameter>
         <d2p1:MainOrderId i:nil="true"/>
-        <d2p1:Name>HAWESKO HOLDING AG SVG</d2p1:Name>
+        <d2p1:Name>RATIONAL AG</d2p1:Name>
         <d2p1:OpenLinkInSameTab>true</d2p1:OpenLinkInSameTab>
         <d2p1:OrderType>Sell</d2p1:OrderType>
-        <d2p1:Performance>-0.01156069364162</d2p1:Performance>
+        <d2p1:Performance>-0.00729335494327</d2p1:Performance>
         <d2p1:SecurityType>620</d2p1:SecurityType>
         <d2p1:SubOrders/>
         <d2p1:UnderlyingConcerned i:nil="true"/>
-        <d2p1:Weightage>0.0263076481551</d2p1:Weightage>
+        <d2p1:Weightage>0.05876658831156</d2p1:Weightage>
       </d2p1:WikifolioTrade>
       <d2p1:WikifolioTrade>
         <d2p1:Cash i:nil="true"/>
         <d2p1:CorporateActionType i:nil="true"/>
-        <d2p1:ExecutionDate>2020-01-13T14:56:47+01:00</d2p1:ExecutionDate>
-        <d2p1:ExecutionPrice>80.700</d2p1:ExecutionPrice>
-        <d2p1:Id>756a1ccd-15fd-4139-8903-52a8f1d60045</d2p1:Id>
+        <d2p1:ExecutionDate>2020-02-26T09:40:58+01:00</d2p1:ExecutionDate>
+        <d2p1:ExecutionPrice>614.000</d2p1:ExecutionPrice>
+        <d2p1:Id>6461ec93-e63d-47a2-ba19-1d9137a4afb9</d2p1:Id>
         <d2p1:InvestmentUniverseGroupId>414afbc2-0e2a-4fce-87fb-41e53b94f125</d2p1:InvestmentUniverseGroupId>
         <d2p1:IsLeveraged>false</d2p1:IsLeveraged>
         <d2p1:IsMainOrder>true</d2p1:IsMainOrder>
-        <d2p1:Isin>DE000A0TGJ55</d2p1:Isin>
+        <d2p1:Isin>DE0007010803</d2p1:Isin>
         <d2p1:Issuer>0</d2p1:Issuer>
-        <d2p1:Link>/de/de/s/de000a0tgj55?wikifolio=wf00esi893</d2p1:Link>
-        <d2p1:LinkParameter>DE000A0TGJ55</d2p1:LinkParameter>
+        <d2p1:Link>/de/de/s/de0007010803?wikifolio=wf00esi893</d2p1:Link>
+        <d2p1:LinkParameter>DE0007010803</d2p1:LinkParameter>
         <d2p1:MainOrderId i:nil="true"/>
-        <d2p1:Name>VARTA AG O.N.</d2p1:Name>
+        <d2p1:Name>RATIONAL AG</d2p1:Name>
+        <d2p1:OpenLinkInSameTab>true</d2p1:OpenLinkInSameTab>
+        <d2p1:OrderType>BuyLimit</d2p1:OrderType>
+        <d2p1:Performance i:nil="true"/>
+        <d2p1:SecurityType>620</d2p1:SecurityType>
+        <d2p1:SubOrders/>
+        <d2p1:UnderlyingConcerned i:nil="true"/>
+        <d2p1:Weightage>0.0392932935338</d2p1:Weightage>
+      </d2p1:WikifolioTrade>
+      <d2p1:WikifolioTrade>
+        <d2p1:Cash i:nil="true"/>
+        <d2p1:CorporateActionType i:nil="true"/>
+        <d2p1:ExecutionDate>2020-02-26T09:15:23+01:00</d2p1:ExecutionDate>
+        <d2p1:ExecutionPrice>10.550</d2p1:ExecutionPrice>
+        <d2p1:Id>ca2fc263-7566-432f-a49d-b44c5c2792df</d2p1:Id>
+        <d2p1:InvestmentUniverseGroupId>414afbc2-0e2a-4fce-87fb-41e53b94f125</d2p1:InvestmentUniverseGroupId>
+        <d2p1:IsLeveraged>false</d2p1:IsLeveraged>
+        <d2p1:IsMainOrder>true</d2p1:IsMainOrder>
+        <d2p1:Isin>DE0007568578</d2p1:Isin>
+        <d2p1:Issuer>0</d2p1:Issuer>
+        <d2p1:Link>/de/de/s/de0007568578?wikifolio=wf00esi893</d2p1:Link>
+        <d2p1:LinkParameter>DE0007568578</d2p1:LinkParameter>
+        <d2p1:MainOrderId i:nil="true"/>
+        <d2p1:Name>SFC ENERGY AG</d2p1:Name>
         <d2p1:OpenLinkInSameTab>true</d2p1:OpenLinkInSameTab>
         <d2p1:OrderType>Buy</d2p1:OrderType>
         <d2p1:Performance i:nil="true"/>
         <d2p1:SecurityType>620</d2p1:SecurityType>
         <d2p1:SubOrders/>
         <d2p1:UnderlyingConcerned i:nil="true"/>
-        <d2p1:Weightage>0.02478740464234</d2p1:Weightage>
+        <d2p1:Weightage>0.02700687595604</d2p1:Weightage>
       </d2p1:WikifolioTrade>
       <d2p1:WikifolioTrade>
         <d2p1:Cash i:nil="true"/>
         <d2p1:CorporateActionType i:nil="true"/>
-        <d2p1:ExecutionDate>2020-01-13T14:04:42+01:00</d2p1:ExecutionDate>
-        <d2p1:ExecutionPrice>0.426</d2p1:ExecutionPrice>
-        <d2p1:Id>f999df79-c7ef-442b-ba44-5b53f802e4a7</d2p1:Id>
+        <d2p1:ExecutionDate>2020-02-26T09:11:18+01:00</d2p1:ExecutionDate>
+        <d2p1:ExecutionPrice>19.700</d2p1:ExecutionPrice>
+        <d2p1:Id>8bdc85a1-ff3c-4c16-8f58-3c8193354aa1</d2p1:Id>
         <d2p1:InvestmentUniverseGroupId>414afbc2-0e2a-4fce-87fb-41e53b94f125</d2p1:InvestmentUniverseGroupId>
         <d2p1:IsLeveraged>false</d2p1:IsLeveraged>
         <d2p1:IsMainOrder>true</d2p1:IsMainOrder>
-        <d2p1:Isin>DE0005066609</d2p1:Isin>
+        <d2p1:Isin>DE000A0Z1JH9</d2p1:Isin>
         <d2p1:Issuer>0</d2p1:Issuer>
-        <d2p1:Link>/de/de/s/de0005066609?wikifolio=wf00esi893</d2p1:Link>
-        <d2p1:LinkParameter>DE0005066609</d2p1:LinkParameter>
+        <d2p1:Link>/de/de/s/de000a0z1jh9?wikifolio=wf00esi893</d2p1:Link>
+        <d2p1:LinkParameter>DE000A0Z1JH9</d2p1:LinkParameter>
         <d2p1:MainOrderId i:nil="true"/>
-        <d2p1:Name>AAP IMPLANTATE AG</d2p1:Name>
+        <d2p1:Name>PSI SOFTWARE AG</d2p1:Name>
+        <d2p1:OpenLinkInSameTab>true</d2p1:OpenLinkInSameTab>
+        <d2p1:OrderType>Buy</d2p1:OrderType>
+        <d2p1:Performance i:nil="true"/>
+        <d2p1:SecurityType>620</d2p1:SecurityType>
+        <d2p1:SubOrders/>
+        <d2p1:UnderlyingConcerned i:nil="true"/>
+        <d2p1:Weightage>0.0283668193543</d2p1:Weightage>
+      </d2p1:WikifolioTrade>
+      <d2p1:WikifolioTrade>
+        <d2p1:Cash i:nil="true"/>
+        <d2p1:CorporateActionType i:nil="true"/>
+        <d2p1:ExecutionDate>2020-02-26T09:07:58+01:00</d2p1:ExecutionDate>
+        <d2p1:ExecutionPrice>31.000</d2p1:ExecutionPrice>
+        <d2p1:Id>20e31325-ac29-43b0-b3c3-f86802dfc018</d2p1:Id>
+        <d2p1:InvestmentUniverseGroupId>414afbc2-0e2a-4fce-87fb-41e53b94f125</d2p1:InvestmentUniverseGroupId>
+        <d2p1:IsLeveraged>false</d2p1:IsLeveraged>
+        <d2p1:IsMainOrder>true</d2p1:IsMainOrder>
+        <d2p1:Isin>DE000A0LR936</d2p1:Isin>
+        <d2p1:Issuer>0</d2p1:Issuer>
+        <d2p1:Link>/de/de/s/de000a0lr936?wikifolio=wf00esi893</d2p1:Link>
+        <d2p1:LinkParameter>DE000A0LR936</d2p1:LinkParameter>
+        <d2p1:MainOrderId i:nil="true"/>
+        <d2p1:Name>STEICO SE</d2p1:Name>
+        <d2p1:OpenLinkInSameTab>true</d2p1:OpenLinkInSameTab>
+        <d2p1:OrderType>Buy</d2p1:OrderType>
+        <d2p1:Performance i:nil="true"/>
+        <d2p1:SecurityType>620</d2p1:SecurityType>
+        <d2p1:SubOrders/>
+        <d2p1:UnderlyingConcerned i:nil="true"/>
+        <d2p1:Weightage>0.03973828266974</d2p1:Weightage>
+      </d2p1:WikifolioTrade>
+      <d2p1:WikifolioTrade>
+        <d2p1:Cash i:nil="true"/>
+        <d2p1:CorporateActionType i:nil="true"/>
+        <d2p1:ExecutionDate>2020-02-25T21:51:04+01:00</d2p1:ExecutionDate>
+        <d2p1:ExecutionPrice>13.250</d2p1:ExecutionPrice>
+        <d2p1:Id>8de57107-2570-467a-ae60-ba002728e660</d2p1:Id>
+        <d2p1:InvestmentUniverseGroupId>414afbc2-0e2a-4fce-87fb-41e53b94f125</d2p1:InvestmentUniverseGroupId>
+        <d2p1:IsLeveraged>false</d2p1:IsLeveraged>
+        <d2p1:IsMainOrder>true</d2p1:IsMainOrder>
+        <d2p1:Isin>DE000A0KEXC7</d2p1:Isin>
+        <d2p1:Issuer>0</d2p1:Issuer>
+        <d2p1:Link>/de/de/s/de000a0kexc7?wikifolio=wf00esi893</d2p1:Link>
+        <d2p1:LinkParameter>DE000A0KEXC7</d2p1:LinkParameter>
+        <d2p1:MainOrderId i:nil="true"/>
+        <d2p1:Name>VECTRON</d2p1:Name>
+        <d2p1:OpenLinkInSameTab>true</d2p1:OpenLinkInSameTab>
+        <d2p1:OrderType>Buy</d2p1:OrderType>
+        <d2p1:Performance i:nil="true"/>
+        <d2p1:SecurityType>620</d2p1:SecurityType>
+        <d2p1:SubOrders/>
+        <d2p1:UnderlyingConcerned i:nil="true"/>
+        <d2p1:Weightage>0.0253768205334</d2p1:Weightage>
+      </d2p1:WikifolioTrade>
+      <d2p1:WikifolioTrade>
+        <d2p1:Cash i:nil="true"/>
+        <d2p1:CorporateActionType i:nil="true"/>
+        <d2p1:ExecutionDate>2020-02-25T17:49:59+01:00</d2p1:ExecutionDate>
+        <d2p1:ExecutionPrice>11.650</d2p1:ExecutionPrice>
+        <d2p1:Id>9265b059-210c-4c2f-b7db-4bdc237023c7</d2p1:Id>
+        <d2p1:InvestmentUniverseGroupId>414afbc2-0e2a-4fce-87fb-41e53b94f125</d2p1:InvestmentUniverseGroupId>
+        <d2p1:IsLeveraged>false</d2p1:IsLeveraged>
+        <d2p1:IsMainOrder>true</d2p1:IsMainOrder>
+        <d2p1:Isin>DE0006636681</d2p1:Isin>
+        <d2p1:Issuer>0</d2p1:Issuer>
+        <d2p1:Link>/de/de/s/de0006636681?wikifolio=wf00esi893</d2p1:Link>
+        <d2p1:LinkParameter>DE0006636681</d2p1:LinkParameter>
+        <d2p1:MainOrderId i:nil="true"/>
+        <d2p1:Name>VA-Q-TEC AG</d2p1:Name>
+        <d2p1:OpenLinkInSameTab>true</d2p1:OpenLinkInSameTab>
+        <d2p1:OrderType>Buy</d2p1:OrderType>
+        <d2p1:Performance i:nil="true"/>
+        <d2p1:SecurityType>620</d2p1:SecurityType>
+        <d2p1:SubOrders/>
+        <d2p1:UnderlyingConcerned i:nil="true"/>
+        <d2p1:Weightage>0.02226030245705</d2p1:Weightage>
+      </d2p1:WikifolioTrade>
+      <d2p1:WikifolioTrade>
+        <d2p1:Cash i:nil="true"/>
+        <d2p1:CorporateActionType i:nil="true"/>
+        <d2p1:ExecutionDate>2020-02-25T11:52:11+01:00</d2p1:ExecutionDate>
+        <d2p1:ExecutionPrice>9.270</d2p1:ExecutionPrice>
+        <d2p1:Id>2219801a-9f28-4381-80dd-738e4aecbd66</d2p1:Id>
+        <d2p1:InvestmentUniverseGroupId>414afbc2-0e2a-4fce-87fb-41e53b94f125</d2p1:InvestmentUniverseGroupId>
+        <d2p1:IsLeveraged>false</d2p1:IsLeveraged>
+        <d2p1:IsMainOrder>true</d2p1:IsMainOrder>
+        <d2p1:Isin>DE0007846867</d2p1:Isin>
+        <d2p1:Issuer>0</d2p1:Issuer>
+        <d2p1:Link>/de/de/s/de0007846867?wikifolio=wf00esi893</d2p1:Link>
+        <d2p1:LinkParameter>DE0007846867</d2p1:LinkParameter>
+        <d2p1:MainOrderId i:nil="true"/>
+        <d2p1:Name>VISCOM</d2p1:Name>
         <d2p1:OpenLinkInSameTab>true</d2p1:OpenLinkInSameTab>
         <d2p1:OrderType>Sell</d2p1:OrderType>
-        <d2p1:Performance>-0.21978021978022</d2p1:Performance>
+        <d2p1:Performance>0.00035971223018</d2p1:Performance>
         <d2p1:SecurityType>620</d2p1:SecurityType>
         <d2p1:SubOrders/>
         <d2p1:UnderlyingConcerned i:nil="true"/>
-        <d2p1:Weightage>0.00913517795445</d2p1:Weightage>
-      </d2p1:WikifolioTrade>
-      <d2p1:WikifolioTrade>
-        <d2p1:Cash i:nil="true"/>
-        <d2p1:CorporateActionType i:nil="true"/>
-        <d2p1:ExecutionDate>2020-01-13T13:14:58+01:00</d2p1:ExecutionDate>
-        <d2p1:ExecutionPrice>12.740</d2p1:ExecutionPrice>
-        <d2p1:Id>2286d003-5c64-48b7-ba7a-eb7605d22ad1</d2p1:Id>
-        <d2p1:InvestmentUniverseGroupId>414afbc2-0e2a-4fce-87fb-41e53b94f125</d2p1:InvestmentUniverseGroupId>
-        <d2p1:IsLeveraged>false</d2p1:IsLeveraged>
-        <d2p1:IsMainOrder>true</d2p1:IsMainOrder>
-        <d2p1:Isin>DE000A1K0235</d2p1:Isin>
-        <d2p1:Issuer>0</d2p1:Issuer>
-        <d2p1:Link>/de/de/s/de000a1k0235?wikifolio=wf00esi893</d2p1:Link>
-        <d2p1:LinkParameter>DE000A1K0235</d2p1:LinkParameter>
-        <d2p1:MainOrderId i:nil="true"/>
-        <d2p1:Name>SUESS MICROTEC SE NA O.N.</d2p1:Name>
-        <d2p1:OpenLinkInSameTab>true</d2p1:OpenLinkInSameTab>
-        <d2p1:OrderType>Sell</d2p1:OrderType>
-        <d2p1:Performance>-0.00624024960998</d2p1:Performance>
-        <d2p1:SecurityType>620</d2p1:SecurityType>
-        <d2p1:SubOrders/>
-        <d2p1:UnderlyingConcerned i:nil="true"/>
-        <d2p1:Weightage>0.02340097033771</d2p1:Weightage>
-      </d2p1:WikifolioTrade>
-      <d2p1:WikifolioTrade>
-        <d2p1:Cash i:nil="true"/>
-        <d2p1:CorporateActionType i:nil="true"/>
-        <d2p1:ExecutionDate>2020-01-13T09:04:43+01:00</d2p1:ExecutionDate>
-        <d2p1:ExecutionPrice>0.130</d2p1:ExecutionPrice>
-        <d2p1:Id>2c9c8706-09a8-4b7f-9bb4-eb06866b364b</d2p1:Id>
-        <d2p1:InvestmentUniverseGroupId>414afbc2-0e2a-4fce-87fb-41e53b94f125</d2p1:InvestmentUniverseGroupId>
-        <d2p1:IsLeveraged>false</d2p1:IsLeveraged>
-        <d2p1:IsMainOrder>true</d2p1:IsMainOrder>
-        <d2p1:Isin>DE000A2LQ900</d2p1:Isin>
-        <d2p1:Issuer>0</d2p1:Issuer>
-        <d2p1:Link>/de/de/s/de000a2lq900?wikifolio=wf00esi893</d2p1:Link>
-        <d2p1:LinkParameter>DE000A2LQ900</d2p1:LinkParameter>
-        <d2p1:MainOrderId i:nil="true"/>
-        <d2p1:Name>MOLOGEN AG  KONV.</d2p1:Name>
-        <d2p1:OpenLinkInSameTab>true</d2p1:OpenLinkInSameTab>
-        <d2p1:OrderType>SellLimit</d2p1:OrderType>
-        <d2p1:Performance>0.02362204724409</d2p1:Performance>
-        <d2p1:SecurityType>620</d2p1:SecurityType>
-        <d2p1:SubOrders/>
-        <d2p1:UnderlyingConcerned i:nil="true"/>
-        <d2p1:Weightage>0.00794836750937</d2p1:Weightage>
+        <d2p1:Weightage>0.04446211460723</d2p1:Weightage>
       </d2p1:WikifolioTrade>
     </d2p1:Orders>
-    <d2p1:PageCount>407</d2p1:PageCount>
+    <d2p1:PageCount>416</d2p1:PageCount>
   </TradeHistory>
 </WikifolioDetailTradeHistoryModel>

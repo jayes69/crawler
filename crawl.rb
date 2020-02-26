@@ -30,8 +30,10 @@ end
 def get_page_name(url)
   #Get Page
   page = Nokogiri::HTML(open(url))
-  page_names = page.css('.js-desc-title').map {|div| div.child.text.strip}
+  page_names = page.css('.c-wf-head__title-text').map {|div| div.child.text.strip}
   page_name = page_names[0]
+  puts url
+  puts page_names[0]
   return page_name
 end
 

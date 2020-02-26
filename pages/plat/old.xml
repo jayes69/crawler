@@ -18,78 +18,193 @@
       <d2p1:WikifolioTrade>
         <d2p1:Cash i:nil="true"/>
         <d2p1:CorporateActionType i:nil="true"/>
-        <d2p1:ExecutionDate>2020-01-17T10:17:29+01:00</d2p1:ExecutionDate>
-        <d2p1:ExecutionPrice>10.300</d2p1:ExecutionPrice>
-        <d2p1:Id>c9c81efd-2d16-4d56-9cd7-55e5dbc01434</d2p1:Id>
+        <d2p1:ExecutionDate>2020-02-26T11:12:41+01:00</d2p1:ExecutionDate>
+        <d2p1:ExecutionPrice>3.700</d2p1:ExecutionPrice>
+        <d2p1:Id>10f2efca-7912-4757-80e0-58362f1d7f78</d2p1:Id>
         <d2p1:InvestmentUniverseGroupId>414afbc2-0e2a-4fce-87fb-41e53b94f125</d2p1:InvestmentUniverseGroupId>
         <d2p1:IsLeveraged>false</d2p1:IsLeveraged>
         <d2p1:IsMainOrder>true</d2p1:IsMainOrder>
-        <d2p1:Isin>DE000TUAG000</d2p1:Isin>
+        <d2p1:Isin>DE000A0HGQF5</d2p1:Isin>
         <d2p1:Issuer>0</d2p1:Issuer>
-        <d2p1:Link>/de/de/s/de000tuag000?wikifolio=wfpt78pt78</d2p1:Link>
-        <d2p1:LinkParameter>DE000TUAG000</d2p1:LinkParameter>
+        <d2p1:Link>/de/de/s/de000a0hgqf5?wikifolio=wfpt78pt78</d2p1:Link>
+        <d2p1:LinkParameter>DE000A0HGQF5</d2p1:LinkParameter>
         <d2p1:MainOrderId i:nil="true"/>
-        <d2p1:Name>TUI AG</d2p1:Name>
+        <d2p1:Name>MAGFORCE AG</d2p1:Name>
         <d2p1:OpenLinkInSameTab>true</d2p1:OpenLinkInSameTab>
-        <d2p1:OrderType>BuyLimit</d2p1:OrderType>
-        <d2p1:Performance i:nil="true"/>
+        <d2p1:OrderType>SellLimit</d2p1:OrderType>
+        <d2p1:Performance>-0.12105663245935</d2p1:Performance>
         <d2p1:SecurityType>620</d2p1:SecurityType>
         <d2p1:SubOrders/>
         <d2p1:UnderlyingConcerned i:nil="true"/>
-        <d2p1:Weightage>0.02923085019341</d2p1:Weightage>
+        <d2p1:Weightage>0.01113295333251</d2p1:Weightage>
       </d2p1:WikifolioTrade>
       <d2p1:WikifolioTrade>
         <d2p1:Cash i:nil="true"/>
         <d2p1:CorporateActionType i:nil="true"/>
-        <d2p1:ExecutionDate>2020-01-16T12:10:48+01:00</d2p1:ExecutionDate>
-        <d2p1:ExecutionPrice>2.802</d2p1:ExecutionPrice>
-        <d2p1:Id>bc14272a-e38c-40d5-b194-0f6c8c44fed1</d2p1:Id>
+        <d2p1:ExecutionDate>2020-02-26T11:08:31+01:00</d2p1:ExecutionDate>
+        <d2p1:ExecutionPrice>9.106</d2p1:ExecutionPrice>
+        <d2p1:Id>97b68496-d593-411e-8890-6f2fafd079b4</d2p1:Id>
         <d2p1:InvestmentUniverseGroupId>414afbc2-0e2a-4fce-87fb-41e53b94f125</d2p1:InvestmentUniverseGroupId>
         <d2p1:IsLeveraged>false</d2p1:IsLeveraged>
         <d2p1:IsMainOrder>true</d2p1:IsMainOrder>
-        <d2p1:Isin>DE000TCAG172</d2p1:Isin>
+        <d2p1:Isin>DE0007500001</d2p1:Isin>
         <d2p1:Issuer>0</d2p1:Issuer>
-        <d2p1:Link>/de/de/s/de000tcag172?wikifolio=wfpt78pt78</d2p1:Link>
-        <d2p1:LinkParameter>DE000TCAG172</d2p1:LinkParameter>
+        <d2p1:Link>/de/de/s/de0007500001?wikifolio=wfpt78pt78</d2p1:Link>
+        <d2p1:LinkParameter>DE0007500001</d2p1:LinkParameter>
         <d2p1:MainOrderId i:nil="true"/>
-        <d2p1:Name>TELE COLUMBUS AG NA O.N.</d2p1:Name>
+        <d2p1:Name>THYSSENKRUPP AG O.N.</d2p1:Name>
         <d2p1:OpenLinkInSameTab>true</d2p1:OpenLinkInSameTab>
         <d2p1:OrderType>Buy</d2p1:OrderType>
         <d2p1:Performance i:nil="true"/>
         <d2p1:SecurityType>620</d2p1:SecurityType>
         <d2p1:SubOrders/>
         <d2p1:UnderlyingConcerned i:nil="true"/>
-        <d2p1:Weightage>0.00801496949825</d2p1:Weightage>
+        <d2p1:Weightage>0.01376912937544</d2p1:Weightage>
       </d2p1:WikifolioTrade>
       <d2p1:WikifolioTrade>
         <d2p1:Cash i:nil="true"/>
         <d2p1:CorporateActionType i:nil="true"/>
-        <d2p1:ExecutionDate>2020-01-16T12:07:50+01:00</d2p1:ExecutionDate>
-        <d2p1:ExecutionPrice>2.798</d2p1:ExecutionPrice>
-        <d2p1:Id>a260bc40-d88a-494e-b0b2-c66dbfa66a21</d2p1:Id>
+        <d2p1:ExecutionDate>2020-02-26T09:52:33+01:00</d2p1:ExecutionDate>
+        <d2p1:ExecutionPrice>1.198</d2p1:ExecutionPrice>
+        <d2p1:Id>b71acec7-0de0-4160-a8b1-86e3830b3118</d2p1:Id>
         <d2p1:InvestmentUniverseGroupId>414afbc2-0e2a-4fce-87fb-41e53b94f125</d2p1:InvestmentUniverseGroupId>
         <d2p1:IsLeveraged>false</d2p1:IsLeveraged>
         <d2p1:IsMainOrder>true</d2p1:IsMainOrder>
-        <d2p1:Isin>DE000TCAG172</d2p1:Isin>
+        <d2p1:Isin>DE0005137004</d2p1:Isin>
         <d2p1:Issuer>0</d2p1:Issuer>
-        <d2p1:Link>/de/de/s/de000tcag172?wikifolio=wfpt78pt78</d2p1:Link>
-        <d2p1:LinkParameter>DE000TCAG172</d2p1:LinkParameter>
+        <d2p1:Link>/de/de/s/de0005137004?wikifolio=wfpt78pt78</d2p1:Link>
+        <d2p1:LinkParameter>DE0005137004</d2p1:LinkParameter>
         <d2p1:MainOrderId i:nil="true"/>
-        <d2p1:Name>TELE COLUMBUS AG NA O.N.</d2p1:Name>
+        <d2p1:Name>QSC AG</d2p1:Name>
         <d2p1:OpenLinkInSameTab>true</d2p1:OpenLinkInSameTab>
         <d2p1:OrderType>BuyLimit</d2p1:OrderType>
         <d2p1:Performance i:nil="true"/>
         <d2p1:SecurityType>620</d2p1:SecurityType>
         <d2p1:SubOrders/>
         <d2p1:UnderlyingConcerned i:nil="true"/>
-        <d2p1:Weightage>0.01599705440558</d2p1:Weightage>
+        <d2p1:Weightage>0.01071919308497</d2p1:Weightage>
       </d2p1:WikifolioTrade>
       <d2p1:WikifolioTrade>
         <d2p1:Cash i:nil="true"/>
         <d2p1:CorporateActionType i:nil="true"/>
-        <d2p1:ExecutionDate>2020-01-16T11:51:49+01:00</d2p1:ExecutionDate>
-        <d2p1:ExecutionPrice>128.050</d2p1:ExecutionPrice>
-        <d2p1:Id>e1100e82-776b-417e-9517-9a3705c901dc</d2p1:Id>
+        <d2p1:ExecutionDate>2020-02-26T09:39:52+01:00</d2p1:ExecutionDate>
+        <d2p1:ExecutionPrice>300.000</d2p1:ExecutionPrice>
+        <d2p1:Id>28340b6d-55f7-4c8d-9ec7-87b1bfc5b4f6</d2p1:Id>
+        <d2p1:InvestmentUniverseGroupId>414afbc2-0e2a-4fce-87fb-41e53b94f125</d2p1:InvestmentUniverseGroupId>
+        <d2p1:IsLeveraged>false</d2p1:IsLeveraged>
+        <d2p1:IsMainOrder>true</d2p1:IsMainOrder>
+        <d2p1:Isin>DE0007474041</d2p1:Isin>
+        <d2p1:Issuer>0</d2p1:Issuer>
+        <d2p1:Link>/de/de/s/de0007474041?wikifolio=wfpt78pt78</d2p1:Link>
+        <d2p1:LinkParameter>DE0007474041</d2p1:LinkParameter>
+        <d2p1:MainOrderId i:nil="true"/>
+        <d2p1:Name>PAUL HARTMANN AG</d2p1:Name>
+        <d2p1:OpenLinkInSameTab>true</d2p1:OpenLinkInSameTab>
+        <d2p1:OrderType>Buy</d2p1:OrderType>
+        <d2p1:Performance i:nil="true"/>
+        <d2p1:SecurityType>620</d2p1:SecurityType>
+        <d2p1:SubOrders/>
+        <d2p1:UnderlyingConcerned i:nil="true"/>
+        <d2p1:Weightage>0.0179174265087</d2p1:Weightage>
+      </d2p1:WikifolioTrade>
+      <d2p1:WikifolioTrade>
+        <d2p1:Cash i:nil="true"/>
+        <d2p1:CorporateActionType i:nil="true"/>
+        <d2p1:ExecutionDate>2020-02-26T09:17:40+01:00</d2p1:ExecutionDate>
+        <d2p1:ExecutionPrice>3.147</d2p1:ExecutionPrice>
+        <d2p1:Id>a8fd7294-525f-49ea-8719-09a00c43e212</d2p1:Id>
+        <d2p1:InvestmentUniverseGroupId>feb6cb69-6ba7-4b09-9e8a-0d2f0f05e149</d2p1:InvestmentUniverseGroupId>
+        <d2p1:IsLeveraged>false</d2p1:IsLeveraged>
+        <d2p1:IsMainOrder>true</d2p1:IsMainOrder>
+        <d2p1:Isin>LU0411075020</d2p1:Isin>
+        <d2p1:Issuer>0</d2p1:Issuer>
+        <d2p1:Link>/de/de/s/lu0411075020?wikifolio=wfpt78pt78</d2p1:Link>
+        <d2p1:LinkParameter>LU0411075020</d2p1:LinkParameter>
+        <d2p1:MainOrderId i:nil="true"/>
+        <d2p1:Name>DB X-TR SHORT DAX X2</d2p1:Name>
+        <d2p1:OpenLinkInSameTab>true</d2p1:OpenLinkInSameTab>
+        <d2p1:OrderType>Sell</d2p1:OrderType>
+        <d2p1:Performance>0.10426895324461</d2p1:Performance>
+        <d2p1:SecurityType>630</d2p1:SecurityType>
+        <d2p1:SubOrders/>
+        <d2p1:UnderlyingConcerned i:nil="true"/>
+        <d2p1:Weightage>0.00947354971184</d2p1:Weightage>
+      </d2p1:WikifolioTrade>
+      <d2p1:WikifolioTrade>
+        <d2p1:Cash i:nil="true"/>
+        <d2p1:CorporateActionType i:nil="true"/>
+        <d2p1:ExecutionDate>2020-02-26T09:15:31+01:00</d2p1:ExecutionDate>
+        <d2p1:ExecutionPrice>3.132</d2p1:ExecutionPrice>
+        <d2p1:Id>028ae8f3-7899-43fa-a952-c2bd53c245b5</d2p1:Id>
+        <d2p1:InvestmentUniverseGroupId>feb6cb69-6ba7-4b09-9e8a-0d2f0f05e149</d2p1:InvestmentUniverseGroupId>
+        <d2p1:IsLeveraged>false</d2p1:IsLeveraged>
+        <d2p1:IsMainOrder>true</d2p1:IsMainOrder>
+        <d2p1:Isin>LU0411075020</d2p1:Isin>
+        <d2p1:Issuer>0</d2p1:Issuer>
+        <d2p1:Link>/de/de/s/lu0411075020?wikifolio=wfpt78pt78</d2p1:Link>
+        <d2p1:LinkParameter>LU0411075020</d2p1:LinkParameter>
+        <d2p1:MainOrderId i:nil="true"/>
+        <d2p1:Name>DB X-TR SHORT DAX X2</d2p1:Name>
+        <d2p1:OpenLinkInSameTab>true</d2p1:OpenLinkInSameTab>
+        <d2p1:OrderType>Sell</d2p1:OrderType>
+        <d2p1:Performance>0.09900551686118</d2p1:Performance>
+        <d2p1:SecurityType>630</d2p1:SecurityType>
+        <d2p1:SubOrders/>
+        <d2p1:UnderlyingConcerned i:nil="true"/>
+        <d2p1:Weightage>0.00942839456545</d2p1:Weightage>
+      </d2p1:WikifolioTrade>
+      <d2p1:WikifolioTrade>
+        <d2p1:Cash i:nil="true"/>
+        <d2p1:CorporateActionType i:nil="true"/>
+        <d2p1:ExecutionDate>2020-02-26T09:09:25+01:00</d2p1:ExecutionDate>
+        <d2p1:ExecutionPrice>3.130</d2p1:ExecutionPrice>
+        <d2p1:Id>ecd6fb29-a321-4cd6-8baa-a113e2fdeb2e</d2p1:Id>
+        <d2p1:InvestmentUniverseGroupId>feb6cb69-6ba7-4b09-9e8a-0d2f0f05e149</d2p1:InvestmentUniverseGroupId>
+        <d2p1:IsLeveraged>false</d2p1:IsLeveraged>
+        <d2p1:IsMainOrder>true</d2p1:IsMainOrder>
+        <d2p1:Isin>LU0411075020</d2p1:Isin>
+        <d2p1:Issuer>0</d2p1:Issuer>
+        <d2p1:Link>/de/de/s/lu0411075020?wikifolio=wfpt78pt78</d2p1:Link>
+        <d2p1:LinkParameter>LU0411075020</d2p1:LinkParameter>
+        <d2p1:MainOrderId i:nil="true"/>
+        <d2p1:Name>DB X-TR SHORT DAX X2</d2p1:Name>
+        <d2p1:OpenLinkInSameTab>true</d2p1:OpenLinkInSameTab>
+        <d2p1:OrderType>Sell</d2p1:OrderType>
+        <d2p1:Performance>0.09830372534339</d2p1:Performance>
+        <d2p1:SecurityType>630</d2p1:SecurityType>
+        <d2p1:SubOrders/>
+        <d2p1:UnderlyingConcerned i:nil="true"/>
+        <d2p1:Weightage>0.00942237387926</d2p1:Weightage>
+      </d2p1:WikifolioTrade>
+      <d2p1:WikifolioTrade>
+        <d2p1:Cash i:nil="true"/>
+        <d2p1:CorporateActionType i:nil="true"/>
+        <d2p1:ExecutionDate>2020-02-26T09:04:31+01:00</d2p1:ExecutionDate>
+        <d2p1:ExecutionPrice>3.135</d2p1:ExecutionPrice>
+        <d2p1:Id>ec3153e7-3297-460a-9476-d031dd4bd124</d2p1:Id>
+        <d2p1:InvestmentUniverseGroupId>feb6cb69-6ba7-4b09-9e8a-0d2f0f05e149</d2p1:InvestmentUniverseGroupId>
+        <d2p1:IsLeveraged>false</d2p1:IsLeveraged>
+        <d2p1:IsMainOrder>true</d2p1:IsMainOrder>
+        <d2p1:Isin>LU0411075020</d2p1:Isin>
+        <d2p1:Issuer>0</d2p1:Issuer>
+        <d2p1:Link>/de/de/s/lu0411075020?wikifolio=wfpt78pt78</d2p1:Link>
+        <d2p1:LinkParameter>LU0411075020</d2p1:LinkParameter>
+        <d2p1:MainOrderId i:nil="true"/>
+        <d2p1:Name>DB X-TR SHORT DAX X2</d2p1:Name>
+        <d2p1:OpenLinkInSameTab>true</d2p1:OpenLinkInSameTab>
+        <d2p1:OrderType>Sell</d2p1:OrderType>
+        <d2p1:Performance>0.10005820413786</d2p1:Performance>
+        <d2p1:SecurityType>630</d2p1:SecurityType>
+        <d2p1:SubOrders/>
+        <d2p1:UnderlyingConcerned i:nil="true"/>
+        <d2p1:Weightage>0.00943742559473</d2p1:Weightage>
+      </d2p1:WikifolioTrade>
+      <d2p1:WikifolioTrade>
+        <d2p1:Cash i:nil="true"/>
+        <d2p1:CorporateActionType i:nil="true"/>
+        <d2p1:ExecutionDate>2020-02-25T20:44:49+01:00</d2p1:ExecutionDate>
+        <d2p1:ExecutionPrice>120.000</d2p1:ExecutionPrice>
+        <d2p1:Id>61a03326-0015-439c-a737-abbb7d4d6d33</d2p1:Id>
         <d2p1:InvestmentUniverseGroupId>414afbc2-0e2a-4fce-87fb-41e53b94f125</d2p1:InvestmentUniverseGroupId>
         <d2p1:IsLeveraged>false</d2p1:IsLeveraged>
         <d2p1:IsMainOrder>true</d2p1:IsMainOrder>
@@ -100,152 +215,37 @@
         <d2p1:MainOrderId i:nil="true"/>
         <d2p1:Name>WIRECARD AG</d2p1:Name>
         <d2p1:OpenLinkInSameTab>true</d2p1:OpenLinkInSameTab>
-        <d2p1:OrderType>SellStopLimit</d2p1:OrderType>
-        <d2p1:Performance>0.00826771653543</d2p1:Performance>
-        <d2p1:SecurityType>620</d2p1:SecurityType>
-        <d2p1:SubOrders/>
-        <d2p1:UnderlyingConcerned i:nil="true"/>
-        <d2p1:Weightage>0.07325883572196</d2p1:Weightage>
-      </d2p1:WikifolioTrade>
-      <d2p1:WikifolioTrade>
-        <d2p1:Cash i:nil="true"/>
-        <d2p1:CorporateActionType i:nil="true"/>
-        <d2p1:ExecutionDate>2020-01-16T10:58:56+01:00</d2p1:ExecutionDate>
-        <d2p1:ExecutionPrice>127.300</d2p1:ExecutionPrice>
-        <d2p1:Id>ae2df7b8-1c26-4771-82f8-83d6df1b5824</d2p1:Id>
-        <d2p1:InvestmentUniverseGroupId>414afbc2-0e2a-4fce-87fb-41e53b94f125</d2p1:InvestmentUniverseGroupId>
-        <d2p1:IsLeveraged>false</d2p1:IsLeveraged>
-        <d2p1:IsMainOrder>true</d2p1:IsMainOrder>
-        <d2p1:Isin>DE0007472060</d2p1:Isin>
-        <d2p1:Issuer>0</d2p1:Issuer>
-        <d2p1:Link>/de/de/s/de0007472060?wikifolio=wfpt78pt78</d2p1:Link>
-        <d2p1:LinkParameter>DE0007472060</d2p1:LinkParameter>
-        <d2p1:MainOrderId i:nil="true"/>
-        <d2p1:Name>WIRECARD AG</d2p1:Name>
-        <d2p1:OpenLinkInSameTab>true</d2p1:OpenLinkInSameTab>
-        <d2p1:OrderType>Buy</d2p1:OrderType>
+        <d2p1:OrderType>BuyLimit</d2p1:OrderType>
         <d2p1:Performance i:nil="true"/>
         <d2p1:SecurityType>620</d2p1:SecurityType>
         <d2p1:SubOrders/>
         <d2p1:UnderlyingConcerned i:nil="true"/>
-        <d2p1:Weightage>0.03645126035079</d2p1:Weightage>
+        <d2p1:Weightage>0.00712544404319</d2p1:Weightage>
       </d2p1:WikifolioTrade>
       <d2p1:WikifolioTrade>
         <d2p1:Cash i:nil="true"/>
         <d2p1:CorporateActionType i:nil="true"/>
-        <d2p1:ExecutionDate>2020-01-16T10:57:23+01:00</d2p1:ExecutionDate>
-        <d2p1:ExecutionPrice>126.700</d2p1:ExecutionPrice>
-        <d2p1:Id>13736f19-70e6-4778-a2ac-6108501ff68d</d2p1:Id>
+        <d2p1:ExecutionDate>2020-02-25T19:59:59+01:00</d2p1:ExecutionDate>
+        <d2p1:ExecutionPrice>294.000</d2p1:ExecutionPrice>
+        <d2p1:Id>3442a1cf-fd73-4346-92f5-8be1fc486ba9</d2p1:Id>
         <d2p1:InvestmentUniverseGroupId>414afbc2-0e2a-4fce-87fb-41e53b94f125</d2p1:InvestmentUniverseGroupId>
         <d2p1:IsLeveraged>false</d2p1:IsLeveraged>
         <d2p1:IsMainOrder>true</d2p1:IsMainOrder>
-        <d2p1:Isin>DE0007472060</d2p1:Isin>
+        <d2p1:Isin>DE0007474041</d2p1:Isin>
         <d2p1:Issuer>0</d2p1:Issuer>
-        <d2p1:Link>/de/de/s/de0007472060?wikifolio=wfpt78pt78</d2p1:Link>
-        <d2p1:LinkParameter>DE0007472060</d2p1:LinkParameter>
+        <d2p1:Link>/de/de/s/de0007474041?wikifolio=wfpt78pt78</d2p1:Link>
+        <d2p1:LinkParameter>DE0007474041</d2p1:LinkParameter>
         <d2p1:MainOrderId i:nil="true"/>
-        <d2p1:Name>WIRECARD AG</d2p1:Name>
-        <d2p1:OpenLinkInSameTab>true</d2p1:OpenLinkInSameTab>
-        <d2p1:OrderType>Buy</d2p1:OrderType>
-        <d2p1:Performance i:nil="true"/>
-        <d2p1:SecurityType>620</d2p1:SecurityType>
-        <d2p1:SubOrders/>
-        <d2p1:UnderlyingConcerned i:nil="true"/>
-        <d2p1:Weightage>0.03621546383914</d2p1:Weightage>
-      </d2p1:WikifolioTrade>
-      <d2p1:WikifolioTrade>
-        <d2p1:Cash i:nil="true"/>
-        <d2p1:CorporateActionType i:nil="true"/>
-        <d2p1:ExecutionDate>2020-01-16T09:17:23+01:00</d2p1:ExecutionDate>
-        <d2p1:ExecutionPrice>2.876</d2p1:ExecutionPrice>
-        <d2p1:Id>a952a8ae-1218-4ff3-bc41-90e872bba135</d2p1:Id>
-        <d2p1:InvestmentUniverseGroupId>414afbc2-0e2a-4fce-87fb-41e53b94f125</d2p1:InvestmentUniverseGroupId>
-        <d2p1:IsLeveraged>false</d2p1:IsLeveraged>
-        <d2p1:IsMainOrder>true</d2p1:IsMainOrder>
-        <d2p1:Isin>DE000TCAG172</d2p1:Isin>
-        <d2p1:Issuer>0</d2p1:Issuer>
-        <d2p1:Link>/de/de/s/de000tcag172?wikifolio=wfpt78pt78</d2p1:Link>
-        <d2p1:LinkParameter>DE000TCAG172</d2p1:LinkParameter>
-        <d2p1:MainOrderId i:nil="true"/>
-        <d2p1:Name>TELE COLUMBUS AG NA O.N.</d2p1:Name>
-        <d2p1:OpenLinkInSameTab>true</d2p1:OpenLinkInSameTab>
-        <d2p1:OrderType>Buy</d2p1:OrderType>
-        <d2p1:Performance i:nil="true"/>
-        <d2p1:SecurityType>620</d2p1:SecurityType>
-        <d2p1:SubOrders/>
-        <d2p1:UnderlyingConcerned i:nil="true"/>
-        <d2p1:Weightage>0.00821106300992</d2p1:Weightage>
-      </d2p1:WikifolioTrade>
-      <d2p1:WikifolioTrade>
-        <d2p1:Cash i:nil="true"/>
-        <d2p1:CorporateActionType i:nil="true"/>
-        <d2p1:ExecutionDate>2020-01-16T09:16:17+01:00</d2p1:ExecutionDate>
-        <d2p1:ExecutionPrice>2.888</d2p1:ExecutionPrice>
-        <d2p1:Id>a268b892-d1eb-4bca-bb7a-7e2ad2df0c45</d2p1:Id>
-        <d2p1:InvestmentUniverseGroupId>414afbc2-0e2a-4fce-87fb-41e53b94f125</d2p1:InvestmentUniverseGroupId>
-        <d2p1:IsLeveraged>false</d2p1:IsLeveraged>
-        <d2p1:IsMainOrder>true</d2p1:IsMainOrder>
-        <d2p1:Isin>DE000TCAG172</d2p1:Isin>
-        <d2p1:Issuer>0</d2p1:Issuer>
-        <d2p1:Link>/de/de/s/de000tcag172?wikifolio=wfpt78pt78</d2p1:Link>
-        <d2p1:LinkParameter>DE000TCAG172</d2p1:LinkParameter>
-        <d2p1:MainOrderId i:nil="true"/>
-        <d2p1:Name>TELE COLUMBUS AG NA O.N.</d2p1:Name>
-        <d2p1:OpenLinkInSameTab>true</d2p1:OpenLinkInSameTab>
-        <d2p1:OrderType>Buy</d2p1:OrderType>
-        <d2p1:Performance i:nil="true"/>
-        <d2p1:SecurityType>620</d2p1:SecurityType>
-        <d2p1:SubOrders/>
-        <d2p1:UnderlyingConcerned i:nil="true"/>
-        <d2p1:Weightage>0.01648991439589</d2p1:Weightage>
-      </d2p1:WikifolioTrade>
-      <d2p1:WikifolioTrade>
-        <d2p1:Cash i:nil="true"/>
-        <d2p1:CorporateActionType i:nil="true"/>
-        <d2p1:ExecutionDate>2020-01-16T09:14:02+01:00</d2p1:ExecutionDate>
-        <d2p1:ExecutionPrice>2.882</d2p1:ExecutionPrice>
-        <d2p1:Id>b3ccb714-362b-4f10-aecb-106a641f2d97</d2p1:Id>
-        <d2p1:InvestmentUniverseGroupId>414afbc2-0e2a-4fce-87fb-41e53b94f125</d2p1:InvestmentUniverseGroupId>
-        <d2p1:IsLeveraged>false</d2p1:IsLeveraged>
-        <d2p1:IsMainOrder>true</d2p1:IsMainOrder>
-        <d2p1:Isin>DE000TCAG172</d2p1:Isin>
-        <d2p1:Issuer>0</d2p1:Issuer>
-        <d2p1:Link>/de/de/s/de000tcag172?wikifolio=wfpt78pt78</d2p1:Link>
-        <d2p1:LinkParameter>DE000TCAG172</d2p1:LinkParameter>
-        <d2p1:MainOrderId i:nil="true"/>
-        <d2p1:Name>TELE COLUMBUS AG NA O.N.</d2p1:Name>
+        <d2p1:Name>PAUL HARTMANN AG</d2p1:Name>
         <d2p1:OpenLinkInSameTab>true</d2p1:OpenLinkInSameTab>
         <d2p1:OrderType>BuyLimit</d2p1:OrderType>
         <d2p1:Performance i:nil="true"/>
         <d2p1:SecurityType>620</d2p1:SecurityType>
         <d2p1:SubOrders/>
         <d2p1:UnderlyingConcerned i:nil="true"/>
-        <d2p1:Weightage>0.01642547536755</d2p1:Weightage>
-      </d2p1:WikifolioTrade>
-      <d2p1:WikifolioTrade>
-        <d2p1:Cash i:nil="true"/>
-        <d2p1:CorporateActionType i:nil="true"/>
-        <d2p1:ExecutionDate>2020-01-16T09:02:30+01:00</d2p1:ExecutionDate>
-        <d2p1:ExecutionPrice>2.972</d2p1:ExecutionPrice>
-        <d2p1:Id>b56e9c3b-0348-4e6c-b535-7d416ec6fc70</d2p1:Id>
-        <d2p1:InvestmentUniverseGroupId>414afbc2-0e2a-4fce-87fb-41e53b94f125</d2p1:InvestmentUniverseGroupId>
-        <d2p1:IsLeveraged>false</d2p1:IsLeveraged>
-        <d2p1:IsMainOrder>true</d2p1:IsMainOrder>
-        <d2p1:Isin>DE000TCAG172</d2p1:Isin>
-        <d2p1:Issuer>0</d2p1:Issuer>
-        <d2p1:Link>/de/de/s/de000tcag172?wikifolio=wfpt78pt78</d2p1:Link>
-        <d2p1:LinkParameter>DE000TCAG172</d2p1:LinkParameter>
-        <d2p1:MainOrderId i:nil="true"/>
-        <d2p1:Name>TELE COLUMBUS AG NA O.N.</d2p1:Name>
-        <d2p1:OpenLinkInSameTab>true</d2p1:OpenLinkInSameTab>
-        <d2p1:OrderType>BuyLimit</d2p1:OrderType>
-        <d2p1:Performance i:nil="true"/>
-        <d2p1:SecurityType>620</d2p1:SecurityType>
-        <d2p1:SubOrders/>
-        <d2p1:UnderlyingConcerned i:nil="true"/>
-        <d2p1:Weightage>0.01693841526452</d2p1:Weightage>
+        <d2p1:Weightage>0.01739472487577</d2p1:Weightage>
       </d2p1:WikifolioTrade>
     </d2p1:Orders>
-    <d2p1:PageCount>733</d2p1:PageCount>
+    <d2p1:PageCount>757</d2p1:PageCount>
   </TradeHistory>
 </WikifolioDetailTradeHistoryModel>
