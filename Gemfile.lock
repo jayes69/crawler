@@ -8,6 +8,7 @@ GEM
     event_bus (1.1.1)
     http-cookie (1.0.3)
       domain_name (~> 0.5)
+    logger (1.5.0)
     mail (2.7.1)
       mini_mime (>= 0.1.1)
     mechanize (2.7.6)
@@ -23,29 +24,34 @@ GEM
       mime-types-data (~> 3.2015)
     mime-types-data (3.2019.0331)
     mini_mime (1.0.1)
-    mini_portile2 (2.4.0)
     net-http-digest_auth (1.4.1)
     net-http-persistent (3.1.0)
       connection_pool (~> 2.2)
-    nokogiri (1.10.7-x64-mingw32)
-      mini_portile2 (~> 2.4.0)
+    nokogiri (1.13.2-x64-mingw32)
+      racc (~> 1.4)
+    nokogiri (1.13.2-x86_64-linux)
+      racc (~> 1.4)
     ntlm-http (0.1.1)
     open_uri_redirections (0.2.1)
+    racc (1.6.0)
     unf (0.1.4)
       unf_ext
+    unf_ext (0.0.7.5)
     unf_ext (0.0.7.5-x64-mingw32)
     webrobots (0.1.2)
 
 PLATFORMS
   x64-mingw32
+  x86_64-linux
 
 DEPENDENCIES
   diffy
   event_bus
   http-cookie
+  logger
   mail
   mechanize
-  nokogiri (~> 1.10, >= 1.10.7)
+  nokogiri (~> 1.13)
   open_uri_redirections
 
 BUNDLED WITH
